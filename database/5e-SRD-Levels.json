@@ -7,11 +7,11 @@
     "features": [
       {
         "name": "Rage",
-        "url": "http://www.dnd5eapi.co/api/features/1"
+        "id": "dnd:5e:features:1"
       },
       {
         "name": "Unarmored Defense",
-        "url": "http://www.dnd5eapi.co/api/features/2"
+        "id": "dnd:5e:features:2"
       }
     ],
     "class_specific": {
@@ -19,13 +19,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 1,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/1"
+    "id": "dnd:5e:classes:1:level:1"
   },
   {
     "level": 2,
@@ -35,11 +34,11 @@
     "features": [
       {
         "name": "Reckless Attack",
-        "url": "http://www.dnd5eapi.co/api/features/3"
+        "id": "dnd:5e:features:3"
       },
       {
         "name": "Danger Sense",
-        "url": "http://www.dnd5eapi.co/api/features/4"
+        "id": "dnd:5e:features:4"
       }
     ],
     "class_specific": {
@@ -47,13 +46,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 2,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/2"
+    "id": "dnd:5e:classes:1:level:2"
   },
   {
     "level": 3,
@@ -63,7 +61,7 @@
     "features": [
       {
         "name": "Primal Path",
-        "url": "http://www.dnd5eapi.co/api/features/5"
+        "id": "dnd:5e:features:5"
       }
     ],
     "class_specific": {
@@ -71,13 +69,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 3,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/3"
+    "id": "dnd:5e:classes:1:level:3"
   },
   {
     "level": 4,
@@ -87,7 +84,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/7"
+        "id": "dnd:5e:features:7"
       }
     ],
     "class_specific": {
@@ -95,13 +92,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 4,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/4"
+    "id": "dnd:5e:classes:1:level:4"
   },
   {
     "level": 5,
@@ -111,11 +107,11 @@
     "features": [
       {
         "name": "Extra Attack",
-        "url": "http://www.dnd5eapi.co/api/features/8"
+        "id": "dnd:5e:features:8"
       },
       {
         "name": "Fast Movement",
-        "url": "http://www.dnd5eapi.co/api/features/9"
+        "id": "dnd:5e:features:9"
       }
     ],
     "class_specific": {
@@ -123,13 +119,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 5,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/5"
+    "id": "dnd:5e:classes:1:level:5"
   },
   {
     "level": 6,
@@ -143,13 +138,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 6,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/6"
+    "id": "dnd:5e:classes:1:level:6"
   },
   {
     "level": 7,
@@ -159,7 +153,7 @@
     "features": [
       {
         "name": "Mindless Rage",
-        "url": "http://www.dnd5eapi.co/api/features/10"
+        "id": "dnd:5e:features:10"
       }
     ],
     "spellcasting": {},
@@ -168,13 +162,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 7,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/7"
+    "id": "dnd:5e:classes:1:level:7"
   },
   {
     "level": 8,
@@ -184,7 +177,7 @@
     "features": [
       {
         "name": "Feral Instinct",
-        "url": "http://www.dnd5eapi.co/api/features/11"
+        "id": "dnd:5e:features:11"
       }
     ],
     "spellcasting": {},
@@ -193,13 +186,12 @@
       "rage_damage_bonus": 2,
       "brutal_critical_dice": 0
     },
-    "index": 8,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/8"
+    "id": "dnd:5e:classes:1:level:8"
   },
   {
     "level": 9,
@@ -209,7 +201,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/12"
+        "id": "dnd:5e:features:12"
       }
     ],
     "spellcasting": {},
@@ -218,13 +210,12 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": 9,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/9"
+    "id": "dnd:5e:classes:1:level:9"
   },
   {
     "level": 10,
@@ -238,13 +229,12 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": 10,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/10"
+    "id": "dnd:5e:classes:1:level:10"
   },
   {
     "level": 11,
@@ -254,7 +244,7 @@
     "features": [
       {
         "name": "Relentless Rage",
-        "url": "http://www.dnd5eapi.co/api/features/15"
+        "id": "dnd:5e:features:15"
       }
     ],
     "spellcasting": {},
@@ -263,13 +253,12 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": 11,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/11"
+    "id": "dnd:5e:classes:1:level:11"
   },
   {
     "level": 12,
@@ -279,7 +268,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/16"
+        "id": "dnd:5e:features:16"
       }
     ],
     "class_specific": {
@@ -287,13 +276,12 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 1
     },
-    "index": 12,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/12"
+    "id": "dnd:5e:classes:1:level:12"
   },
   {
     "level": 13,
@@ -303,7 +291,7 @@
     "features": [
       {
         "name": "Brutal Critical (2 dice)",
-        "url": "http://www.dnd5eapi.co/api/features/17"
+        "id": "dnd:5e:features:17"
       }
     ],
     "class_specific": {
@@ -311,13 +299,12 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
-    "index": 13,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/13"
+    "id": "dnd:5e:classes:1:level:13"
   },
   {
     "level": 14,
@@ -330,13 +317,12 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
-    "index": 14,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/14"
+    "id": "dnd:5e:classes:1:level:14"
   },
   {
     "level": 15,
@@ -346,7 +332,7 @@
     "features": [
       {
         "name": "Persistent Rage",
-        "url": "http://www.dnd5eapi.co/api/features/19"
+        "id": "dnd:5e:features:19"
       }
     ],
     "class_specific": {
@@ -354,13 +340,12 @@
       "rage_damage_bonus": 3,
       "brutal_critical_dice": 2
     },
-    "index": 15,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/15"
+    "id": "dnd:5e:classes:1:level:15"
   },
   {
     "level": 16,
@@ -370,7 +355,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/20"
+        "id": "dnd:5e:features:20"
       }
     ],
     "class_specific": {
@@ -378,13 +363,12 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 2
     },
-    "index": 16,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/16"
+    "id": "dnd:5e:classes:1:level:16"
   },
   {
     "level": 17,
@@ -394,7 +378,7 @@
     "features": [
       {
         "name": "Brutal Critical (3 dice)",
-        "url": "http://www.dnd5eapi.co/api/features/21"
+        "id": "dnd:5e:features:21"
       }
     ],
     "class_specific": {
@@ -402,13 +386,12 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": 17,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/17"
+    "id": "dnd:5e:classes:1:level:17"
   },
   {
     "level": 18,
@@ -418,7 +401,7 @@
     "features": [
       {
         "name": "Indomitable Might",
-        "url": "http://www.dnd5eapi.co/api/features/22"
+        "id": "dnd:5e:features:22"
       }
     ],
     "class_specific": {
@@ -426,13 +409,12 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": 18,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/18"
+    "id": "dnd:5e:classes:1:level:18"
   },
   {
     "level": 19,
@@ -442,7 +424,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/23"
+        "id": "dnd:5e:features:23"
       }
     ],
     "class_specific": {
@@ -450,13 +432,12 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": 19,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/19"
+    "id": "dnd:5e:classes:1:level:19"
   },
   {
     "level": 20,
@@ -466,7 +447,7 @@
     "features": [
       {
         "name": "Fast Movement",
-        "url": "http://www.dnd5eapi.co/api/features/24"
+        "id": "dnd:5e:features:24"
       }
     ],
     "class_specific": {
@@ -474,13 +455,12 @@
       "rage_damage_bonus": 4,
       "brutal_critical_dice": 3
     },
-    "index": 20,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/barbarian/level/20"
+    "id": "dnd:5e:classes:1:level:20"
   },
   {
     "level": 1,
@@ -490,15 +470,15 @@
     "features": [
       {
         "name": "Spellcasting",
-        "url": "http://www.dnd5eapi.co/api/features/25"
+        "id": "dnd:5e:features:25"
       },
       {
         "name": "Bardic Inspiration (d6)",
-        "url": "http://www.dnd5eapi.co/api/features/26"
+        "id": "dnd:5e:features:26"
       },
       {
         "name": "Superior Inspiration",
-        "url": "http://www.dnd5eapi.co/api/features/70"
+        "id": "dnd:5e:features:70"
       }
     ],
     "spellcasting": {
@@ -521,13 +501,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 21,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/1"
+    "id": "dnd:5e:classes:bard:level:1"
   },
   {
     "level": 2,
@@ -537,11 +516,11 @@
     "features": [
       {
         "name": "Jack of All Trades",
-        "url": "http://www.dnd5eapi.co/api/features/27"
+        "id": "dnd:5e:features:27"
       },
       {
         "name": "Song of Rest (d6)",
-        "url": "http://www.dnd5eapi.co/api/features/28"
+        "id": "dnd:5e:features:28"
       }
     ],
     "spellcasting": {
@@ -564,13 +543,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 22,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/2"
+    "id": "dnd:5e:classes:bard:level:2"
   },
   {
     "level": 3,
@@ -579,13 +557,13 @@
     "feature_choices": [
       {
         "name": "Choose: Expertise 1",
-        "url": "http://www.dnd5eapi.co/api/features/32"
+        "id": "dnd:5e:features:32"
       }
     ],
     "features": [
       {
         "name": "Bard College",
-        "url": "http://www.dnd5eapi.co/api/features/29"
+        "id": "dnd:5e:features:29"
       }
     ],
     "spellcasting": {
@@ -608,13 +586,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 23,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/3"
+    "id": "dnd:5e:classes:bard:level:3"
   },
   {
     "level": 4,
@@ -624,7 +601,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/51"
+        "id": "dnd:5e:features:51"
       }
     ],
     "spellcasting": {
@@ -647,13 +624,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 24,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/4"
+    "id": "dnd:5e:classes:bard:level:4"
   },
   {
     "level": 5,
@@ -663,11 +639,11 @@
     "features": [
       {
         "name": "Bardic Inspiration (d8)",
-        "url": "http://www.dnd5eapi.co/api/features/52"
+        "id": "dnd:5e:features:52"
       },
       {
         "name": "Font of Inspiration",
-        "url": "http://www.dnd5eapi.co/api/features/53"
+        "id": "dnd:5e:features:53"
       }
     ],
     "spellcasting": {
@@ -690,13 +666,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 25,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/5"
+    "id": "dnd:5e:classes:bard:level:5"
   },
   {
     "level": 6,
@@ -724,13 +699,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 26,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/6"
+    "id": "dnd:5e:classes:bard:level:6"
   },
   {
     "level": 7,
@@ -740,7 +714,7 @@
     "features": [
       {
         "name": "Countercharm",
-        "url": "http://www.dnd5eapi.co/api/features/54"
+        "id": "dnd:5e:features:54"
       }
     ],
     "spellcasting": {
@@ -763,13 +737,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 27,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/7"
+    "id": "dnd:5e:classes:bard:level:7"
   },
   {
     "level": 8,
@@ -778,7 +751,7 @@
     "feature_choices": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/56"
+        "id": "dnd:5e:features:56"
       }
     ],
     "features": [],
@@ -802,13 +775,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 28,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/8"
+    "id": "dnd:5e:classes:bard:level:8"
   },
   {
     "level": 9,
@@ -818,7 +790,7 @@
     "features": [
       {
         "name": "Song of Rest (d8)",
-        "url": "http://www.dnd5eapi.co/api/features/57"
+        "id": "dnd:5e:features:57"
       }
     ],
     "spellcasting": {
@@ -841,13 +813,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 29,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/9"
+    "id": "dnd:5e:classes:bard:level:9"
   },
   {
     "level": 10,
@@ -856,17 +827,17 @@
     "feature_choices": [
       {
         "name": "Choose: Expertise 2",
-        "url": "http://www.dnd5eapi.co/api/features/59"
+        "id": "dnd:5e:features:59"
       }
     ],
     "features": [
       {
         "name": "Bardic Inspiration (d10)",
-        "url": "http://www.dnd5eapi.co/api/features/58"
+        "id": "dnd:5e:features:58"
       },
       {
         "name": "Magical Secrets 1",
-        "url": "http://www.dnd5eapi.co/api/features/60"
+        "id": "dnd:5e:features:60"
       }
     ],
     "spellcasting": {
@@ -889,13 +860,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 30,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/10"
+    "id": "dnd:5e:classes:bard:level:10"
   },
   {
     "level": 11,
@@ -923,13 +893,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 31,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/11"
+    "id": "dnd:5e:classes:bard:level:11"
   },
   {
     "level": 12,
@@ -939,7 +908,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/61"
+        "id": "dnd:5e:features:61"
       }
     ],
     "spellcasting": {
@@ -962,13 +931,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 32,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/12"
+    "id": "dnd:5e:classes:bard:level:12"
   },
   {
     "level": 13,
@@ -978,7 +946,7 @@
     "features": [
       {
         "name": "Song of Rest (d10)",
-        "url": "http://www.dnd5eapi.co/api/features/62"
+        "id": "dnd:5e:features:62"
       }
     ],
     "spellcasting": {
@@ -1001,13 +969,12 @@
       "magical_secrets_max_7": 0,
       "magical_secrets_max_9": 0
     },
-    "index": 33,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/13"
+    "id": "dnd:5e:classes:bard:level:13"
   },
   {
     "level": 14,
@@ -1017,7 +984,7 @@
     "features": [
       {
         "name": "Magical Secrets 2",
-        "url": "http://www.dnd5eapi.co/api/features/63"
+        "id": "dnd:5e:features:63"
       }
     ],
     "spellcasting": {
@@ -1040,13 +1007,12 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": 34,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/14"
+    "id": "dnd:5e:classes:bard:level:14"
   },
   {
     "level": 15,
@@ -1056,7 +1022,7 @@
     "features": [
       {
         "name": "Bardic Inspiration (d12)",
-        "url": "http://www.dnd5eapi.co/api/features/65"
+        "id": "dnd:5e:features:65"
       }
     ],
     "spellcasting": {
@@ -1079,13 +1045,12 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": 35,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/15"
+    "id": "dnd:5e:classes:bard:level:15"
   },
   {
     "level": 16,
@@ -1095,7 +1060,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/66"
+        "id": "dnd:5e:features:66"
       }
     ],
     "spellcasting": {
@@ -1118,13 +1083,12 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": 36,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/16"
+    "id": "dnd:5e:classes:bard:level:16"
   },
   {
     "level": 17,
@@ -1134,7 +1098,7 @@
     "features": [
       {
         "name": "Song of Rest (d12)",
-        "url": "http://www.dnd5eapi.co/api/features/67"
+        "id": "dnd:5e:features:67"
       }
     ],
     "spellcasting": {
@@ -1157,13 +1121,12 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 0
     },
-    "index": 37,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/17"
+    "id": "dnd:5e:classes:bard:level:17"
   },
   {
     "level": 18,
@@ -1173,7 +1136,7 @@
     "features": [
       {
         "name": "Magical Secrets 3",
-        "url": "http://www.dnd5eapi.co/api/features/68"
+        "id": "dnd:5e:features:68"
       }
     ],
     "spellcasting": {
@@ -1196,13 +1159,12 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 2
     },
-    "index": 38,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/18"
+    "id": "dnd:5e:classes:bard:level:18"
   },
   {
     "level": 19,
@@ -1212,7 +1174,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/69"
+        "id": "dnd:5e:features:69"
       }
     ],
     "spellcasting": {
@@ -1235,13 +1197,12 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 2
     },
-    "index": 39,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/19"
+    "id": "dnd:5e:classes:bard:level:19"
   },
   {
     "level": 20,
@@ -1251,7 +1212,7 @@
     "features": [
       {
         "name": "Superior Inspiration",
-        "url": "http://www.dnd5eapi.co/api/features/70"
+        "id": "dnd:5e:features:70"
       }
     ],
     "spellcasting": {
@@ -1274,13 +1235,12 @@
       "magical_secrets_max_7": 2,
       "magical_secrets_max_9": 2
     },
-    "index": 40,
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/bard/level/20"
+    "id": "dnd:5e:classes:bard:level:20"
   },
   {
     "level": 1,
@@ -1290,15 +1250,15 @@
     "features": [
       {
         "name": "Spellcasting",
-        "url": "http://www.dnd5eapi.co/api/features/71"
+        "id": "dnd:5e:features:71"
       },
       {
         "name": "Divine Domain",
-        "url": "http://www.dnd5eapi.co/api/features/72"
+        "id": "dnd:5e:features:72"
       },
       {
         "name": "Domain Spells 1",
-        "url": "http://www.dnd5eapi.co/api/features/73"
+        "id": "dnd:5e:features:73"
       }
     ],
     "spellcasting": {
@@ -1318,13 +1278,12 @@
       "channel_divinity_charges": 0,
       "destroy_undead_cr": 0
     },
-    "index": 41,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/1"
+    "id": "dnd:5e:classes:cleric:level:1"
   },
   {
     "level": 2,
@@ -1334,11 +1293,11 @@
     "features": [
       {
         "name": "Channel Divinity (1/rest)",
-        "url": "http://www.dnd5eapi.co/api/features/76"
+        "id": "dnd:5e:features:76"
       },
       {
         "name": "Channel Divinity: Turn Undead",
-        "url": "http://www.dnd5eapi.co/api/features/77"
+        "id": "dnd:5e:features:77"
       }
     ],
     "spellcasting": {
@@ -1358,13 +1317,12 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0
     },
-    "index": 42,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/2"
+    "id": "dnd:5e:classes:cleric:level:2"
   },
   {
     "level": 3,
@@ -1374,7 +1332,7 @@
     "features": [
       {
         "name": "Domain Spells 2",
-        "url": "http://www.dnd5eapi.co/api/features/79"
+        "id": "dnd:5e:features:79"
       }
     ],
     "spellcasting": {
@@ -1394,13 +1352,12 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0
     },
-    "index": 43,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/3"
+    "id": "dnd:5e:classes:cleric:level:3"
   },
   {
     "level": 4,
@@ -1410,7 +1367,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/80"
+        "id": "dnd:5e:features:80"
       }
     ],
     "spellcasting": {
@@ -1430,13 +1387,12 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0
     },
-    "index": 44,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/4"
+    "id": "dnd:5e:classes:cleric:level:4"
   },
   {
     "level": 5,
@@ -1446,11 +1402,11 @@
     "features": [
       {
         "name": "Domain Spells 3",
-        "url": "http://www.dnd5eapi.co/api/features/81"
+        "id": "dnd:5e:features:81"
       },
       {
         "name": "Destroy Undead (CR 1/2 or below)",
-        "url": "http://www.dnd5eapi.co/api/features/82"
+        "id": "dnd:5e:features:82"
       }
     ],
     "spellcasting": {
@@ -1470,13 +1426,12 @@
       "channel_divinity_charges": 1,
       "destroy_undead_cr": 0.5
     },
-    "index": 45,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/5"
+    "id": "dnd:5e:classes:cleric:level:5"
   },
   {
     "level": 6,
@@ -1486,7 +1441,7 @@
     "features": [
       {
         "name": "Channel Divinity (2/rest)",
-        "url": "http://www.dnd5eapi.co/api/features/83"
+        "id": "dnd:5e:features:83"
       }
     ],
     "spellcasting": {
@@ -1506,13 +1461,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 0.5
     },
-    "index": 46,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/6"
+    "id": "dnd:5e:classes:cleric:level:6"
   },
   {
     "level": 7,
@@ -1522,7 +1476,7 @@
     "features": [
       {
         "name": "Domain Spells 4",
-        "url": "http://www.dnd5eapi.co/api/features/85"
+        "id": "dnd:5e:features:85"
       }
     ],
     "spellcasting": {
@@ -1542,13 +1496,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 0.5
     },
-    "index": 47,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/7"
+    "id": "dnd:5e:classes:cleric:level:7"
   },
   {
     "level": 8,
@@ -1558,11 +1511,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/86"
+        "id": "dnd:5e:features:86"
       },
       {
         "name": "Destroy Undead (CR 1 or below)",
-        "url": "http://www.dnd5eapi.co/api/features/87"
+        "id": "dnd:5e:features:87"
       }
     ],
     "spellcasting": {
@@ -1582,13 +1535,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 1
     },
-    "index": 48,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/8"
+    "id": "dnd:5e:classes:cleric:level:8"
   },
   {
     "level": 9,
@@ -1598,7 +1550,7 @@
     "features": [
       {
         "name": "Domain Spells 5",
-        "url": "http://www.dnd5eapi.co/api/features/89"
+        "id": "dnd:5e:features:89"
       }
     ],
     "spellcasting": {
@@ -1618,13 +1570,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 1
     },
-    "index": 49,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/9"
+    "id": "dnd:5e:classes:cleric:level:9"
   },
   {
     "level": 10,
@@ -1634,7 +1585,7 @@
     "features": [
       {
         "name": "Divine Intervention",
-        "url": "http://www.dnd5eapi.co/api/features/90"
+        "id": "dnd:5e:features:90"
       }
     ],
     "spellcasting": {
@@ -1654,13 +1605,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 1
     },
-    "index": 50,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/10"
+    "id": "dnd:5e:classes:cleric:level:10"
   },
   {
     "level": 11,
@@ -1670,7 +1620,7 @@
     "features": [
       {
         "name": "Destroy Undead (CR 2 or below)",
-        "url": "http://www.dnd5eapi.co/api/features/91"
+        "id": "dnd:5e:features:91"
       }
     ],
     "spellcasting": {
@@ -1690,13 +1640,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 2
     },
-    "index": 51,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/11"
+    "id": "dnd:5e:classes:cleric:level:11"
   },
   {
     "level": 12,
@@ -1706,7 +1655,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/92"
+        "id": "dnd:5e:features:92"
       }
     ],
     "spellcasting": {
@@ -1726,13 +1675,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 2
     },
-    "index": 52,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/12"
+    "id": "dnd:5e:classes:cleric:level:12"
   },
   {
     "level": 13,
@@ -1757,13 +1705,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 2
     },
-    "index": 53,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/13"
+    "id": "dnd:5e:classes:cleric:level:13"
   },
   {
     "level": 14,
@@ -1773,7 +1720,7 @@
     "features": [
       {
         "name": "Destroy Undead (CR 3 or below)",
-        "url": "http://www.dnd5eapi.co/api/features/93"
+        "id": "dnd:5e:features:93"
       }
     ],
     "spellcasting": {
@@ -1793,13 +1740,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 3
     },
-    "index": 54,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/14"
+    "id": "dnd:5e:classes:cleric:level:14"
   },
   {
     "level": 15,
@@ -1824,13 +1770,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 3
     },
-    "index": 55,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/15"
+    "id": "dnd:5e:classes:cleric:level:15"
   },
   {
     "level": 16,
@@ -1840,7 +1785,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/94"
+        "id": "dnd:5e:features:94"
       }
     ],
     "spellcasting": {
@@ -1860,13 +1805,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 3
     },
-    "index": 56,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/16"
+    "id": "dnd:5e:classes:cleric:level:16"
   },
   {
     "level": 17,
@@ -1876,11 +1820,11 @@
     "features": [
       {
         "name": "Destroy Undead (CR 4 or below)",
-        "url": "http://www.dnd5eapi.co/api/features/95"
+        "id": "dnd:5e:features:95"
       },
       {
         "name": "Supreme Healing",
-        "url": "http://www.dnd5eapi.co/api/features/96"
+        "id": "dnd:5e:features:96"
       }
     ],
     "spellcasting": {
@@ -1900,13 +1844,12 @@
       "channel_divinity_charges": 2,
       "destroy_undead_cr": 4
     },
-    "index": 57,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/17"
+    "id": "dnd:5e:classes:cleric:level:17"
   },
   {
     "level": 18,
@@ -1916,7 +1859,7 @@
     "features": [
       {
         "name": "Channel Divinity (3/rest)",
-        "url": "http://www.dnd5eapi.co/api/features/97"
+        "id": "dnd:5e:features:97"
       }
     ],
     "spellcasting": {
@@ -1936,13 +1879,12 @@
       "channel_divinity_charges": 3,
       "destroy_undead_cr": 4
     },
-    "index": 58,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/18"
+    "id": "dnd:5e:classes:cleric:level:18"
   },
   {
     "level": 19,
@@ -1952,7 +1894,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/98"
+        "id": "dnd:5e:features:98"
       }
     ],
     "spellcasting": {
@@ -1972,13 +1914,12 @@
       "channel_divinity_charges": 3,
       "destroy_undead_cr": 4
     },
-    "index": 59,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/19"
+    "id": "dnd:5e:classes:cleric:level:19"
   },
   {
     "level": 20,
@@ -1988,7 +1929,7 @@
     "features": [
       {
         "name": "Divine Intervention Improvement",
-        "url": "http://www.dnd5eapi.co/api/features/99"
+        "id": "dnd:5e:features:99"
       }
     ],
     "spellcasting": {
@@ -2008,13 +1949,12 @@
       "channel_divinity_charges": 3,
       "destroy_undead_cr": 4
     },
-    "index": 60,
     "class": {
       "name": "Cleric",
-      "url": "http://www.dnd5eapi.co/api/classes/cleric"
+      "id": "dnd:5e:classes:cleric"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/cleric/level/20"
+    "id": "dnd:5e:classes:cleric:level:20"
   },
   {
     "level": 1,
@@ -2024,11 +1964,11 @@
     "features": [
       {
         "name": "Spellcasting",
-        "url": "http://www.dnd5eapi.co/api/features/100"
+        "id": "dnd:5e:features:100"
       },
       {
         "name": "Druidic",
-        "url": "http://www.dnd5eapi.co/api/features/101"
+        "id": "dnd:5e:features:101"
       }
     ],
     "spellcasting": {
@@ -2048,13 +1988,12 @@
       "wild_shape_swim": "no",
       "wild_shape_fly": "no"
     },
-    "index": 61,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/1"
+    "id": "dnd:5e:classes:druid:level:1"
   },
   {
     "level": 2,
@@ -2064,11 +2003,11 @@
     "features": [
       {
         "name": "Wild Shape (CR 1/4 or below, no flying or swim speed)",
-        "url": "http://www.dnd5eapi.co/api/features/102"
+        "id": "dnd:5e:features:102"
       },
       {
         "name": "Druid Circle",
-        "url": "http://www.dnd5eapi.co/api/features/103"
+        "id": "dnd:5e:features:103"
       }
     ],
     "spellcasting": {
@@ -2088,13 +2027,12 @@
       "wild_shape_swim": "no",
       "wild_shape_fly": "no"
     },
-    "index": 62,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/2"
+    "id": "dnd:5e:classes:druid:level:2"
   },
   {
     "level": 3,
@@ -2119,13 +2057,12 @@
       "wild_shape_swim": "no",
       "wild_shape_fly": "no"
     },
-    "index": 63,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/3"
+    "id": "dnd:5e:classes:druid:level:3"
   },
   {
     "level": 4,
@@ -2135,11 +2072,11 @@
     "features": [
       {
         "name": "Wild Shape (CR 1/2 or below, no flying speed)",
-        "url": "http://www.dnd5eapi.co/api/features/115"
+        "id": "dnd:5e:features:115"
       },
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/116"
+        "id": "dnd:5e:features:116"
       }
     ],
     "spellcasting": {
@@ -2159,13 +2096,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "no"
     },
-    "index": 64,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/4"
+    "id": "dnd:5e:classes:druid:level:4"
   },
   {
     "level": 5,
@@ -2190,13 +2126,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "no"
     },
-    "index": 65,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/5"
+    "id": "dnd:5e:classes:druid:level:5"
   },
   {
     "level": 6,
@@ -2221,13 +2156,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "no"
     },
-    "index": 66,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/6"
+    "id": "dnd:5e:classes:druid:level:6"
   },
   {
     "level": 7,
@@ -2252,13 +2186,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "no"
     },
-    "index": 67,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/7"
+    "id": "dnd:5e:classes:druid:level:7"
   },
   {
     "level": 8,
@@ -2268,11 +2201,11 @@
     "features": [
       {
         "name": "Wild Shape (CR 1 or below)",
-        "url": "http://www.dnd5eapi.co/api/features/120"
+        "id": "dnd:5e:features:120"
       },
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/121"
+        "id": "dnd:5e:features:121"
       }
     ],
     "spellcasting": {
@@ -2292,13 +2225,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 68,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/8"
+    "id": "dnd:5e:classes:druid:level:8"
   },
   {
     "level": 9,
@@ -2323,13 +2255,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 69,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/9"
+    "id": "dnd:5e:classes:druid:level:9"
   },
   {
     "level": 10,
@@ -2354,13 +2285,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 70,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/10"
+    "id": "dnd:5e:classes:druid:level:10"
   },
   {
     "level": 11,
@@ -2385,13 +2315,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 71,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/11"
+    "id": "dnd:5e:classes:druid:level:11"
   },
   {
     "level": 12,
@@ -2401,7 +2330,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/124"
+        "id": "dnd:5e:features:124"
       }
     ],
     "spellcasting": {
@@ -2421,13 +2350,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 72,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/12"
+    "id": "dnd:5e:classes:druid:level:12"
   },
   {
     "level": 13,
@@ -2452,13 +2380,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 73,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/13"
+    "id": "dnd:5e:classes:druid:level:13"
   },
   {
     "level": 14,
@@ -2483,13 +2410,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 74,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/14"
+    "id": "dnd:5e:classes:druid:level:14"
   },
   {
     "level": 15,
@@ -2514,13 +2440,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 75,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/15"
+    "id": "dnd:5e:classes:druid:level:15"
   },
   {
     "level": 16,
@@ -2530,7 +2455,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/126"
+        "id": "dnd:5e:features:126"
       }
     ],
     "spellcasting": {
@@ -2550,13 +2475,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 76,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/16"
+    "id": "dnd:5e:classes:druid:level:16"
   },
   {
     "level": 17,
@@ -2581,13 +2505,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 77,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/17"
+    "id": "dnd:5e:classes:druid:level:17"
   },
   {
     "level": 18,
@@ -2597,11 +2520,11 @@
     "features": [
       {
         "name": "Timeless Body",
-        "url": "http://www.dnd5eapi.co/api/features/127"
+        "id": "dnd:5e:features:127"
       },
       {
         "name": "Beast Spells",
-        "url": "http://www.dnd5eapi.co/api/features/128"
+        "id": "dnd:5e:features:128"
       }
     ],
     "spellcasting": {
@@ -2621,13 +2544,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 78,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/18"
+    "id": "dnd:5e:classes:druid:level:18"
   },
   {
     "level": 19,
@@ -2637,7 +2559,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/129"
+        "id": "dnd:5e:features:129"
       }
     ],
     "spellcasting": {
@@ -2657,13 +2579,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 79,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/19"
+    "id": "dnd:5e:classes:druid:level:19"
   },
   {
     "level": 20,
@@ -2673,7 +2594,7 @@
     "features": [
       {
         "name": "Archdruid",
-        "url": "http://www.dnd5eapi.co/api/features/130"
+        "id": "dnd:5e:features:130"
       }
     ],
     "spellcasting": {
@@ -2693,13 +2614,12 @@
       "wild_shape_swim": "yes",
       "wild_shape_fly": "yes"
     },
-    "index": 80,
     "class": {
       "name": "Druid",
-      "url": "http://www.dnd5eapi.co/api/classes/druid"
+      "id": "dnd:5e:classes:druid"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/druid/level/20"
+    "id": "dnd:5e:classes:druid:level:20"
   },
   {
     "level": 1,
@@ -2708,13 +2628,13 @@
     "feature_choices": [
       {
         "name": "Choose: Fighting Style",
-        "url": "http://www.dnd5eapi.co/api/features/131"
+        "id": "dnd:5e:features:131"
       }
     ],
     "features": [
       {
         "name": "Second Wind",
-        "url": "http://www.dnd5eapi.co/api/features/138"
+        "id": "dnd:5e:features:138"
       }
     ],
     "spellcasting": {},
@@ -2723,13 +2643,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": 81,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/1"
+    "id": "dnd:5e:classes:fighter:level:1"
   },
   {
     "level": 2,
@@ -2739,11 +2658,11 @@
     "features": [
       {
         "name": "Action Surge (1 use)",
-        "url": "http://www.dnd5eapi.co/api/features/139"
+        "id": "dnd:5e:features:139"
       },
       {
         "name": "Action Surge (2 uses)",
-        "url": "http://www.dnd5eapi.co/api/features/155"
+        "id": "dnd:5e:features:155"
       }
     ],
     "spellcasting": {},
@@ -2752,13 +2671,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": 82,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/2"
+    "id": "dnd:5e:classes:fighter:level:2"
   },
   {
     "level": 3,
@@ -2768,7 +2686,7 @@
     "features": [
       {
         "name": "Martial Archetype",
-        "url": "http://www.dnd5eapi.co/api/features/140"
+        "id": "dnd:5e:features:140"
       }
     ],
     "spellcasting": {},
@@ -2777,13 +2695,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": 83,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/3"
+    "id": "dnd:5e:classes:fighter:level:3"
   },
   {
     "level": 4,
@@ -2793,7 +2710,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/142"
+        "id": "dnd:5e:features:142"
       }
     ],
     "spellcasting": {},
@@ -2802,13 +2719,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 0
     },
-    "index": 84,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/4"
+    "id": "dnd:5e:classes:fighter:level:4"
   },
   {
     "level": 5,
@@ -2818,7 +2734,7 @@
     "features": [
       {
         "name": "Extra Attack (1)",
-        "url": "http://www.dnd5eapi.co/api/features/143"
+        "id": "dnd:5e:features:143"
       }
     ],
     "spellcasting": {},
@@ -2827,13 +2743,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": 85,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/5"
+    "id": "dnd:5e:classes:fighter:level:5"
   },
   {
     "level": 6,
@@ -2843,7 +2758,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/144"
+        "id": "dnd:5e:features:144"
       }
     ],
     "spellcasting": {},
@@ -2852,13 +2767,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": 86,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/6"
+    "id": "dnd:5e:classes:fighter:level:6"
   },
   {
     "level": 7,
@@ -2872,13 +2786,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": 87,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/7"
+    "id": "dnd:5e:classes:fighter:level:7"
   },
   {
     "level": 8,
@@ -2888,7 +2801,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/146"
+        "id": "dnd:5e:features:146"
       }
     ],
     "spellcasting": {},
@@ -2897,13 +2810,12 @@
       "indomitable_uses": 0,
       "extra_attacks": 1
     },
-    "index": 88,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/8"
+    "id": "dnd:5e:classes:fighter:level:8"
   },
   {
     "level": 9,
@@ -2913,7 +2825,7 @@
     "features": [
       {
         "name": "Indomitable (1 use)",
-        "url": "http://www.dnd5eapi.co/api/features/147"
+        "id": "dnd:5e:features:147"
       }
     ],
     "spellcasting": {},
@@ -2922,13 +2834,12 @@
       "indomitable_uses": 1,
       "extra_attacks": 1
     },
-    "index": 89,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/9"
+    "id": "dnd:5e:classes:fighter:level:9"
   },
   {
     "level": 10,
@@ -2942,13 +2853,12 @@
       "indomitable_uses": 1,
       "extra_attacks": 1
     },
-    "index": 90,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/10"
+    "id": "dnd:5e:classes:fighter:level:10"
   },
   {
     "level": 11,
@@ -2958,7 +2868,7 @@
     "features": [
       {
         "name": "Extra Attack (2)",
-        "url": "http://www.dnd5eapi.co/api/features/149"
+        "id": "dnd:5e:features:149"
       }
     ],
     "spellcasting": {},
@@ -2967,13 +2877,12 @@
       "indomitable_uses": 1,
       "extra_attacks": 2
     },
-    "index": 91,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/11"
+    "id": "dnd:5e:classes:fighter:level:11"
   },
   {
     "level": 12,
@@ -2983,7 +2892,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/150"
+        "id": "dnd:5e:features:150"
       }
     ],
     "spellcasting": {},
@@ -2992,13 +2901,12 @@
       "indomitable_uses": 1,
       "extra_attacks": 2
     },
-    "index": 92,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/12"
+    "id": "dnd:5e:classes:fighter:level:12"
   },
   {
     "level": 13,
@@ -3008,7 +2916,7 @@
     "features": [
       {
         "name": "Indomitable (2 uses)",
-        "url": "http://www.dnd5eapi.co/api/features/151"
+        "id": "dnd:5e:features:151"
       }
     ],
     "spellcasting": {},
@@ -3017,13 +2925,12 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": 93,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/13"
+    "id": "dnd:5e:classes:fighter:level:13"
   },
   {
     "level": 14,
@@ -3033,7 +2940,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/152"
+        "id": "dnd:5e:features:152"
       }
     ],
     "spellcasting": {},
@@ -3042,13 +2949,12 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": 94,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/f/14"
+    "id": "dnd:5e:classes:f:14"
   },
   {
     "level": 15,
@@ -3062,13 +2968,12 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": 95,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/15"
+    "id": "dnd:5e:classes:fighter:level:15"
   },
   {
     "level": 16,
@@ -3078,7 +2983,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 6",
-        "url": "http://www.dnd5eapi.co/api/features/154"
+        "id": "dnd:5e:features:154"
       }
     ],
     "spellcasting": {},
@@ -3087,13 +2992,12 @@
       "indomitable_uses": 2,
       "extra_attacks": 2
     },
-    "index": 96,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/16"
+    "id": "dnd:5e:classes:fighter:level:16"
   },
   {
     "level": 17,
@@ -3103,7 +3007,7 @@
     "features": [
       {
         "name": "Indomitable (3 uses)",
-        "url": "http://www.dnd5eapi.co/api/features/156"
+        "id": "dnd:5e:features:156"
       }
     ],
     "spellcasting": {},
@@ -3112,13 +3016,12 @@
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
-    "index": 97,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/17"
+    "id": "dnd:5e:classes:fighter:level:17"
   },
   {
     "level": 18,
@@ -3132,13 +3035,12 @@
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
-    "index": 98,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/18"
+    "id": "dnd:5e:classes:fighter:level:18"
   },
   {
     "level": 19,
@@ -3148,7 +3050,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 7",
-        "url": "http://www.dnd5eapi.co/api/features/158"
+        "id": "dnd:5e:features:158"
       }
     ],
     "spellcasting": {},
@@ -3157,13 +3059,12 @@
       "indomitable_uses": 3,
       "extra_attacks": 2
     },
-    "index": 99,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/19"
+    "id": "dnd:5e:classes:fighter:level:19"
   },
   {
     "level": 20,
@@ -3173,7 +3074,7 @@
     "features": [
       {
         "name": "Extra Attack (3)",
-        "url": "http://www.dnd5eapi.co/api/features/159"
+        "id": "dnd:5e:features:159"
       }
     ],
     "spellcasting": {},
@@ -3182,13 +3083,12 @@
       "indomitable_uses": 3,
       "extra_attacks": 3
     },
-    "index": 100,
     "class": {
       "name": "Fighter",
-      "url": "http://www.dnd5eapi.co/api/classes/fighter"
+      "id": "dnd:5e:classes:fighter"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/fighter/level/20"
+    "id": "dnd:5e:classes:fighter:level:20"
   },
   {
     "level": 1,
@@ -3198,11 +3098,11 @@
     "features": [
       {
         "name": "Unarmored Defense",
-        "url": "http://www.dnd5eapi.co/api/features/160"
+        "id": "dnd:5e:features:160"
       },
       {
         "name": "Martial Arts",
-        "url": "http://www.dnd5eapi.co/api/features/161"
+        "id": "dnd:5e:features:161"
       }
     ],
     "spellcasting": {},
@@ -3214,13 +3114,12 @@
       "ki_points": 0,
       "unarmored_movement": 10
     },
-    "index": 101,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/1"
+    "id": "dnd:5e:classes:monk:level:1"
   },
   {
     "level": 2,
@@ -3230,23 +3129,23 @@
     "features": [
       {
         "name": "Ki",
-        "url": "http://www.dnd5eapi.co/api/features/162"
+        "id": "dnd:5e:features:162"
       },
       {
         "name": "Flurry of Blows",
-        "url": "http://www.dnd5eapi.co/api/features/163"
+        "id": "dnd:5e:features:163"
       },
       {
         "name": "Patient Defense",
-        "url": "http://www.dnd5eapi.co/api/features/164"
+        "id": "dnd:5e:features:164"
       },
       {
         "name": "Step of the Wind",
-        "url": "http://www.dnd5eapi.co/api/features/165"
+        "id": "dnd:5e:features:165"
       },
       {
         "name": "Unarmored Movement 1",
-        "url": "http://www.dnd5eapi.co/api/features/166"
+        "id": "dnd:5e:features:166"
       }
     ],
     "spellcasting": {},
@@ -3258,13 +3157,12 @@
       "ki_points": 2,
       "unarmored_movement": 10
     },
-    "index": 102,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/2"
+    "id": "dnd:5e:classes:monk:level:2"
   },
   {
     "level": 3,
@@ -3274,11 +3172,11 @@
     "features": [
       {
         "name": "Monastic Tradition",
-        "url": "http://www.dnd5eapi.co/api/features/167"
+        "id": "dnd:5e:features:167"
       },
       {
         "name": "Deflect Missiles",
-        "url": "http://www.dnd5eapi.co/api/features/168"
+        "id": "dnd:5e:features:168"
       }
     ],
     "spellcasting": {},
@@ -3290,13 +3188,12 @@
       "ki_points": 3,
       "unarmored_movement": 10
     },
-    "index": 103,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/3"
+    "id": "dnd:5e:classes:monk:level:3"
   },
   {
     "level": 4,
@@ -3306,11 +3203,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/170"
+        "id": "dnd:5e:features:170"
       },
       {
         "name": "Slow Fall",
-        "url": "http://www.dnd5eapi.co/api/features/171"
+        "id": "dnd:5e:features:171"
       }
     ],
     "spellcasting": {},
@@ -3322,13 +3219,12 @@
       "ki_points": 4,
       "unarmored_movement": 10
     },
-    "index": 104,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/4"
+    "id": "dnd:5e:classes:monk:level:4"
   },
   {
     "level": 5,
@@ -3338,11 +3234,11 @@
     "features": [
       {
         "name": "Extra Attack",
-        "url": "http://www.dnd5eapi.co/api/features/172"
+        "id": "dnd:5e:features:172"
       },
       {
         "name": "Stunning Strike",
-        "url": "http://www.dnd5eapi.co/api/features/173"
+        "id": "dnd:5e:features:173"
       }
     ],
     "spellcasting": {},
@@ -3354,13 +3250,12 @@
       "ki_points": 5,
       "unarmored_movement": 15
     },
-    "index": 105,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/5"
+    "id": "dnd:5e:classes:monk:level:5"
   },
   {
     "level": 6,
@@ -3370,7 +3265,7 @@
     "features": [
       {
         "name": "Ki Empowered Strikes",
-        "url": "http://www.dnd5eapi.co/api/features/174"
+        "id": "dnd:5e:features:174"
       }
     ],
     "spellcasting": {},
@@ -3382,13 +3277,12 @@
       "ki_points": 6,
       "unarmored_movement": 15
     },
-    "index": 106,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/6"
+    "id": "dnd:5e:classes:monk:level:6"
   },
   {
     "level": 7,
@@ -3398,11 +3292,11 @@
     "features": [
       {
         "name": "Evasion",
-        "url": "http://www.dnd5eapi.co/api/features/176"
+        "id": "dnd:5e:features:176"
       },
       {
         "name": "Stillness of Mind",
-        "url": "http://www.dnd5eapi.co/api/features/177"
+        "id": "dnd:5e:features:177"
       }
     ],
     "spellcasting": {},
@@ -3414,13 +3308,12 @@
       "ki_points": 7,
       "unarmored_movement": 15
     },
-    "index": 107,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/7"
+    "id": "dnd:5e:classes:monk:level:7"
   },
   {
     "level": 8,
@@ -3430,7 +3323,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/178"
+        "id": "dnd:5e:features:178"
       }
     ],
     "spellcasting": {},
@@ -3442,13 +3335,12 @@
       "ki_points": 8,
       "unarmored_movement": 15
     },
-    "index": 108,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/8"
+    "id": "dnd:5e:classes:monk:level:8"
   },
   {
     "level": 9,
@@ -3458,7 +3350,7 @@
     "features": [
       {
         "name": "Unarmored Movement 2",
-        "url": "http://www.dnd5eapi.co/api/features/179"
+        "id": "dnd:5e:features:179"
       }
     ],
     "spellcasting": {},
@@ -3470,13 +3362,12 @@
       "ki_points": 9,
       "unarmored_movement": 15
     },
-    "index": 109,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/9"
+    "id": "dnd:5e:classes:monk:level:9"
   },
   {
     "level": 10,
@@ -3486,7 +3377,7 @@
     "features": [
       {
         "name": "Purity of Body",
-        "url": "http://www.dnd5eapi.co/api/features/180"
+        "id": "dnd:5e:features:180"
       }
     ],
     "spellcasting": {},
@@ -3498,13 +3389,12 @@
       "ki_points": 10,
       "unarmored_movement": 20
     },
-    "index": 110,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/10"
+    "id": "dnd:5e:classes:monk:level:10"
   },
   {
     "level": 11,
@@ -3521,13 +3411,12 @@
       "ki_points": 11,
       "unarmored_movement": 20
     },
-    "index": 111,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/11"
+    "id": "dnd:5e:classes:monk:level:11"
   },
   {
     "level": 12,
@@ -3537,7 +3426,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/182"
+        "id": "dnd:5e:features:182"
       }
     ],
     "spellcasting": {},
@@ -3549,13 +3438,12 @@
       "ki_points": 12,
       "unarmored_movement": 20
     },
-    "index": 112,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/12"
+    "id": "dnd:5e:classes:monk:level:12"
   },
   {
     "level": 13,
@@ -3565,7 +3453,7 @@
     "features": [
       {
         "name": "Tongue of the Sun and Moon",
-        "url": "http://www.dnd5eapi.co/api/features/183"
+        "id": "dnd:5e:features:183"
       }
     ],
     "spellcasting": {},
@@ -3577,13 +3465,12 @@
       "ki_points": 13,
       "unarmored_movement": 20
     },
-    "index": 113,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/13"
+    "id": "dnd:5e:classes:monk:level:13"
   },
   {
     "level": 14,
@@ -3593,7 +3480,7 @@
     "features": [
       {
         "name": "Diamond Soul",
-        "url": "http://www.dnd5eapi.co/api/features/184"
+        "id": "dnd:5e:features:184"
       }
     ],
     "spellcasting": {},
@@ -3605,13 +3492,12 @@
       "ki_points": 14,
       "unarmored_movement": 25
     },
-    "index": 114,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/14"
+    "id": "dnd:5e:classes:monk:level:14"
   },
   {
     "level": 15,
@@ -3621,7 +3507,7 @@
     "features": [
       {
         "name": "Timeless Body",
-        "url": "http://www.dnd5eapi.co/api/features/185"
+        "id": "dnd:5e:features:185"
       }
     ],
     "spellcasting": {},
@@ -3633,13 +3519,12 @@
       "ki_points": 15,
       "unarmored_movement": 25
     },
-    "index": 115,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/15"
+    "id": "dnd:5e:classes:monk:level:15"
   },
   {
     "level": 16,
@@ -3649,7 +3534,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/186"
+        "id": "dnd:5e:features:186"
       }
     ],
     "spellcasting": {},
@@ -3661,13 +3546,12 @@
       "ki_points": 16,
       "unarmored_movement": 25
     },
-    "index": 116,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/16"
+    "id": "dnd:5e:classes:monk:level:16"
   },
   {
     "level": 17,
@@ -3684,13 +3568,12 @@
       "ki_points": 17,
       "unarmored_movement": 25
     },
-    "index": 117,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/17"
+    "id": "dnd:5e:classes:monk:level:17"
   },
   {
     "level": 18,
@@ -3700,7 +3583,7 @@
     "features": [
       {
         "name": "Empty Body",
-        "url": "http://www.dnd5eapi.co/api/features/188"
+        "id": "dnd:5e:features:188"
       }
     ],
     "spellcasting": {},
@@ -3712,13 +3595,12 @@
       "ki_points": 18,
       "unarmored_movement": 30
     },
-    "index": 118,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/18"
+    "id": "dnd:5e:classes:monk:level:18"
   },
   {
     "level": 19,
@@ -3728,7 +3610,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/189"
+        "id": "dnd:5e:features:189"
       }
     ],
     "spellcasting": {},
@@ -3740,13 +3622,12 @@
       "ki_points": 19,
       "unarmored_movement": 30
     },
-    "index": 119,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/19"
+    "id": "dnd:5e:classes:monk:level:19"
   },
   {
     "level": 20,
@@ -3756,7 +3637,7 @@
     "features": [
       {
         "name": "Perfect Self",
-        "url": "http://www.dnd5eapi.co/api/features/190"
+        "id": "dnd:5e:features:190"
       }
     ],
     "spellcasting": {},
@@ -3768,13 +3649,12 @@
       "ki_points": 20,
       "unarmored_movement": 30
     },
-    "index": 120,
     "class": {
       "name": "Monk",
-      "url": "http://www.dnd5eapi.co/api/classes/monk"
+      "id": "dnd:5e:classes:monk"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/monk/level/20"
+    "id": "dnd:5e:classes:monk:level:20"
   },
   {
     "level": 1,
@@ -3784,11 +3664,11 @@
     "features": [
       {
         "name": "Divine Sense",
-        "url": "http://www.dnd5eapi.co/api/features/191"
+        "id": "dnd:5e:features:191"
       },
       {
         "name": "Lay on Hands",
-        "url": "http://www.dnd5eapi.co/api/features/192"
+        "id": "dnd:5e:features:192"
       }
     ],
     "spellcasting": {
@@ -3801,13 +3681,12 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": 121,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/1"
+    "id": "dnd:5e:classes:paladin:level:1"
   },
   {
     "level": 2,
@@ -3816,17 +3695,17 @@
     "feature_choices": [
       {
         "name": "Choose: Fighting Style",
-        "url": "http://www.dnd5eapi.co/api/features/193"
+        "id": "dnd:5e:features:193"
       }
     ],
     "features": [
       {
         "name": "Spellcasting",
-        "url": "http://www.dnd5eapi.co/api/features/198"
+        "id": "dnd:5e:features:198"
       },
       {
         "name": "Divine Smite",
-        "url": "http://www.dnd5eapi.co/api/features/199"
+        "id": "dnd:5e:features:199"
       }
     ],
     "spellcasting": {
@@ -3839,13 +3718,12 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": 122,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/2"
+    "id": "dnd:5e:classes:paladin:level:2"
   },
   {
     "level": 3,
@@ -3855,19 +3733,19 @@
     "features": [
       {
         "name": "Divine Health",
-        "url": "http://www.dnd5eapi.co/api/features/200"
+        "id": "dnd:5e:features:200"
       },
       {
         "name": "Sacred Oath",
-        "url": "http://www.dnd5eapi.co/api/features/201"
+        "id": "dnd:5e:features:201"
       },
       {
         "name": "Oath Spells",
-        "url": "http://www.dnd5eapi.co/api/features/202"
+        "id": "dnd:5e:features:202"
       },
       {
         "name": "Channel Divinity",
-        "url": "http://www.dnd5eapi.co/api/features/203"
+        "id": "dnd:5e:features:203"
       }
     ],
     "spellcasting": {
@@ -3880,13 +3758,12 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": 123,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/3"
+    "id": "dnd:5e:classes:paladin:level:3"
   },
   {
     "level": 4,
@@ -3896,7 +3773,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/206"
+        "id": "dnd:5e:features:206"
       }
     ],
     "spellcasting": {
@@ -3909,13 +3786,12 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": 124,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/4"
+    "id": "dnd:5e:classes:paladin:level:4"
   },
   {
     "level": 5,
@@ -3925,7 +3801,7 @@
     "features": [
       {
         "name": "Extra Attack",
-        "url": "http://www.dnd5eapi.co/api/features/207"
+        "id": "dnd:5e:features:207"
       }
     ],
     "spellcasting": {
@@ -3938,13 +3814,12 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": 125,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/5"
+    "id": "dnd:5e:classes:paladin:level:5"
   },
   {
     "level": 6,
@@ -3954,7 +3829,7 @@
     "features": [
       {
         "name": "Aura of Protection",
-        "url": "http://www.dnd5eapi.co/api/features/208"
+        "id": "dnd:5e:features:208"
       }
     ],
     "spell_slots_level_1": 4,
@@ -3963,13 +3838,12 @@
     "spell_slots_level_4": 0,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 126,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/6"
+    "id": "dnd:5e:classes:paladin:level:6"
   },
   {
     "level": 7,
@@ -3983,13 +3857,12 @@
     "spell_slots_level_4": 0,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 127,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/7"
+    "id": "dnd:5e:classes:paladin:level:7"
   },
   {
     "level": 8,
@@ -3999,7 +3872,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/210"
+        "id": "dnd:5e:features:210"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4008,13 +3881,12 @@
     "spell_slots_level_4": 0,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 128,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/8"
+    "id": "dnd:5e:classes:paladin:level:8"
   },
   {
     "level": 9,
@@ -4028,13 +3900,12 @@
     "spell_slots_level_4": 0,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 129,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/9"
+    "id": "dnd:5e:classes:paladin:level:9"
   },
   {
     "level": 10,
@@ -4044,7 +3915,7 @@
     "features": [
       {
         "name": "Aura of Courage",
-        "url": "http://www.dnd5eapi.co/api/features/211"
+        "id": "dnd:5e:features:211"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4053,13 +3924,12 @@
     "spell_slots_level_4": 0,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 130,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/10"
+    "id": "dnd:5e:classes:paladin:level:10"
   },
   {
     "level": 11,
@@ -4069,7 +3939,7 @@
     "features": [
       {
         "name": "Improved Divine Smite",
-        "url": "http://www.dnd5eapi.co/api/features/212"
+        "id": "dnd:5e:features:212"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4078,13 +3948,12 @@
     "spell_slots_level_4": 0,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 131,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/11"
+    "id": "dnd:5e:classes:paladin:level:11"
   },
   {
     "level": 12,
@@ -4094,7 +3963,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/213"
+        "id": "dnd:5e:features:213"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4103,13 +3972,12 @@
     "spell_slots_level_4": 0,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 132,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/12"
+    "id": "dnd:5e:classes:paladin:level:12"
   },
   {
     "level": 13,
@@ -4123,13 +3991,12 @@
     "spell_slots_level_4": 1,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 133,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/13"
+    "id": "dnd:5e:classes:paladin:level:13"
   },
   {
     "level": 14,
@@ -4139,7 +4006,7 @@
     "features": [
       {
         "name": "Cleansing Touch",
-        "url": "http://www.dnd5eapi.co/api/features/214"
+        "id": "dnd:5e:features:214"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4148,13 +4015,12 @@
     "spell_slots_level_4": 1,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 134,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/14"
+    "id": "dnd:5e:classes:paladin:level:14"
   },
   {
     "level": 15,
@@ -4172,13 +4038,12 @@
     "class_specific": {
       "aura_range": 0
     },
-    "index": 135,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/15"
+    "id": "dnd:5e:classes:paladin:level:15"
   },
   {
     "level": 16,
@@ -4188,7 +4053,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/216"
+        "id": "dnd:5e:features:216"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4197,13 +4062,12 @@
     "spell_slots_level_4": 2,
     "spell_slots_level_5": 0,
     "aura_range": 10,
-    "index": 136,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/16"
+    "id": "dnd:5e:classes:paladin:level:16"
   },
   {
     "level": 17,
@@ -4217,13 +4081,12 @@
     "spell_slots_level_4": 3,
     "spell_slots_level_5": 1,
     "aura_range": 10,
-    "index": 137,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/17"
+    "id": "dnd:5e:classes:paladin:level:17"
   },
   {
     "level": 18,
@@ -4233,7 +4096,7 @@
     "features": [
       {
         "name": "Aura improvements",
-        "url": "http://www.dnd5eapi.co/api/features/217"
+        "id": "dnd:5e:features:217"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4242,13 +4105,12 @@
     "spell_slots_level_4": 3,
     "spell_slots_level_5": 1,
     "aura_range": 30,
-    "index": 138,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/18"
+    "id": "dnd:5e:classes:paladin:level:18"
   },
   {
     "level": 19,
@@ -4258,7 +4120,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/218"
+        "id": "dnd:5e:features:218"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4267,13 +4129,12 @@
     "spell_slots_level_4": 3,
     "spell_slots_level_5": 2,
     "aura_range": 30,
-    "index": 139,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/19"
+    "id": "dnd:5e:classes:paladin:level:19"
   },
   {
     "level": 20,
@@ -4287,13 +4148,12 @@
     "spell_slots_level_4": 3,
     "spell_slots_level_5": 2,
     "aura_range": 30,
-    "index": 140,
     "class": {
       "name": "Paladin",
-      "url": "http://www.dnd5eapi.co/api/classes/paladin"
+      "id": "dnd:5e:classes:paladin"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/paladin/level/20"
+    "id": "dnd:5e:classes:paladin:level:20"
   },
   {
     "level": 1,
@@ -4303,11 +4163,11 @@
     "features": [
       {
         "name": "Favored Enemy (1 type)",
-        "url": "http://www.dnd5eapi.co/api/features/220"
+        "id": "dnd:5e:features:220"
       },
       {
         "name": "Natural Explorer (1 terrain type)",
-        "url": "http://www.dnd5eapi.co/api/features/221"
+        "id": "dnd:5e:features:221"
       }
     ],
     "spellcasting": {
@@ -4322,13 +4182,12 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": 141,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/1"
+    "id": "dnd:5e:classes:ranger:level:1"
   },
   {
     "level": 2,
@@ -4337,13 +4196,13 @@
     "feature_choices": [
       {
         "name": "Choose: Fighting Style",
-        "url": "http://www.dnd5eapi.co/api/features/222"
+        "id": "dnd:5e:features:222"
       }
     ],
     "features": [
       {
         "name": "Spellcasting",
-        "url": "http://www.dnd5eapi.co/api/features/227"
+        "id": "dnd:5e:features:227"
       }
     ],
     "spellcasting": {
@@ -4358,13 +4217,12 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": 142,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/2"
+    "id": "dnd:5e:classes:ranger:level:2"
   },
   {
     "level": 3,
@@ -4374,11 +4232,11 @@
     "features": [
       {
         "name": "Ranger Archetype",
-        "url": "http://www.dnd5eapi.co/api/features/228"
+        "id": "dnd:5e:features:228"
       },
       {
         "name": "Primeval Awareness",
-        "url": "http://www.dnd5eapi.co/api/features/233"
+        "id": "dnd:5e:features:233"
       }
     ],
     "spellcasting": {
@@ -4393,13 +4251,12 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": 143,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/3"
+    "id": "dnd:5e:classes:ranger:level:3"
   },
   {
     "level": 4,
@@ -4409,7 +4266,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/234"
+        "id": "dnd:5e:features:234"
       }
     ],
     "spellcasting": {
@@ -4424,13 +4281,12 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": 144,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/4"
+    "id": "dnd:5e:classes:ranger:level:4"
   },
   {
     "level": 5,
@@ -4440,7 +4296,7 @@
     "features": [
       {
         "name": "Extra Attack",
-        "url": "http://www.dnd5eapi.co/api/features/235"
+        "id": "dnd:5e:features:235"
       }
     ],
     "spellcasting": {
@@ -4455,13 +4311,12 @@
       "favored_enemies": 1,
       "favored_terrain": 1
     },
-    "index": 145,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/5"
+    "id": "dnd:5e:classes:ranger:level:5"
   },
   {
     "level": 6,
@@ -4471,11 +4326,11 @@
     "features": [
       {
         "name": "Favored Enemy (2 types)",
-        "url": "http://www.dnd5eapi.co/api/features/236"
+        "id": "dnd:5e:features:236"
       },
       {
         "name": "Natural Explorer (2 terrain types)",
-        "url": "http://www.dnd5eapi.co/api/features/237"
+        "id": "dnd:5e:features:237"
       }
     ],
     "spellcasting": {
@@ -4490,13 +4345,12 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": 146,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/6"
+    "id": "dnd:5e:classes:ranger:level:6"
   },
   {
     "level": 7,
@@ -4516,13 +4370,12 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": 147,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/7"
+    "id": "dnd:5e:classes:ranger:level:7"
   },
   {
     "level": 8,
@@ -4532,11 +4385,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/242"
+        "id": "dnd:5e:features:242"
       },
       {
         "name": "Land’s Stride",
-        "url": "http://www.dnd5eapi.co/api/features/243"
+        "id": "dnd:5e:features:243"
       }
     ],
     "spellcasting": {
@@ -4551,13 +4404,12 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": 148,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/8"
+    "id": "dnd:5e:classes:ranger:level:8"
   },
   {
     "level": 9,
@@ -4577,13 +4429,12 @@
       "favored_enemies": 2,
       "favored_terrain": 2
     },
-    "index": 149,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/9"
+    "id": "dnd:5e:classes:ranger:level:9"
   },
   {
     "level": 10,
@@ -4593,11 +4444,11 @@
     "features": [
       {
         "name": "Natural Explorer (3 terrain types)",
-        "url": "http://www.dnd5eapi.co/api/features/244"
+        "id": "dnd:5e:features:244"
       },
       {
         "name": "Hide in Plain Sight",
-        "url": "http://www.dnd5eapi.co/api/features/245"
+        "id": "dnd:5e:features:245"
       }
     ],
     "spellcasting": {
@@ -4612,13 +4463,12 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": 150,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/10"
+    "id": "dnd:5e:classes:ranger:level:10"
   },
   {
     "level": 11,
@@ -4638,13 +4488,12 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": 151,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/11"
+    "id": "dnd:5e:classes:ranger:level:11"
   },
   {
     "level": 12,
@@ -4654,7 +4503,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/249"
+        "id": "dnd:5e:features:249"
       }
     ],
     "spellcasting": {
@@ -4669,13 +4518,12 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": 152,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/12"
+    "id": "dnd:5e:classes:ranger:level:12"
   },
   {
     "level": 13,
@@ -4695,13 +4543,12 @@
       "favored_enemies": 2,
       "favored_terrain": 3
     },
-    "index": 153,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/13"
+    "id": "dnd:5e:classes:ranger:level:13"
   },
   {
     "level": 14,
@@ -4711,11 +4558,11 @@
     "features": [
       {
         "name": "Favored Enemy (3 enemies)",
-        "url": "http://www.dnd5eapi.co/api/features/250"
+        "id": "dnd:5e:features:250"
       },
       {
         "name": "Vanish",
-        "url": "http://www.dnd5eapi.co/api/features/251"
+        "id": "dnd:5e:features:251"
       }
     ],
     "spellcasting": {
@@ -4730,13 +4577,12 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": 154,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/14"
+    "id": "dnd:5e:classes:ranger:level:14"
   },
   {
     "level": 15,
@@ -4756,13 +4602,12 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": 155,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/15"
+    "id": "dnd:5e:classes:ranger:level:15"
   },
   {
     "level": 16,
@@ -4772,7 +4617,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/256"
+        "id": "dnd:5e:features:256"
       }
     ],
     "spellcasting": {
@@ -4787,13 +4632,12 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": 156,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/16"
+    "id": "dnd:5e:classes:ranger:level:16"
   },
   {
     "level": 17,
@@ -4813,13 +4657,12 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": 157,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/17"
+    "id": "dnd:5e:classes:ranger:level:17"
   },
   {
     "level": 18,
@@ -4829,7 +4672,7 @@
     "features": [
       {
         "name": "Feral Senses",
-        "url": "http://www.dnd5eapi.co/api/features/257"
+        "id": "dnd:5e:features:257"
       }
     ],
     "spellcasting": {
@@ -4844,13 +4687,12 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": 158,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/18"
+    "id": "dnd:5e:classes:ranger:level:18"
   },
   {
     "level": 19,
@@ -4860,7 +4702,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/258"
+        "id": "dnd:5e:features:258"
       }
     ],
     "spellcasting": {
@@ -4875,13 +4717,12 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": 159,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/19"
+    "id": "dnd:5e:classes:ranger:level:19"
   },
   {
     "level": 20,
@@ -4891,7 +4732,7 @@
     "features": [
       {
         "name": "Foe Slayer",
-        "url": "http://www.dnd5eapi.co/api/features/259"
+        "id": "dnd:5e:features:259"
       }
     ],
     "spellcasting": {
@@ -4906,13 +4747,12 @@
       "favored_enemies": 3,
       "favored_terrain": 3
     },
-    "index": 160,
     "class": {
       "name": "Ranger",
-      "url": "http://www.dnd5eapi.co/api/classes/ranger"
+      "id": "dnd:5e:classes:ranger"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/ranger/level/20"
+    "id": "dnd:5e:classes:ranger:level:20"
   },
   {
     "level": 1,
@@ -4921,17 +4761,17 @@
     "feature_choices": [
       {
         "name": "Expertise 1",
-        "url": "http://www.dnd5eapi.co/api/features/260"
+        "id": "dnd:5e:features:260"
       }
     ],
     "features": [
       {
         "name": "Sneak Attack",
-        "url": "http://www.dnd5eapi.co/api/features/280"
+        "id": "dnd:5e:features:280"
       },
       {
         "name": "Thieves' Cant",
-        "url": "http://www.dnd5eapi.co/api/features/281"
+        "id": "dnd:5e:features:281"
       }
     ],
     "spellcasting": {},
@@ -4941,13 +4781,12 @@
         "dice_value": 6
       }
     },
-    "index": 161,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/1"
+    "id": "dnd:5e:classes:rogue:level:1"
   },
   {
     "level": 2,
@@ -4957,7 +4796,7 @@
     "features": [
       {
         "name": "Cunning Action",
-        "url": "http://www.dnd5eapi.co/api/features/282"
+        "id": "dnd:5e:features:282"
       }
     ],
     "spellcasting": {},
@@ -4967,13 +4806,12 @@
         "dice_value": 6
       }
     },
-    "index": 162,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/2"
+    "id": "dnd:5e:classes:rogue:level:2"
   },
   {
     "level": 3,
@@ -4983,7 +4821,7 @@
     "features": [
       {
         "name": "Roguish Archetype",
-        "url": "http://www.dnd5eapi.co/api/features/283"
+        "id": "dnd:5e:features:283"
       }
     ],
     "spellcasting": {},
@@ -4993,13 +4831,12 @@
         "dice_value": 6
       }
     },
-    "index": 163,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/3"
+    "id": "dnd:5e:classes:rogue:level:3"
   },
   {
     "level": 4,
@@ -5009,7 +4846,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/286"
+        "id": "dnd:5e:features:286"
       }
     ],
     "spellcasting": {},
@@ -5019,13 +4856,12 @@
         "dice_value": 6
       }
     },
-    "index": 164,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/4"
+    "id": "dnd:5e:classes:rogue:level:4"
   },
   {
     "level": 5,
@@ -5035,7 +4871,7 @@
     "features": [
       {
         "name": "Uncanny Dodge",
-        "url": "http://www.dnd5eapi.co/api/features/287"
+        "id": "dnd:5e:features:287"
       }
     ],
     "spellcasting": {},
@@ -5045,13 +4881,12 @@
         "dice_value": 6
       }
     },
-    "index": 165,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/5"
+    "id": "dnd:5e:classes:rogue:level:5"
   },
   {
     "level": 6,
@@ -5060,7 +4895,7 @@
     "feature_choices": [
       {
         "name": "Expertise 2",
-        "url": "http://www.dnd5eapi.co/api/features/288"
+        "id": "dnd:5e:features:288"
       }
     ],
     "features": [],
@@ -5071,13 +4906,12 @@
         "dice_value": 6
       }
     },
-    "index": 166,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/6"
+    "id": "dnd:5e:classes:rogue:level:6"
   },
   {
     "level": 7,
@@ -5087,7 +4921,7 @@
     "features": [
       {
         "name": "Evasion",
-        "url": "http://www.dnd5eapi.co/api/features/289"
+        "id": "dnd:5e:features:289"
       }
     ],
     "spellcasting": {},
@@ -5097,13 +4931,12 @@
         "dice_value": 6
       }
     },
-    "index": 167,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/7"
+    "id": "dnd:5e:classes:rogue:level:7"
   },
   {
     "level": 8,
@@ -5113,7 +4946,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/290"
+        "id": "dnd:5e:features:290"
       }
     ],
     "spellcasting": {},
@@ -5123,13 +4956,12 @@
         "dice_value": 6
       }
     },
-    "index": 168,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/8"
+    "id": "dnd:5e:classes:rogue:level:8"
   },
   {
     "level": 9,
@@ -5139,7 +4971,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/290"
+        "id": "dnd:5e:features:290"
       }
     ],
     "spellcasting": {},
@@ -5149,13 +4981,12 @@
         "dice_value": 6
       }
     },
-    "index": 169,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/9"
+    "id": "dnd:5e:classes:rogue:level:9"
   },
   {
     "level": 10,
@@ -5165,7 +4996,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/292"
+        "id": "dnd:5e:features:292"
       }
     ],
     "spellcasting": {},
@@ -5175,13 +5006,12 @@
         "dice_value": 6
       }
     },
-    "index": 170,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/10"
+    "id": "dnd:5e:classes:rogue:level:10"
   },
   {
     "level": 11,
@@ -5191,7 +5021,7 @@
     "features": [
       {
         "name": "Reliable Talent",
-        "url": "http://www.dnd5eapi.co/api/features/293"
+        "id": "dnd:5e:features:293"
       }
     ],
     "spellcasting": {},
@@ -5201,13 +5031,12 @@
         "dice_value": 6
       }
     },
-    "index": 171,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/11"
+    "id": "dnd:5e:classes:rogue:level:11"
   },
   {
     "level": 12,
@@ -5217,7 +5046,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/294"
+        "id": "dnd:5e:features:294"
       }
     ],
     "spellcasting": {},
@@ -5227,13 +5056,12 @@
         "dice_value": 6
       }
     },
-    "index": 172,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/12"
+    "id": "dnd:5e:classes:rogue:level:12"
   },
   {
     "level": 13,
@@ -5248,13 +5076,12 @@
         "dice_value": 6
       }
     },
-    "index": 173,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/13"
+    "id": "dnd:5e:classes:rogue:level:13"
   },
   {
     "level": 14,
@@ -5264,7 +5091,7 @@
     "features": [
       {
         "name": "Blindsense",
-        "url": "http://www.dnd5eapi.co/api/features/296"
+        "id": "dnd:5e:features:296"
       }
     ],
     "spellcasting": {},
@@ -5274,13 +5101,12 @@
         "dice_value": 6
       }
     },
-    "index": 174,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/14"
+    "id": "dnd:5e:classes:rogue:level:14"
   },
   {
     "level": 15,
@@ -5290,7 +5116,7 @@
     "features": [
       {
         "name": "Slippery Mind",
-        "url": "http://www.dnd5eapi.co/api/features/297"
+        "id": "dnd:5e:features:297"
       }
     ],
     "spellcasting": {},
@@ -5300,13 +5126,12 @@
         "dice_value": 6
       }
     },
-    "index": 175,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/15"
+    "id": "dnd:5e:classes:rogue:level:15"
   },
   {
     "level": 16,
@@ -5316,7 +5141,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/298"
+        "id": "dnd:5e:features:298"
       }
     ],
     "spellcasting": {},
@@ -5326,13 +5151,12 @@
         "dice_value": 6
       }
     },
-    "index": 176,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/16"
+    "id": "dnd:5e:classes:rogue:level:16"
   },
   {
     "level": 17,
@@ -5347,13 +5171,12 @@
         "dice_value": 6
       }
     },
-    "index": 177,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/17"
+    "id": "dnd:5e:classes:rogue:level:17"
   },
   {
     "level": 18,
@@ -5363,7 +5186,7 @@
     "features": [
       {
         "name": "Elusive",
-        "url": "http://www.dnd5eapi.co/api/features/300"
+        "id": "dnd:5e:features:300"
       }
     ],
     "spellcasting": {},
@@ -5373,13 +5196,12 @@
         "dice_value": 6
       }
     },
-    "index": 178,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/18"
+    "id": "dnd:5e:classes:rogue:level:18"
   },
   {
     "level": 19,
@@ -5389,7 +5211,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 6",
-        "url": "http://www.dnd5eapi.co/api/features/301"
+        "id": "dnd:5e:features:301"
       }
     ],
     "spellcasting": {},
@@ -5399,13 +5221,12 @@
         "dice_value": 6
       }
     },
-    "index": 179,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/19"
+    "id": "dnd:5e:classes:rogue:level:19"
   },
   {
     "level": 20,
@@ -5415,7 +5236,7 @@
     "features": [
       {
         "name": "Stroke of Luck",
-        "url": "http://www.dnd5eapi.co/api/features/302"
+        "id": "dnd:5e:features:302"
       }
     ],
     "spellcasting": {},
@@ -5425,13 +5246,12 @@
         "dice_value": 6
       }
     },
-    "index": 180,
     "class": {
       "name": "Rogue",
-      "url": "http://www.dnd5eapi.co/api/classes/rogue"
+      "id": "dnd:5e:classes:rogue"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/rogue/level/20"
+    "id": "dnd:5e:classes:rogue:level:20"
   },
   {
     "level": 1,
@@ -5441,11 +5261,11 @@
     "features": [
       {
         "name": "Spellcasting",
-        "url": "http://www.dnd5eapi.co/api/features/303"
+        "id": "dnd:5e:features:303"
       },
       {
         "name": "Sorcerous Origin",
-        "url": "http://www.dnd5eapi.co/api/features/304"
+        "id": "dnd:5e:features:304"
       }
     ],
     "spellcasting": {
@@ -5466,13 +5286,12 @@
       "metamagic_known": 0,
       "creating_spell_slots": []
     },
-    "index": 181,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/1"
+    "id": "dnd:5e:classes:sorcerer:level:1"
   },
   {
     "level": 2,
@@ -5482,15 +5301,15 @@
     "features": [
       {
         "name": "Font of Magic",
-        "url": "http://www.dnd5eapi.co/api/features/317"
+        "id": "dnd:5e:features:317"
       },
       {
         "name": "Flexible Casting: Creating Spell Slots",
-        "url": "http://www.dnd5eapi.co/api/features/318"
+        "id": "dnd:5e:features:318"
       },
       {
         "name": "Flexible Casting: Converting Spell Slot",
-        "url": "http://www.dnd5eapi.co/api/features/319"
+        "id": "dnd:5e:features:319"
       }
     ],
     "spellcasting": {
@@ -5532,13 +5351,12 @@
         }
       ]
     },
-    "index": 182,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/2"
+    "id": "dnd:5e:classes:sorcerer:level:2"
   },
   {
     "level": 3,
@@ -5547,7 +5365,7 @@
     "feature_choices": [
       {
         "name": "Choose: Metamagic, First and Second",
-        "url": "http://www.dnd5eapi.co/api/features/320"
+        "id": "dnd:5e:features:320"
       }
     ],
     "features": [],
@@ -5590,13 +5408,12 @@
         }
       ]
     },
-    "index": 183,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/3"
+    "id": "dnd:5e:classes:sorcerer:level:3"
   },
   {
     "level": 4,
@@ -5606,7 +5423,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/329"
+        "id": "dnd:5e:features:329"
       }
     ],
     "spellcasting": {
@@ -5648,13 +5465,12 @@
         }
       ]
     },
-    "index": 184,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/4"
+    "id": "dnd:5e:classes:sorcerer:level:4"
   },
   {
     "level": 5,
@@ -5701,13 +5517,12 @@
         }
       ]
     },
-    "index": 185,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/5"
+    "id": "dnd:5e:classes:sorcerer:level:5"
   },
   {
     "level": 6,
@@ -5754,13 +5569,12 @@
         }
       ]
     },
-    "index": 186,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/6"
+    "id": "dnd:5e:classes:sorcerer:level:6"
   },
   {
     "level": 7,
@@ -5807,13 +5621,12 @@
         }
       ]
     },
-    "index": 187,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/7"
+    "id": "dnd:5e:classes:sorcerer:level:7"
   },
   {
     "level": 8,
@@ -5823,7 +5636,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/331"
+        "id": "dnd:5e:features:331"
       }
     ],
     "spellcasting": {
@@ -5865,13 +5678,12 @@
         }
       ]
     },
-    "index": 188,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/8"
+    "id": "dnd:5e:classes:sorcerer:level:8"
   },
   {
     "level": 9,
@@ -5918,13 +5730,12 @@
         }
       ]
     },
-    "index": 189,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/9"
+    "id": "dnd:5e:classes:sorcerer:level:9"
   },
   {
     "level": 10,
@@ -5933,7 +5744,7 @@
     "feature_choices": [
       {
         "name": "Choose: Metamagic, Third",
-        "url": "http://www.dnd5eapi.co/api/features/332"
+        "id": "dnd:5e:features:332"
       }
     ],
     "features": [],
@@ -5976,13 +5787,12 @@
         }
       ]
     },
-    "index": 190,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/10"
+    "id": "dnd:5e:classes:sorcerer:level:10"
   },
   {
     "level": 11,
@@ -6029,13 +5839,12 @@
         }
       ]
     },
-    "index": 191,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/11"
+    "id": "dnd:5e:classes:sorcerer:level:11"
   },
   {
     "level": 12,
@@ -6045,7 +5854,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/333"
+        "id": "dnd:5e:features:333"
       }
     ],
     "spellcasting": {
@@ -6087,13 +5896,12 @@
         }
       ]
     },
-    "index": 192,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/12"
+    "id": "dnd:5e:classes:sorcerer:level:12"
   },
   {
     "level": 13,
@@ -6140,13 +5948,12 @@
         }
       ]
     },
-    "index": 193,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/13"
+    "id": "dnd:5e:classes:sorcerer:level:13"
   },
   {
     "level": 14,
@@ -6193,13 +6000,12 @@
         }
       ]
     },
-    "index": 194,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/14"
+    "id": "dnd:5e:classes:sorcerer:level:14"
   },
   {
     "level": 15,
@@ -6246,13 +6052,12 @@
         }
       ]
     },
-    "index": 195,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/15"
+    "id": "dnd:5e:classes:sorcerer:level:15"
   },
   {
     "level": 16,
@@ -6262,7 +6067,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/335"
+        "id": "dnd:5e:features:335"
       }
     ],
     "spellcasting": {
@@ -6304,13 +6109,12 @@
         }
       ]
     },
-    "index": 196,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/16"
+    "id": "dnd:5e:classes:sorcerer:level:16"
   },
   {
     "level": 17,
@@ -6319,7 +6123,7 @@
     "feature_choices": [
       {
         "name": "Choose: Metamagic, Fourth",
-        "url": "http://www.dnd5eapi.co/api/features/336"
+        "id": "dnd:5e:features:336"
       }
     ],
     "features": [],
@@ -6362,13 +6166,12 @@
         }
       ]
     },
-    "index": 197,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/17"
+    "id": "dnd:5e:classes:sorcerer:level:17"
   },
   {
     "level": 18,
@@ -6415,13 +6218,12 @@
         }
       ]
     },
-    "index": 198,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/18"
+    "id": "dnd:5e:classes:sorcerer:level:18"
   },
   {
     "level": 19,
@@ -6431,7 +6233,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/338"
+        "id": "dnd:5e:features:338"
       }
     ],
     "spellcasting": {
@@ -6473,13 +6275,12 @@
         }
       ]
     },
-    "index": 199,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/19"
+    "id": "dnd:5e:classes:sorcerer:level:19"
   },
   {
     "level": 20,
@@ -6489,7 +6290,7 @@
     "features": [
       {
         "name": "Sorcerous Restoration",
-        "url": "http://www.dnd5eapi.co/api/features/339"
+        "id": "dnd:5e:features:339"
       }
     ],
     "spellcasting": {
@@ -6531,13 +6332,12 @@
         }
       ]
     },
-    "index": 200,
     "class": {
       "name": "Sorcerer",
-      "url": "http://www.dnd5eapi.co/api/classes/sorcerer"
+      "id": "dnd:5e:classes:sorcerer"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/sorcerer/level/20"
+    "id": "dnd:5e:classes:sorcerer:level:20"
   },
   {
     "level": 1,
@@ -6547,11 +6347,11 @@
     "features": [
       {
         "name": "Otherworldly Patron",
-        "url": "http://www.dnd5eapi.co/api/features/340"
+        "id": "dnd:5e:features:340"
       },
       {
         "name": "Pact Magic",
-        "url": "http://www.dnd5eapi.co/api/features/342"
+        "id": "dnd:5e:features:342"
       }
     ],
     "spellcasting": {
@@ -6574,13 +6374,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 201,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/1"
+    "id": "dnd:5e:classes:warlock:level:1"
   },
   {
     "level": 2,
@@ -6590,7 +6389,7 @@
     "features": [
       {
         "name": "Choose: Eldritch Invocations",
-        "url": "http://www.dnd5eapi.co/api/features/343"
+        "id": "dnd:5e:features:343"
       }
     ],
     "spellcasting": {
@@ -6613,13 +6412,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 202,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/2"
+    "id": "dnd:5e:classes:warlock:level:2"
   },
   {
     "level": 3,
@@ -6629,7 +6427,7 @@
     "features": [
       {
         "name": "Choose: Pact Boon",
-        "url": "http://www.dnd5eapi.co/api/features/376"
+        "id": "dnd:5e:features:376"
       }
     ],
     "spellcasting": {
@@ -6652,13 +6450,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 203,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/3"
+    "id": "dnd:5e:classes:warlock:level:3"
   },
   {
     "level": 4,
@@ -6668,7 +6465,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/380"
+        "id": "dnd:5e:features:380"
       }
     ],
     "spellcasting": {
@@ -6691,13 +6488,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 204,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/4"
+    "id": "dnd:5e:classes:warlock:level:4"
   },
   {
     "level": 5,
@@ -6707,7 +6503,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "url": "http://www.dnd5eapi.co/api/features/381"
+        "id": "dnd:5e:features:381"
       }
     ],
     "spellcasting": {
@@ -6730,13 +6526,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 205,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/5"
+    "id": "dnd:5e:classes:warlock:level:5"
   },
   {
     "level": 6,
@@ -6764,13 +6559,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 206,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/6"
+    "id": "dnd:5e:classes:warlock:level:6"
   },
   {
     "level": 7,
@@ -6780,7 +6574,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "url": "http://www.dnd5eapi.co/api/features/383"
+        "id": "dnd:5e:features:383"
       }
     ],
     "spellcasting": {
@@ -6803,13 +6597,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 207,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/7"
+    "id": "dnd:5e:classes:warlock:level:7"
   },
   {
     "level": 8,
@@ -6819,7 +6612,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/384"
+        "id": "dnd:5e:features:384"
       }
     ],
     "spellcasting": {
@@ -6842,13 +6635,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 208,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/8"
+    "id": "dnd:5e:classes:warlock:level:8"
   },
   {
     "level": 9,
@@ -6858,7 +6650,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "url": "http://www.dnd5eapi.co/api/features/385"
+        "id": "dnd:5e:features:385"
       }
     ],
     "spellcasting": {
@@ -6881,13 +6673,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 209,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/9"
+    "id": "dnd:5e:classes:warlock:level:9"
   },
   {
     "level": 10,
@@ -6915,13 +6706,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 210,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/10"
+    "id": "dnd:5e:classes:warlock:level:10"
   },
   {
     "level": 11,
@@ -6931,7 +6721,7 @@
     "features": [
       {
         "name": "Mystic Arcanum (6th level)",
-        "url": "http://www.dnd5eapi.co/api/features/387"
+        "id": "dnd:5e:features:387"
       }
     ],
     "spellcasting": {
@@ -6954,13 +6744,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 211,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/11"
+    "id": "dnd:5e:classes:warlock:level:11"
   },
   {
     "level": 12,
@@ -6970,11 +6759,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/388"
+        "id": "dnd:5e:features:388"
       },
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "url": "http://www.dnd5eapi.co/api/features/389"
+        "id": "dnd:5e:features:389"
       }
     ],
     "spellcasting": {
@@ -6997,13 +6786,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 212,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/12"
+    "id": "dnd:5e:classes:warlock:level:12"
   },
   {
     "level": 13,
@@ -7013,7 +6801,7 @@
     "features": [
       {
         "name": "Mystic Arcanum (7th level)",
-        "url": "http://www.dnd5eapi.co/api/features/390"
+        "id": "dnd:5e:features:390"
       }
     ],
     "spellcasting": {
@@ -7036,13 +6824,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 213,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/13"
+    "id": "dnd:5e:classes:warlock:level:13"
   },
   {
     "level": 14,
@@ -7070,13 +6857,12 @@
       "mystic_arcanum_level_8": 0,
       "mystic_arcanum_level_9": 0
     },
-    "index": 214,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/14"
+    "id": "dnd:5e:classes:warlock:level:14"
   },
   {
     "level": 15,
@@ -7086,11 +6872,11 @@
     "features": [
       {
         "name": "Mystic Arcanum (8th level)",
-        "url": "http://www.dnd5eapi.co/api/features/392"
+        "id": "dnd:5e:features:392"
       },
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "url": "http://www.dnd5eapi.co/api/features/393"
+        "id": "dnd:5e:features:393"
       }
     ],
     "spellcasting": {
@@ -7113,13 +6899,12 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 0
     },
-    "index": 215,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/15"
+    "id": "dnd:5e:classes:warlock:level:15"
   },
   {
     "level": 16,
@@ -7129,7 +6914,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/394"
+        "id": "dnd:5e:features:394"
       }
     ],
     "spellcasting": {
@@ -7152,13 +6937,12 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 0
     },
-    "index": 216,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/16"
+    "id": "dnd:5e:classes:warlock:level:16"
   },
   {
     "level": 17,
@@ -7168,7 +6952,7 @@
     "features": [
       {
         "name": "Mystic Arcanum (9th level)",
-        "url": "http://www.dnd5eapi.co/api/features/395"
+        "id": "dnd:5e:features:395"
       }
     ],
     "spellcasting": {
@@ -7191,13 +6975,12 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": 217,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/17"
+    "id": "dnd:5e:classes:warlock:level:17"
   },
   {
     "level": 18,
@@ -7207,7 +6990,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "url": "http://www.dnd5eapi.co/api/features/396"
+        "id": "dnd:5e:features:396"
       }
     ],
     "spellcasting": {
@@ -7230,13 +7013,12 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": 218,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/18"
+    "id": "dnd:5e:classes:warlock:level:18"
   },
   {
     "level": 19,
@@ -7246,7 +7028,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 6",
-        "url": "http://www.dnd5eapi.co/api/features/397"
+        "id": "dnd:5e:features:397"
       }
     ],
     "spellcasting": {
@@ -7269,13 +7051,12 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": 219,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/19"
+    "id": "dnd:5e:classes:warlock:level:19"
   },
   {
     "level": 20,
@@ -7285,11 +7066,11 @@
     "features": [
       {
         "name": "Eldritch Master",
-        "url": "http://www.dnd5eapi.co/api/features/398"
+        "id": "dnd:5e:features:398"
       },
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "url": "http://www.dnd5eapi.co/api/features/399"
+        "id": "dnd:5e:features:399"
       }
     ],
     "spellcasting": {
@@ -7312,13 +7093,12 @@
       "mystic_arcanum_level_8": 1,
       "mystic_arcanum_level_9": 1
     },
-    "index": 220,
     "class": {
       "name": "Warlock",
-      "url": "http://www.dnd5eapi.co/api/classes/warlock"
+      "id": "dnd:5e:classes:warlock"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/warlock/level/20"
+    "id": "dnd:5e:classes:warlock:level:20"
   },
   {
     "level": 1,
@@ -7328,11 +7108,11 @@
     "features": [
       {
         "name": "Spellcasting",
-        "url": "http://www.dnd5eapi.co/api/features/393"
+        "id": "dnd:5e:features:393"
       },
       {
         "name": "Arcane Recovery",
-        "url": "http://www.dnd5eapi.co/api/features/394"
+        "id": "dnd:5e:features:394"
       }
     ],
     "spellcasting": {
@@ -7350,13 +7130,12 @@
     "class_specific": {
       "arcane_recovery_levels": 1
     },
-    "index": 221,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/1"
+    "id": "dnd:5e:classes:wizard:level:1"
   },
   {
     "level": 2,
@@ -7366,7 +7145,7 @@
     "features": [
       {
         "name": "Arcane Tradition",
-        "url": "http://www.dnd5eapi.co/api/features/395"
+        "id": "dnd:5e:features:395"
       }
     ],
     "spellcasting": {
@@ -7384,13 +7163,12 @@
     "class_specific": {
       "arcane_recovery_levels": 1
     },
-    "index": 222,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/2"
+    "id": "dnd:5e:classes:wizard:level:2"
   },
   {
     "level": 3,
@@ -7413,13 +7191,12 @@
     "class_specific": {
       "arcane_recovery_levels": 2
     },
-    "index": 223,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/3"
+    "id": "dnd:5e:classes:wizard:level:3"
   },
   {
     "level": 4,
@@ -7429,7 +7206,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "url": "http://www.dnd5eapi.co/api/features/398"
+        "id": "dnd:5e:features:398"
       }
     ],
     "spellcasting": {
@@ -7447,13 +7224,12 @@
     "class_specific": {
       "arcane_recovery_levels": 2
     },
-    "index": 224,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/4"
+    "id": "dnd:5e:classes:wizard:level:4"
   },
   {
     "level": 5,
@@ -7476,13 +7252,12 @@
     "class_specific": {
       "arcane_recovery_levels": 3
     },
-    "index": 225,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/5"
+    "id": "dnd:5e:classes:wizard:level:5"
   },
   {
     "level": 6,
@@ -7505,13 +7280,12 @@
     "class_specific": {
       "arcane_recovery_levels": 3
     },
-    "index": 226,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/6"
+    "id": "dnd:5e:classes:wizard:level:6"
   },
   {
     "level": 7,
@@ -7534,13 +7308,12 @@
     "class_specific": {
       "arcane_recovery_levels": 4
     },
-    "index": 227,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/7"
+    "id": "dnd:5e:classes:wizard:level:7"
   },
   {
     "level": 8,
@@ -7550,7 +7323,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "url": "http://www.dnd5eapi.co/api/features/400"
+        "id": "dnd:5e:features:400"
       }
     ],
     "spellcasting": {
@@ -7568,13 +7341,12 @@
     "class_specific": {
       "arcane_recovery_levels": 4
     },
-    "index": 228,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/8"
+    "id": "dnd:5e:classes:wizard:level:8"
   },
   {
     "level": 9,
@@ -7597,13 +7369,12 @@
     "class_specific": {
       "arcane_recovery_levels": 5
     },
-    "index": 229,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/9"
+    "id": "dnd:5e:classes:wizard:level:9"
   },
   {
     "level": 10,
@@ -7626,13 +7397,12 @@
     "class_specific": {
       "arcane_recovery_levels": 5
     },
-    "index": 230,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/10"
+    "id": "dnd:5e:classes:wizard:level:10"
   },
   {
     "level": 11,
@@ -7655,13 +7425,12 @@
     "class_specific": {
       "arcane_recovery_levels": 6
     },
-    "index": 231,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/11"
+    "id": "dnd:5e:classes:wizard:level:11"
   },
   {
     "level": 12,
@@ -7671,7 +7440,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "url": "http://www.dnd5eapi.co/api/features/402"
+        "id": "dnd:5e:features:402"
       }
     ],
     "spellcasting": {
@@ -7689,13 +7458,12 @@
     "class_specific": {
       "arcane_recovery_levels": 6
     },
-    "index": 232,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/12"
+    "id": "dnd:5e:classes:wizard:level:12"
   },
   {
     "level": 13,
@@ -7718,13 +7486,12 @@
     "class_specific": {
       "arcane_recovery_levels": 7
     },
-    "index": 233,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/13"
+    "id": "dnd:5e:classes:wizard:level:13"
   },
   {
     "level": 14,
@@ -7747,13 +7514,12 @@
     "class_specific": {
       "arcane_recovery_levels": 7
     },
-    "index": 234,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/14"
+    "id": "dnd:5e:classes:wizard:level:14"
   },
   {
     "level": 15,
@@ -7776,13 +7542,12 @@
     "class_specific": {
       "arcane_recovery_levels": 8
     },
-    "index": 235,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/15"
+    "id": "dnd:5e:classes:wizard:level:15"
   },
   {
     "level": 16,
@@ -7792,7 +7557,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "url": "http://www.dnd5eapi.co/api/features/404"
+        "id": "dnd:5e:features:404"
       }
     ],
     "spellcasting": {
@@ -7810,13 +7575,12 @@
     "class_specific": {
       "arcane_recovery_levels": 8
     },
-    "index": 236,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/16"
+    "id": "dnd:5e:classes:wizard:level:16"
   },
   {
     "level": 17,
@@ -7839,13 +7603,12 @@
     "class_specific": {
       "arcane_recovery_levels": 9
     },
-    "index": 237,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/17"
+    "id": "dnd:5e:classes:wizard:level:17"
   },
   {
     "level": 18,
@@ -7855,7 +7618,7 @@
     "features": [
       {
         "name": "Spell Mastery",
-        "url": "http://www.dnd5eapi.co/api/features/405"
+        "id": "dnd:5e:features:405"
       }
     ],
     "spellcasting": {
@@ -7873,13 +7636,12 @@
     "class_specific": {
       "arcane_recovery_levels": 9
     },
-    "index": 238,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/18"
+    "id": "dnd:5e:classes:wizard:level:18"
   },
   {
     "level": 19,
@@ -7889,7 +7651,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "url": "http://www.dnd5eapi.co/api/features/406"
+        "id": "dnd:5e:features:406"
       }
     ],
     "spellcasting": {
@@ -7907,13 +7669,12 @@
     "class_specific": {
       "arcane_recovery_levels": 10
     },
-    "index": 239,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/19"
+    "id": "dnd:5e:classes:wizard:level:19"
   },
   {
     "level": 20,
@@ -7923,7 +7684,7 @@
     "features": [
       {
         "name": "Signature Spell",
-        "url": "http://www.dnd5eapi.co/api/features/407"
+        "id": "dnd:5e:features:407"
       }
     ],
     "spellcasting": {
@@ -7941,13 +7702,12 @@
     "class_specific": {
       "arcane_recovery_levels": 10
     },
-    "index": 240,
     "class": {
       "name": "Wizard",
-      "url": "http://www.dnd5eapi.co/api/classes/wizard"
+      "id": "dnd:5e:classes:wizard"
     },
     "subclass": {},
-    "url": "http://www.dnd5eapi.co/api/classes/wizard/level/20"
+    "id": "dnd:5e:classes:wizard:level:20"
   },
   {
     "level": 3,
@@ -7955,23 +7715,23 @@
     "features": [
       {
         "name": "Primal Path",
-        "url": "http://www.dnd5eapi.co/api/features/5"
+        "id": "dnd:5e:features:5"
       },
       {
         "name": "Frenzy",
-        "url": "http://www.dnd5eapi.co/api/features/6"
+        "id": "dnd:5e:features:6"
       }
     ],
     "spellcasting": {},
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "url": "http://www.dnd5eapi.co/api/subclasses/1"
+      "id": "dnd:5e:subclasses:1"
     },
-    "url": "http://www.dnd5eapi.co/api/subclasses/berserker/level/3",
+    "id": "dnd:5e:subclasses:berserker:level:3",
     "index": 241
   },
   {
@@ -7980,20 +7740,19 @@
     "features": [
       {
         "name": "Mindless Rage",
-        "url": "http://www.dnd5eapi.co/api/features/10"
+        "id": "dnd:5e:features:10"
       }
     ],
     "spellcasting": {},
-    "index": 242,
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "url": "http://www.dnd5eapi.co/api/subclasses/1"
+      "id": "dnd:5e:subclasses:1"
     },
-    "url": "http://www.dnd5eapi.co/api/subclasses/berserker/level/6"
+    "id": "dnd:5e:subclasses:berserker:level:6"
   },
   {
     "level": 10,
@@ -8001,19 +7760,19 @@
     "features": [
       {
         "name": "Intimidating Presence",
-        "url": "http://www.dnd5eapi.co/api/features/14"
+        "id": "dnd:5e:features:14"
       }
     ],
     "spellcasting": {},
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "url": "http://www.dnd5eapi.co/api/subclasses/1"
+      "id": "dnd:5e:subclasses:1"
     },
-    "url": "http://www.dnd5eapi.co/api/subclasses/berserker/level/10",
+    "id": "dnd:5e:subclasses:berserker:level:10",
     "index": 243
   },
   {
@@ -8022,19 +7781,19 @@
     "features": [
       {
         "name": "Retaliation",
-        "url": "http://www.dnd5eapi.co/api/features/18"
+        "id": "dnd:5e:features:18"
       }
     ],
     "spellcasting": {},
     "class": {
       "name": "Barbarian",
-      "url": "http://www.dnd5eapi.co/api/classes/barbarian"
+      "id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "url": "http://www.dnd5eapi.co/api/subclasses/1"
+      "id": "dnd:5e:subclasses:1"
     },
-    "url": "http://www.dnd5eapi.co/api/subclasses/berserker/level/14",
+    "id": "dnd:5e:subclasses:berserker:level:14",
     "index": 244
   },
   {
@@ -8043,11 +7802,11 @@
     "features": [
       {
         "name": "Bonus Proficiencies",
-        "url": "http://www.dnd5eapi.co/api/features/30"
+        "id": "dnd:5e:features:30"
       },
       {
         "name": "Cutting Words",
-        "url": "http://www.dnd5eapi.co/api/features/31"
+        "id": "dnd:5e:features:31"
       }
     ],
     "spellcasting": {},
@@ -8056,13 +7815,13 @@
     },
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {
       "name": "Lore",
-      "url": "http://www.dnd5eapi.co/api/subclasses/lore"
+      "id": "dnd:5e:subclasses:lore"
     },
-    "url": "http://www.dnd5eapi.co/api/subclasses/lore/level/3",
+    "id": "dnd:5e:subclasses:lore:level:3",
     "index": 245
   },
   {
@@ -8071,7 +7830,7 @@
     "features": [
       {
         "name": "Additional Magical Secrets",
-        "url": "http://www.dnd5eapi.co/api/features/55"
+        "id": "dnd:5e:features:55"
       }
     ],
     "spellcasting": {},
@@ -8080,13 +7839,13 @@
     },
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {
       "name": "Lore",
-      "url": "http://www.dnd5eapi.co/api/subclasses/lore"
+      "id": "dnd:5e:subclasses:lore"
     },
-    "url": "http://www.dnd5eapi.co/api/subclasses/lore/level/6",
+    "id": "dnd:5e:subclasses:lore:level:6",
     "index": 246
   },
   {
@@ -8095,7 +7854,7 @@
     "features": [
       {
         "name": "Peerless Skill",
-        "url": "http://www.dnd5eapi.co/api/features/64"
+        "id": "dnd:5e:features:64"
       }
     ],
     "spellcasting": {},
@@ -8104,13 +7863,13 @@
     },
     "class": {
       "name": "Bard",
-      "url": "http://www.dnd5eapi.co/api/classes/bard"
+      "id": "dnd:5e:classes:bard"
     },
     "subclass": {
       "name": "Lore",
-      "url": "http://www.dnd5eapi.co/api/subclasses/lore"
+      "id": "dnd:5e:subclasses:lore"
     },
-    "url": "http://www.dnd5eapi.co/api/subclasses/lore/level/14",
+    "id": "dnd:5e:subclasses:lore:level:14",
     "index": 247
   }
 ]

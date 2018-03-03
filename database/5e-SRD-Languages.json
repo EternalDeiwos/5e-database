@@ -1,0 +1,97 @@
+[{
+  "name": "Common",
+  "type": "Standard",
+  "typical_speakers": ["Humans"],
+  "script": "Common",
+  "id": "dnd:5e:languages:1"
+}, {
+  "name": "Dwarvish",
+  "type": "Standard",
+  "typical_speakers": ["Dwarves"],
+  "script": "Dwarvish",
+  "id": "dnd:5e:languages:2"
+}, {
+  "name": "Elvish",
+  "type": "Standard",
+  "typical_speakers": ["Elves"],
+  "script": "Elvish",
+  "id": "dnd:5e:languages:3"
+}, {
+  "name": "Giant",
+  "type": "Standard",
+  "typical_speakers": ["Ogres", "Giants"],
+  "script": "Dwarvish",
+  "id": "dnd:5e:languages:4"
+}, {
+  "name": "Gnomish",
+  "type": "Standard",
+  "typical_speakers": ["Gnomes"],
+  "script": "Dwarvish",
+  "id": "dnd:5e:languages:5"
+}, {
+  "name": "Goblin",
+  "type": "Standard",
+  "typical_speakers": ["Goblinoids"],
+  "script": "Dwarvish",
+  "id": "dnd:5e:languages:6"
+}, {
+  "name": "Halfling",
+  "type": "Standard",
+  "typical_speakers": ["Halflings"],
+  "script": "Common",
+  "id": "dnd:5e:languages:7"
+}, {
+  "name": "Orc",
+  "type": "Standard",
+  "typical_speakers": ["Orcs"],
+  "script": "Dwarvish",
+  "id": "dnd:5e:languages:8"
+}, {
+  "name": "Abyssal",
+  "type": "Exotic",
+  "typical_speakers": ["Demons"],
+  "script": "Infernal",
+  "id": "dnd:5e:languages:9"
+}, {
+  "name": "Celestial",
+  "type": "Exotic",
+  "typical_speakers": ["Celestials"],
+  "script": "Celestial",
+  "id": "dnd:5e:languages:10"
+}, {
+  "name": "Draconic",
+  "type": "Exotic",
+  "typical_speakers": ["Dragons", "Dragonborn"],
+  "script": "Draconic",
+  "id": "dnd:5e:languages:11"
+}, {
+  "name": "Deep Speech",
+  "type": "Exotic",
+  "typical_speakers": ["Mindflayers", "Beholders"],
+  "script": "none",
+  "id": "dnd:5e:languages:12"
+}, {
+  "name": "Infernal",
+  "type": "Exotic",
+  "typical_speakers": ["Devils", "Tieflings"],
+  "script": "Infernal",
+  "id": "dnd:5e:languages:13"
+}, {
+  "name": "Primordial",
+  "type": "Exotic",
+  "typical_speakers": ["Elementa;s"],
+  "script": "Dwarvish",
+  "id": "dnd:5e:languages:14"
+}, {
+  "name": "Sylvan",
+  "type": "Exotic",
+  "typical_speakers": ["Fey Creatures"],
+  "script": "Elvish",
+  "id": "dnd:5e:languages:15"
+}, {
+  "name": "Undercommon",
+  "type": "Exotic",
+  "typical_speakers": ["Underdark Traders"],
+  "script": "Elvish",
+  "id": "dnd:5e:languages:16"
+}]

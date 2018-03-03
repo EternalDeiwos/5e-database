@@ -1,0 +1,1015 @@
+[{
+  "type": "Armor",
+  "name": "Light armor",
+  "classes": [{
+    "id": "dnd:5e:classes:1",
+    "name": "Barbarian"
+  }, {
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:3",
+    "name": "Cleric"
+  }, {
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:8",
+    "name": "Ranger"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }, {
+    "id": "dnd:5e:classes:11",
+    "name": "Warlock"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:1"
+}, {
+  "type": "Armor",
+  "name": "Medium armor",
+  "classes": [{
+    "id": "dnd:5e:classes:1",
+    "name": "Barbarian"
+  }, {
+    "id": "dnd:5e:classes:3",
+    "name": "Cleric"
+  }, {
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:8",
+    "name": "Ranger"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:2"
+}, {
+  "type": "Armor",
+  "name": "Heavy armor",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:3"
+}, {
+  "type": "Armor",
+  "name": "All armor",
+  "classes": [{
+    "id": "dnd:5e:classes:5",
+    "name": "Fighter"
+  }, {
+    "id": "dnd:5e:classes:7",
+    "name": "Paladin"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:4"
+}, {
+  "type": "Armor",
+  "name": "Padded",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:5"
+}, {
+  "type": "Armor",
+  "name": "Leather",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:6"
+}, {
+  "type": "Armor",
+  "name": "Studded Leather",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:7"
+}, {
+  "type": "Armor",
+  "name": "Hide",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:8"
+}, {
+  "type": "Armor",
+  "name": "Chain Shirt",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:9"
+}, {
+  "type": "Armor",
+  "name": "Scale Mail",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:10"
+}, {
+  "type": "Armor",
+  "name": "Breastplate",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:11"
+}, {
+  "type": "Armor",
+  "name": "Half Plate",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:12"
+}, {
+  "type": "Armor",
+  "name": "Ring Mail",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:13"
+}, {
+  "type": "Armor",
+  "name": "Chain Mail",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:14"
+}, {
+  "type": "Armor",
+  "name": "Splint",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:15"
+}, {
+  "type": "Armor",
+  "name": "Plate",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:16"
+}, {
+  "type": "Armor",
+  "name": "Shield",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:17"
+}, {
+  "type": "Armor",
+  "name": "Shields",
+  "classes": [{
+    "id": "dnd:5e:classes:1",
+    "name": "Barbarian"
+  }, {
+    "id": "dnd:5e:classes:3",
+    "name": "Cleric"
+  }, {
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:5",
+    "name": "Fighter"
+  }, {
+    "id": "dnd:5e:classes:7",
+    "name": "Paladin"
+  }, {
+    "id": "dnd:5e:classes:8",
+    "name": "Ranger"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:18"
+}, {
+  "type": "Weapons",
+  "name": "Simple weapons",
+  "classes": [{
+    "id": "dnd:5e:classes:1",
+    "name": "Barbarian"
+  }, {
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:3",
+    "name": "Cleric"
+  }, {
+    "id": "dnd:5e:classes:5",
+    "name": "Fighter"
+  }, {
+    "id": "dnd:5e:classes:6",
+    "name": "Monk"
+  }, {
+    "id": "dnd:5e:classes:7",
+    "name": "Paladin"
+  }, {
+    "id": "dnd:5e:classes:8",
+    "name": "Ranger"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }, {
+    "id": "dnd:5e:classes:11",
+    "name": "Warlock"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:19"
+}, {
+  "type": "Weapons",
+  "name": "Martial weapons",
+  "classes": [{
+    "id": "dnd:5e:classes:1",
+    "name": "Barbarian"
+  }, {
+    "id": "dnd:5e:classes:5",
+    "name": "Fighter"
+  }, {
+    "id": "dnd:5e:classes:7",
+    "name": "Paladin"
+  }, {
+    "id": "dnd:5e:classes:8",
+    "name": "Ranger"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:20"
+}, {
+  "type": "Weapons",
+  "name": "Clubs",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:21"
+}, {
+  "type": "Weapons",
+  "name": "Daggers",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:10",
+    "name": "Sorcerer"
+  }, {
+    "id": "dnd:5e:classes:12",
+    "name": "Wizard"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:22"
+}, {
+  "type": "Weapons",
+  "name": "Greatclubs",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:23"
+}, {
+  "type": "Weapons",
+  "name": "Handaxes",
+  "classes": [],
+  "races": [{
+    "id": "dnd:5e:races:1",
+    "name": "Dwarf"
+  }],
+  "id": "dnd:5e:proficiencies:24"
+}, {
+  "type": "Weapons",
+  "name": "Javelins",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:25"
+}, {
+  "type": "Weapons",
+  "name": "Light hammers",
+  "classes": [],
+  "races": [{
+    "id": "dnd:5e:races:1",
+    "name": "Dwarf"
+  }],
+  "id": "dnd:5e:proficiencies:26"
+}, {
+  "type": "Weapons",
+  "name": "Maces",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:27"
+}, {
+  "type": "Weapons",
+  "name": "Quarterstaffs",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:10",
+    "name": "Sorcerer"
+  }, {
+    "id": "dnd:5e:classes:12",
+    "name": "Wizard"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:28"
+}, {
+  "type": "Weapons",
+  "name": "Sickles",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:29"
+}, {
+  "type": "Weapons",
+  "name": "Spears",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:30"
+}, {
+  "type": "Weapons",
+  "name": "Crossbows, light",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:31"
+}, {
+  "type": "Weapons",
+  "name": "Darts",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:10",
+    "name": "Sorcerer"
+  }, {
+    "id": "dnd:5e:classes:12",
+    "name": "Wizard"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:32"
+}, {
+  "type": "Weapons",
+  "name": "Shortbows",
+  "classes": [],
+  "races": [{
+    "id": "dnd:5e:subraces:2",
+    "name": "High Elf"
+  }],
+  "id": "dnd:5e:proficiencies:33"
+}, {
+  "type": "Weapons",
+  "name": "Slings",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:10",
+    "name": "Sorcerer"
+  }, {
+    "id": "dnd:5e:classes:12",
+    "name": "Wizard"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:34"
+}, {
+  "type": "Weapons",
+  "name": "Battleaxes",
+  "classes": [],
+  "races": [{
+    "id": "dnd:5e:races:1",
+    "name": "Dwarf"
+  }],
+  "id": "dnd:5e:proficiencies:35"
+}, {
+  "type": "Weapons",
+  "name": "Flails",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:36"
+}, {
+  "type": "Weapons",
+  "name": "Glaives",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:37"
+}, {
+  "type": "Weapons",
+  "name": "Greataxes",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:38"
+}, {
+  "type": "Weapons",
+  "name": "Greatswords",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:39"
+}, {
+  "type": "Weapons",
+  "name": "Halberds",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:40"
+}, {
+  "type": "Weapons",
+  "name": "Lances",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:41"
+}, {
+  "type": "Weapons",
+  "name": "Longswords",
+  "classes": [{
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }],
+  "races": [{
+    "id": "dnd:5e:subraces:2",
+    "name": "High Elf"
+  }],
+  "id": "dnd:5e:proficiencies:42"
+}, {
+  "type": "Weapons",
+  "name": "Mauls",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:43"
+}, {
+  "type": "Weapons",
+  "name": "Morningstars",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:44"
+}, {
+  "type": "Weapons",
+  "name": "Pikes",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:45"
+}, {
+  "type": "Weapons",
+  "name": "Rapiers",
+  "classes": [{
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:46"
+}, {
+  "type": "Weapons",
+  "name": "Scimitars",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:47"
+}, {
+  "type": "Weapons",
+  "name": "Shortswords",
+  "classes": [{
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:6",
+    "name": "Monk"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }],
+  "races": [{
+    "id": "dnd:5e:subraces:2",
+    "name": "High Elf"
+  }],
+  "id": "dnd:5e:proficiencies:48"
+}, {
+  "type": "Weapons",
+  "name": "Tridents",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:49"
+}, {
+  "type": "Weapons",
+  "name": "War picks",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:50"
+}, {
+  "type": "Weapons",
+  "name": "Warhammers",
+  "classes": [],
+  "races": [{
+    "id": "dnd:5e:races:1",
+    "name": "Dwarf"
+  }],
+  "id": "dnd:5e:proficiencies:51"
+}, {
+  "type": "Weapons",
+  "name": "Whips",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:52"
+}, {
+  "type": "Weapons",
+  "name": "Blowguns",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:53"
+}, {
+  "type": "Weapons",
+  "name": "Crossbows, hand",
+  "classes": [{
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:54"
+}, {
+  "type": "Weapons",
+  "name": "Crossbows, heavy",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:55"
+}, {
+  "type": "Weapons",
+  "name": "Longbows",
+  "classes": [],
+  "races": [{
+    "id": "dnd:5e:subraces:2",
+    "name": "High Elf"
+  }],
+  "id": "dnd:5e:proficiencies:56"
+}, {
+  "type": "Weapons",
+  "name": "Nets",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:57"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Alchemist's supplies",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:58"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Brewer's supplies",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:59"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Calligrapher's supplies",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:60"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Carpenter's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:61"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Cartographer's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:62"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Cobbler's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:63"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Cook's utensils",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:64"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Glassblower's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:65"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Jeweler's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:66"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Leatherworker's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:67"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Mason's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:68"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Painter's supplies",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:69"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Potter's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:70"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Smith's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:71"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Tinker's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:72"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Weaver's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:73"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Woodcarver's tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:74"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Disguise kit",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:75"
+}, {
+  "type": "Artisan's Tools",
+  "name": "Forgery kit",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:76"
+}, {
+  "type": "Gaming Sets",
+  "name": "Dice Set",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:77"
+}, {
+  "type": "Gaming Sets",
+  "name": "Dragonchess set",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:78"
+}, {
+  "type": "Gaming Sets",
+  "name": "Playing card set",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:79"
+}, {
+  "type": "Gaming Sets",
+  "name": "Three-Dragon Ante set",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:80"
+}, {
+  "type": "Musical Instruments",
+  "name": "Bagpipes",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:81"
+}, {
+  "type": "Musical Instruments",
+  "name": "Drum",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:82"
+}, {
+  "type": "Musical Instruments",
+  "name": "Dulcimer",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:83"
+}, {
+  "type": "Musical Instruments",
+  "name": "Flute",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:84"
+}, {
+  "type": "Musical Instruments",
+  "name": "Lute",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:85"
+}, {
+  "type": "Musical Instruments",
+  "name": "Lyre",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:86"
+}, {
+  "type": "Musical Instruments",
+  "name": "Horn",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:87"
+}, {
+  "type": "Musical Instruments",
+  "name": "Pan flute",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:88"
+}, {
+  "type": "Musical Instruments",
+  "name": "Shawm",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:89"
+}, {
+  "type": "Musical Instruments",
+  "name": "Viol",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:90"
+}, {
+  "type": "Other",
+  "name": "Disguise Kit",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:91"
+}, {
+  "type": "Other",
+  "name": "Forgery Kit",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:92"
+}, {
+  "type": "Other",
+  "name": "Herbalism Kit",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:93"
+}, {
+  "type": "Other",
+  "name": "Navigator's Tools",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:94"
+}, {
+  "type": "Other",
+  "name": "Poisoner's Kit",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:95"
+}, {
+  "type": "Other",
+  "name": "Thieves' Tools",
+  "classes": [{
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:96"
+}, {
+  "type": "Vehicles",
+  "name": "Land Vehicles",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:97"
+}, {
+  "type": "Vehicles",
+  "name": "Water Vehicles",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:98"
+}, {
+  "type": "Saving Throws",
+  "name": "Saving Throw: STR",
+  "classes": [{
+    "id": "dnd:5e:classes:1",
+    "name": "Barbarian"
+  }, {
+    "id": "dnd:5e:classes:5",
+    "name": "Fighter"
+  }, {
+    "id": "dnd:5e:classes:6",
+    "name": "Monk"
+  }, {
+    "id": "dnd:5e:classes:8",
+    "name": "Ranger"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:99"
+}, {
+  "type": "Saving Throws",
+  "name": "Saving Throw: DEX",
+  "classes": [{
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:6",
+    "name": "Monk"
+  }, {
+    "id": "dnd:5e:classes:8",
+    "name": "Ranger"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:100"
+}, {
+  "type": "Saving Throws",
+  "name": "Saving Throw: CON",
+  "classes": [{
+    "id": "dnd:5e:classes:1",
+    "name": "Barbarian"
+  }, {
+    "id": "dnd:5e:classes:5",
+    "name": "Fighter"
+  }, {
+    "id": "dnd:5e:classes:10",
+    "name": "Sorcerer"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:101"
+}, {
+  "type": "Saving Throws",
+  "name": "Saving Throw: INT",
+  "classes": [{
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:9",
+    "name": "Rogue"
+  }, {
+    "id": "dnd:5e:classes:12",
+    "name": "Wizard"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:102"
+}, {
+  "type": "Saving Throws",
+  "name": "Saving Throw: WIS",
+  "classes": [{
+    "id": "dnd:5e:classes:3",
+    "name": "Cleric"
+  }, {
+    "id": "dnd:5e:classes:4",
+    "name": "Druid"
+  }, {
+    "id": "dnd:5e:classes:7",
+    "name": "Paladin"
+  }, {
+    "id": "dnd:5e:classes:11",
+    "name": "Warlock"
+  }, {
+    "id": "dnd:5e:classes:12",
+    "name": "Wizard"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:103"
+}, {
+  "type": "Saving Throws",
+  "name": "Saving Throw: CHA",
+  "classes": [{
+    "id": "dnd:5e:classes:2",
+    "name": "Bard"
+  }, {
+    "id": "dnd:5e:classes:3",
+    "name": "Cleric"
+  }, {
+    "id": "dnd:5e:classes:7",
+    "name": "Paladin"
+  }, {
+    "id": "dnd:5e:classes:10",
+    "name": "Sorcerer"
+  }, {
+    "id": "dnd:5e:classes:11",
+    "name": "Warlock"
+  }],
+  "races": [],
+  "id": "dnd:5e:proficiencies:104"
+}, {
+  "type": "Skills",
+  "name": "Skill: Acrobatics",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:105"
+}, {
+  "type": "Skills",
+  "name": "Skill: Animal Handling",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:106"
+}, {
+  "type": "Skills",
+  "name": "Skill: Arcana",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:107"
+}, {
+  "type": "Skills",
+  "name": "Skill: Athletics",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:108"
+}, {
+  "type": "Skills",
+  "name": "Skill: Deception",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:109"
+}, {
+  "type": "Skills",
+  "name": "Skill: History",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:110"
+}, {
+  "type": "Skills",
+  "name": "Skill: Insight",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:111"
+}, {
+  "type": "Skills",
+  "name": "Skill: Intimidation",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:112"
+}, {
+  "type": "Skills",
+  "name": "Skill: Investigation",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:113"
+}, {
+  "type": "Skills",
+  "name": "Skill: Medicine",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:114"
+}, {
+  "type": "Skills",
+  "name": "Skill: Nature",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:115"
+}, {
+  "type": "Skills",
+  "name": "Skill: Perception",
+  "classes": [],
+  "races": [{
+    "id": "dnd:5e:races:2",
+    "name": "Elf"
+  }],
+  "id": "dnd:5e:proficiencies:116"
+}, {
+  "type": "Skills",
+  "name": "Skill: Performance",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:117"
+}, {
+  "type": "Skills",
+  "name": "Skill: Persuasion",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:118"
+}, {
+  "type": "Skills",
+  "name": "Skill: Religion",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:119"
+}, {
+  "type": "Skills",
+  "name": "Skill: Sleight of Hand",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:120"
+}, {
+  "type": "Skills",
+  "name": "Skill: Stealth",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:121"
+}, {
+  "type": "Skills",
+  "name": "Skill: Survival",
+  "classes": [],
+  "races": [],
+  "id": "dnd:5e:proficiencies:122"
+}]
