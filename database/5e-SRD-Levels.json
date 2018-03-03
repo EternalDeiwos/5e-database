@@ -503,10 +503,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:1"
+    "id": "dnd:5e:classes:2:level:1"
   },
   {
     "level": 2,
@@ -545,10 +545,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:2"
+    "id": "dnd:5e:classes:2:level:2"
   },
   {
     "level": 3,
@@ -588,10 +588,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:3"
+    "id": "dnd:5e:classes:2:level:3"
   },
   {
     "level": 4,
@@ -626,10 +626,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:4"
+    "id": "dnd:5e:classes:2:level:4"
   },
   {
     "level": 5,
@@ -668,10 +668,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:5"
+    "id": "dnd:5e:classes:2:level:5"
   },
   {
     "level": 6,
@@ -701,10 +701,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:6"
+    "id": "dnd:5e:classes:2:level:6"
   },
   {
     "level": 7,
@@ -739,10 +739,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:7"
+    "id": "dnd:5e:classes:2:level:7"
   },
   {
     "level": 8,
@@ -777,10 +777,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:8"
+    "id": "dnd:5e:classes:2:level:8"
   },
   {
     "level": 9,
@@ -815,10 +815,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:9"
+    "id": "dnd:5e:classes:2:level:9"
   },
   {
     "level": 10,
@@ -862,10 +862,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:10"
+    "id": "dnd:5e:classes:2:level:10"
   },
   {
     "level": 11,
@@ -895,10 +895,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:11"
+    "id": "dnd:5e:classes:2:level:11"
   },
   {
     "level": 12,
@@ -933,10 +933,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:12"
+    "id": "dnd:5e:classes:2:level:12"
   },
   {
     "level": 13,
@@ -971,10 +971,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:13"
+    "id": "dnd:5e:classes:2:level:13"
   },
   {
     "level": 14,
@@ -1009,10 +1009,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:14"
+    "id": "dnd:5e:classes:2:level:14"
   },
   {
     "level": 15,
@@ -1047,10 +1047,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:15"
+    "id": "dnd:5e:classes:2:level:15"
   },
   {
     "level": 16,
@@ -1085,10 +1085,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:16"
+    "id": "dnd:5e:classes:2:level:16"
   },
   {
     "level": 17,
@@ -1123,10 +1123,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:17"
+    "id": "dnd:5e:classes:2:level:17"
   },
   {
     "level": 18,
@@ -1161,10 +1161,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:18"
+    "id": "dnd:5e:classes:2:level:18"
   },
   {
     "level": 19,
@@ -1199,10 +1199,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:19"
+    "id": "dnd:5e:classes:2:level:19"
   },
   {
     "level": 20,
@@ -1237,10 +1237,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:bard:level:20"
+    "id": "dnd:5e:classes:2:level:20"
   },
   {
     "level": 1,
@@ -1280,10 +1280,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:1"
+    "id": "dnd:5e:classes:3:level:1"
   },
   {
     "level": 2,
@@ -1319,10 +1319,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:2"
+    "id": "dnd:5e:classes:3:level:2"
   },
   {
     "level": 3,
@@ -1354,10 +1354,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:3"
+    "id": "dnd:5e:classes:3:level:3"
   },
   {
     "level": 4,
@@ -1389,10 +1389,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:4"
+    "id": "dnd:5e:classes:3:level:4"
   },
   {
     "level": 5,
@@ -1428,10 +1428,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:5"
+    "id": "dnd:5e:classes:3:level:5"
   },
   {
     "level": 6,
@@ -1463,10 +1463,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:6"
+    "id": "dnd:5e:classes:3:level:6"
   },
   {
     "level": 7,
@@ -1498,10 +1498,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:7"
+    "id": "dnd:5e:classes:3:level:7"
   },
   {
     "level": 8,
@@ -1537,10 +1537,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:8"
+    "id": "dnd:5e:classes:3:level:8"
   },
   {
     "level": 9,
@@ -1572,10 +1572,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:9"
+    "id": "dnd:5e:classes:3:level:9"
   },
   {
     "level": 10,
@@ -1607,10 +1607,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:10"
+    "id": "dnd:5e:classes:3:level:10"
   },
   {
     "level": 11,
@@ -1642,10 +1642,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:11"
+    "id": "dnd:5e:classes:3:level:11"
   },
   {
     "level": 12,
@@ -1677,10 +1677,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:12"
+    "id": "dnd:5e:classes:3:level:12"
   },
   {
     "level": 13,
@@ -1707,10 +1707,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:13"
+    "id": "dnd:5e:classes:3:level:13"
   },
   {
     "level": 14,
@@ -1742,10 +1742,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:14"
+    "id": "dnd:5e:classes:3:level:14"
   },
   {
     "level": 15,
@@ -1772,10 +1772,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:15"
+    "id": "dnd:5e:classes:3:level:15"
   },
   {
     "level": 16,
@@ -1807,10 +1807,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:16"
+    "id": "dnd:5e:classes:3:level:16"
   },
   {
     "level": 17,
@@ -1846,10 +1846,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:17"
+    "id": "dnd:5e:classes:3:level:17"
   },
   {
     "level": 18,
@@ -1881,10 +1881,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:18"
+    "id": "dnd:5e:classes:3:level:18"
   },
   {
     "level": 19,
@@ -1916,10 +1916,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:19"
+    "id": "dnd:5e:classes:3:level:19"
   },
   {
     "level": 20,
@@ -1951,10 +1951,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:cleric"
+      "id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:cleric:level:20"
+    "id": "dnd:5e:classes:3:level:20"
   },
   {
     "level": 1,
@@ -1990,10 +1990,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:1"
+    "id": "dnd:5e:classes:4:level:1"
   },
   {
     "level": 2,
@@ -2029,10 +2029,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:2"
+    "id": "dnd:5e:classes:4:level:2"
   },
   {
     "level": 3,
@@ -2059,10 +2059,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:3"
+    "id": "dnd:5e:classes:4:level:3"
   },
   {
     "level": 4,
@@ -2098,10 +2098,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:4"
+    "id": "dnd:5e:classes:4:level:4"
   },
   {
     "level": 5,
@@ -2128,10 +2128,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:5"
+    "id": "dnd:5e:classes:4:level:5"
   },
   {
     "level": 6,
@@ -2158,10 +2158,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:6"
+    "id": "dnd:5e:classes:4:level:6"
   },
   {
     "level": 7,
@@ -2188,10 +2188,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:7"
+    "id": "dnd:5e:classes:4:level:7"
   },
   {
     "level": 8,
@@ -2227,10 +2227,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:8"
+    "id": "dnd:5e:classes:4:level:8"
   },
   {
     "level": 9,
@@ -2257,10 +2257,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:9"
+    "id": "dnd:5e:classes:4:level:9"
   },
   {
     "level": 10,
@@ -2287,10 +2287,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:10"
+    "id": "dnd:5e:classes:4:level:10"
   },
   {
     "level": 11,
@@ -2317,10 +2317,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:11"
+    "id": "dnd:5e:classes:4:level:11"
   },
   {
     "level": 12,
@@ -2352,10 +2352,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:12"
+    "id": "dnd:5e:classes:4:level:12"
   },
   {
     "level": 13,
@@ -2382,10 +2382,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:13"
+    "id": "dnd:5e:classes:4:level:13"
   },
   {
     "level": 14,
@@ -2412,10 +2412,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:14"
+    "id": "dnd:5e:classes:4:level:14"
   },
   {
     "level": 15,
@@ -2442,10 +2442,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:15"
+    "id": "dnd:5e:classes:4:level:15"
   },
   {
     "level": 16,
@@ -2477,10 +2477,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:16"
+    "id": "dnd:5e:classes:4:level:16"
   },
   {
     "level": 17,
@@ -2507,10 +2507,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:17"
+    "id": "dnd:5e:classes:4:level:17"
   },
   {
     "level": 18,
@@ -2546,10 +2546,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:18"
+    "id": "dnd:5e:classes:4:level:18"
   },
   {
     "level": 19,
@@ -2581,10 +2581,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:19"
+    "id": "dnd:5e:classes:4:level:19"
   },
   {
     "level": 20,
@@ -2616,10 +2616,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:druid"
+      "id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:druid:level:20"
+    "id": "dnd:5e:classes:4:level:20"
   },
   {
     "level": 1,
@@ -2645,10 +2645,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:1"
+    "id": "dnd:5e:classes:5:level:1"
   },
   {
     "level": 2,
@@ -2673,10 +2673,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:2"
+    "id": "dnd:5e:classes:5:level:2"
   },
   {
     "level": 3,
@@ -2697,10 +2697,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:3"
+    "id": "dnd:5e:classes:5:level:3"
   },
   {
     "level": 4,
@@ -2721,10 +2721,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:4"
+    "id": "dnd:5e:classes:5:level:4"
   },
   {
     "level": 5,
@@ -2745,10 +2745,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:5"
+    "id": "dnd:5e:classes:5:level:5"
   },
   {
     "level": 6,
@@ -2769,10 +2769,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:6"
+    "id": "dnd:5e:classes:5:level:6"
   },
   {
     "level": 7,
@@ -2788,10 +2788,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:7"
+    "id": "dnd:5e:classes:5:level:7"
   },
   {
     "level": 8,
@@ -2812,10 +2812,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:8"
+    "id": "dnd:5e:classes:5:level:8"
   },
   {
     "level": 9,
@@ -2836,10 +2836,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:9"
+    "id": "dnd:5e:classes:5:level:9"
   },
   {
     "level": 10,
@@ -2855,10 +2855,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:10"
+    "id": "dnd:5e:classes:5:level:10"
   },
   {
     "level": 11,
@@ -2879,10 +2879,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:11"
+    "id": "dnd:5e:classes:5:level:11"
   },
   {
     "level": 12,
@@ -2903,10 +2903,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:12"
+    "id": "dnd:5e:classes:5:level:12"
   },
   {
     "level": 13,
@@ -2927,10 +2927,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:13"
+    "id": "dnd:5e:classes:5:level:13"
   },
   {
     "level": 14,
@@ -2951,10 +2951,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:f:14"
+    "id": "dnd:5e:classes:5:14"
   },
   {
     "level": 15,
@@ -2970,10 +2970,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:15"
+    "id": "dnd:5e:classes:5:level:15"
   },
   {
     "level": 16,
@@ -2994,10 +2994,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:16"
+    "id": "dnd:5e:classes:5:level:16"
   },
   {
     "level": 17,
@@ -3018,10 +3018,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:17"
+    "id": "dnd:5e:classes:5:level:17"
   },
   {
     "level": 18,
@@ -3037,10 +3037,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:18"
+    "id": "dnd:5e:classes:5:level:18"
   },
   {
     "level": 19,
@@ -3061,10 +3061,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:19"
+    "id": "dnd:5e:classes:5:level:19"
   },
   {
     "level": 20,
@@ -3085,10 +3085,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:fighter"
+      "id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:fighter:level:20"
+    "id": "dnd:5e:classes:5:level:20"
   },
   {
     "level": 1,
@@ -3116,10 +3116,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:1"
+    "id": "dnd:5e:classes:6:level:1"
   },
   {
     "level": 2,
@@ -3159,10 +3159,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:2"
+    "id": "dnd:5e:classes:6:level:2"
   },
   {
     "level": 3,
@@ -3190,10 +3190,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:3"
+    "id": "dnd:5e:classes:6:level:3"
   },
   {
     "level": 4,
@@ -3221,10 +3221,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:4"
+    "id": "dnd:5e:classes:6:level:4"
   },
   {
     "level": 5,
@@ -3252,10 +3252,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:5"
+    "id": "dnd:5e:classes:6:level:5"
   },
   {
     "level": 6,
@@ -3279,10 +3279,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:6"
+    "id": "dnd:5e:classes:6:level:6"
   },
   {
     "level": 7,
@@ -3310,10 +3310,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:7"
+    "id": "dnd:5e:classes:6:level:7"
   },
   {
     "level": 8,
@@ -3337,10 +3337,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:8"
+    "id": "dnd:5e:classes:6:level:8"
   },
   {
     "level": 9,
@@ -3364,10 +3364,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:9"
+    "id": "dnd:5e:classes:6:level:9"
   },
   {
     "level": 10,
@@ -3391,10 +3391,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:10"
+    "id": "dnd:5e:classes:6:level:10"
   },
   {
     "level": 11,
@@ -3413,10 +3413,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:11"
+    "id": "dnd:5e:classes:6:level:11"
   },
   {
     "level": 12,
@@ -3440,10 +3440,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:12"
+    "id": "dnd:5e:classes:6:level:12"
   },
   {
     "level": 13,
@@ -3467,10 +3467,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:13"
+    "id": "dnd:5e:classes:6:level:13"
   },
   {
     "level": 14,
@@ -3494,10 +3494,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:14"
+    "id": "dnd:5e:classes:6:level:14"
   },
   {
     "level": 15,
@@ -3521,10 +3521,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:15"
+    "id": "dnd:5e:classes:6:level:15"
   },
   {
     "level": 16,
@@ -3548,10 +3548,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:16"
+    "id": "dnd:5e:classes:6:level:16"
   },
   {
     "level": 17,
@@ -3570,10 +3570,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:17"
+    "id": "dnd:5e:classes:6:level:17"
   },
   {
     "level": 18,
@@ -3597,10 +3597,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:18"
+    "id": "dnd:5e:classes:6:level:18"
   },
   {
     "level": 19,
@@ -3624,10 +3624,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:19"
+    "id": "dnd:5e:classes:6:level:19"
   },
   {
     "level": 20,
@@ -3651,10 +3651,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:monk"
+      "id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:monk:level:20"
+    "id": "dnd:5e:classes:6:level:20"
   },
   {
     "level": 1,
@@ -3683,10 +3683,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:1"
+    "id": "dnd:5e:classes:7:level:1"
   },
   {
     "level": 2,
@@ -3720,10 +3720,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:2"
+    "id": "dnd:5e:classes:7:level:2"
   },
   {
     "level": 3,
@@ -3760,10 +3760,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:3"
+    "id": "dnd:5e:classes:7:level:3"
   },
   {
     "level": 4,
@@ -3788,10 +3788,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:4"
+    "id": "dnd:5e:classes:7:level:4"
   },
   {
     "level": 5,
@@ -3816,10 +3816,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:5"
+    "id": "dnd:5e:classes:7:level:5"
   },
   {
     "level": 6,
@@ -3840,10 +3840,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:6"
+    "id": "dnd:5e:classes:7:level:6"
   },
   {
     "level": 7,
@@ -3859,10 +3859,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:7"
+    "id": "dnd:5e:classes:7:level:7"
   },
   {
     "level": 8,
@@ -3883,10 +3883,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:8"
+    "id": "dnd:5e:classes:7:level:8"
   },
   {
     "level": 9,
@@ -3902,10 +3902,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:9"
+    "id": "dnd:5e:classes:7:level:9"
   },
   {
     "level": 10,
@@ -3926,10 +3926,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:10"
+    "id": "dnd:5e:classes:7:level:10"
   },
   {
     "level": 11,
@@ -3950,10 +3950,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:11"
+    "id": "dnd:5e:classes:7:level:11"
   },
   {
     "level": 12,
@@ -3974,10 +3974,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:12"
+    "id": "dnd:5e:classes:7:level:12"
   },
   {
     "level": 13,
@@ -3993,10 +3993,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:13"
+    "id": "dnd:5e:classes:7:level:13"
   },
   {
     "level": 14,
@@ -4017,10 +4017,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:14"
+    "id": "dnd:5e:classes:7:level:14"
   },
   {
     "level": 15,
@@ -4040,10 +4040,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:15"
+    "id": "dnd:5e:classes:7:level:15"
   },
   {
     "level": 16,
@@ -4064,10 +4064,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:16"
+    "id": "dnd:5e:classes:7:level:16"
   },
   {
     "level": 17,
@@ -4083,10 +4083,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:17"
+    "id": "dnd:5e:classes:7:level:17"
   },
   {
     "level": 18,
@@ -4107,10 +4107,10 @@
     "aura_range": 30,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:18"
+    "id": "dnd:5e:classes:7:level:18"
   },
   {
     "level": 19,
@@ -4131,10 +4131,10 @@
     "aura_range": 30,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:19"
+    "id": "dnd:5e:classes:7:level:19"
   },
   {
     "level": 20,
@@ -4150,10 +4150,10 @@
     "aura_range": 30,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:paladin"
+      "id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:paladin:level:20"
+    "id": "dnd:5e:classes:7:level:20"
   },
   {
     "level": 1,
@@ -4184,10 +4184,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:1"
+    "id": "dnd:5e:classes:8:level:1"
   },
   {
     "level": 2,
@@ -4219,10 +4219,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:2"
+    "id": "dnd:5e:classes:8:level:2"
   },
   {
     "level": 3,
@@ -4253,10 +4253,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:3"
+    "id": "dnd:5e:classes:8:level:3"
   },
   {
     "level": 4,
@@ -4283,10 +4283,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:4"
+    "id": "dnd:5e:classes:8:level:4"
   },
   {
     "level": 5,
@@ -4313,10 +4313,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:5"
+    "id": "dnd:5e:classes:8:level:5"
   },
   {
     "level": 6,
@@ -4347,10 +4347,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:6"
+    "id": "dnd:5e:classes:8:level:6"
   },
   {
     "level": 7,
@@ -4372,10 +4372,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:7"
+    "id": "dnd:5e:classes:8:level:7"
   },
   {
     "level": 8,
@@ -4406,10 +4406,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:8"
+    "id": "dnd:5e:classes:8:level:8"
   },
   {
     "level": 9,
@@ -4431,10 +4431,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:9"
+    "id": "dnd:5e:classes:8:level:9"
   },
   {
     "level": 10,
@@ -4465,10 +4465,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:10"
+    "id": "dnd:5e:classes:8:level:10"
   },
   {
     "level": 11,
@@ -4490,10 +4490,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:11"
+    "id": "dnd:5e:classes:8:level:11"
   },
   {
     "level": 12,
@@ -4520,10 +4520,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:12"
+    "id": "dnd:5e:classes:8:level:12"
   },
   {
     "level": 13,
@@ -4545,10 +4545,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:13"
+    "id": "dnd:5e:classes:8:level:13"
   },
   {
     "level": 14,
@@ -4579,10 +4579,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:14"
+    "id": "dnd:5e:classes:8:level:14"
   },
   {
     "level": 15,
@@ -4604,10 +4604,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:15"
+    "id": "dnd:5e:classes:8:level:15"
   },
   {
     "level": 16,
@@ -4634,10 +4634,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:16"
+    "id": "dnd:5e:classes:8:level:16"
   },
   {
     "level": 17,
@@ -4659,10 +4659,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:17"
+    "id": "dnd:5e:classes:8:level:17"
   },
   {
     "level": 18,
@@ -4689,10 +4689,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:18"
+    "id": "dnd:5e:classes:8:level:18"
   },
   {
     "level": 19,
@@ -4719,10 +4719,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:19"
+    "id": "dnd:5e:classes:8:level:19"
   },
   {
     "level": 20,
@@ -4749,10 +4749,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:ranger"
+      "id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:ranger:level:20"
+    "id": "dnd:5e:classes:8:level:20"
   },
   {
     "level": 1,
@@ -4783,10 +4783,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:1"
+    "id": "dnd:5e:classes:9:level:1"
   },
   {
     "level": 2,
@@ -4808,10 +4808,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:2"
+    "id": "dnd:5e:classes:9:level:2"
   },
   {
     "level": 3,
@@ -4833,10 +4833,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:3"
+    "id": "dnd:5e:classes:9:level:3"
   },
   {
     "level": 4,
@@ -4858,10 +4858,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:4"
+    "id": "dnd:5e:classes:9:level:4"
   },
   {
     "level": 5,
@@ -4883,10 +4883,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:5"
+    "id": "dnd:5e:classes:9:level:5"
   },
   {
     "level": 6,
@@ -4908,10 +4908,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:6"
+    "id": "dnd:5e:classes:9:level:6"
   },
   {
     "level": 7,
@@ -4933,10 +4933,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:7"
+    "id": "dnd:5e:classes:9:level:7"
   },
   {
     "level": 8,
@@ -4958,10 +4958,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:8"
+    "id": "dnd:5e:classes:9:level:8"
   },
   {
     "level": 9,
@@ -4983,10 +4983,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:9"
+    "id": "dnd:5e:classes:9:level:9"
   },
   {
     "level": 10,
@@ -5008,10 +5008,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:10"
+    "id": "dnd:5e:classes:9:level:10"
   },
   {
     "level": 11,
@@ -5033,10 +5033,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:11"
+    "id": "dnd:5e:classes:9:level:11"
   },
   {
     "level": 12,
@@ -5058,10 +5058,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:12"
+    "id": "dnd:5e:classes:9:level:12"
   },
   {
     "level": 13,
@@ -5078,10 +5078,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:13"
+    "id": "dnd:5e:classes:9:level:13"
   },
   {
     "level": 14,
@@ -5103,10 +5103,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:14"
+    "id": "dnd:5e:classes:9:level:14"
   },
   {
     "level": 15,
@@ -5128,10 +5128,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:15"
+    "id": "dnd:5e:classes:9:level:15"
   },
   {
     "level": 16,
@@ -5153,10 +5153,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:16"
+    "id": "dnd:5e:classes:9:level:16"
   },
   {
     "level": 17,
@@ -5173,10 +5173,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:17"
+    "id": "dnd:5e:classes:9:level:17"
   },
   {
     "level": 18,
@@ -5198,10 +5198,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:18"
+    "id": "dnd:5e:classes:9:level:18"
   },
   {
     "level": 19,
@@ -5223,10 +5223,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:19"
+    "id": "dnd:5e:classes:9:level:19"
   },
   {
     "level": 20,
@@ -5248,10 +5248,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:rogue"
+      "id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:rogue:level:20"
+    "id": "dnd:5e:classes:9:level:20"
   },
   {
     "level": 1,
@@ -5288,10 +5288,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:1"
+    "id": "dnd:5e:classes:10:level:1"
   },
   {
     "level": 2,
@@ -5353,10 +5353,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:2"
+    "id": "dnd:5e:classes:10:level:2"
   },
   {
     "level": 3,
@@ -5410,10 +5410,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:3"
+    "id": "dnd:5e:classes:10:level:3"
   },
   {
     "level": 4,
@@ -5467,10 +5467,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:4"
+    "id": "dnd:5e:classes:10:level:4"
   },
   {
     "level": 5,
@@ -5519,10 +5519,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:5"
+    "id": "dnd:5e:classes:10:level:5"
   },
   {
     "level": 6,
@@ -5571,10 +5571,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:6"
+    "id": "dnd:5e:classes:10:level:6"
   },
   {
     "level": 7,
@@ -5623,10 +5623,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:7"
+    "id": "dnd:5e:classes:10:level:7"
   },
   {
     "level": 8,
@@ -5680,10 +5680,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:8"
+    "id": "dnd:5e:classes:10:level:8"
   },
   {
     "level": 9,
@@ -5732,10 +5732,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:9"
+    "id": "dnd:5e:classes:10:level:9"
   },
   {
     "level": 10,
@@ -5789,10 +5789,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:10"
+    "id": "dnd:5e:classes:10:level:10"
   },
   {
     "level": 11,
@@ -5841,10 +5841,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:11"
+    "id": "dnd:5e:classes:10:level:11"
   },
   {
     "level": 12,
@@ -5898,10 +5898,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:12"
+    "id": "dnd:5e:classes:10:level:12"
   },
   {
     "level": 13,
@@ -5950,10 +5950,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:13"
+    "id": "dnd:5e:classes:10:level:13"
   },
   {
     "level": 14,
@@ -6002,10 +6002,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:14"
+    "id": "dnd:5e:classes:10:level:14"
   },
   {
     "level": 15,
@@ -6054,10 +6054,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:15"
+    "id": "dnd:5e:classes:10:level:15"
   },
   {
     "level": 16,
@@ -6111,10 +6111,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:16"
+    "id": "dnd:5e:classes:10:level:16"
   },
   {
     "level": 17,
@@ -6168,10 +6168,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:17"
+    "id": "dnd:5e:classes:10:level:17"
   },
   {
     "level": 18,
@@ -6220,10 +6220,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:18"
+    "id": "dnd:5e:classes:10:level:18"
   },
   {
     "level": 19,
@@ -6277,10 +6277,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:19"
+    "id": "dnd:5e:classes:10:level:19"
   },
   {
     "level": 20,
@@ -6334,10 +6334,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:sorcerer"
+      "id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:sorcerer:level:20"
+    "id": "dnd:5e:classes:10:level:20"
   },
   {
     "level": 1,
@@ -6376,10 +6376,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:1"
+    "id": "dnd:5e:classes:11:level:1"
   },
   {
     "level": 2,
@@ -6414,10 +6414,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:2"
+    "id": "dnd:5e:classes:11:level:2"
   },
   {
     "level": 3,
@@ -6452,10 +6452,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:3"
+    "id": "dnd:5e:classes:11:level:3"
   },
   {
     "level": 4,
@@ -6490,10 +6490,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:4"
+    "id": "dnd:5e:classes:11:level:4"
   },
   {
     "level": 5,
@@ -6528,10 +6528,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:5"
+    "id": "dnd:5e:classes:11:level:5"
   },
   {
     "level": 6,
@@ -6561,10 +6561,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:6"
+    "id": "dnd:5e:classes:11:level:6"
   },
   {
     "level": 7,
@@ -6599,10 +6599,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:7"
+    "id": "dnd:5e:classes:11:level:7"
   },
   {
     "level": 8,
@@ -6637,10 +6637,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:8"
+    "id": "dnd:5e:classes:11:level:8"
   },
   {
     "level": 9,
@@ -6675,10 +6675,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:9"
+    "id": "dnd:5e:classes:11:level:9"
   },
   {
     "level": 10,
@@ -6708,10 +6708,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:10"
+    "id": "dnd:5e:classes:11:level:10"
   },
   {
     "level": 11,
@@ -6746,10 +6746,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:11"
+    "id": "dnd:5e:classes:11:level:11"
   },
   {
     "level": 12,
@@ -6788,10 +6788,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:12"
+    "id": "dnd:5e:classes:11:level:12"
   },
   {
     "level": 13,
@@ -6826,10 +6826,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:13"
+    "id": "dnd:5e:classes:11:level:13"
   },
   {
     "level": 14,
@@ -6859,10 +6859,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:14"
+    "id": "dnd:5e:classes:11:level:14"
   },
   {
     "level": 15,
@@ -6901,10 +6901,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:15"
+    "id": "dnd:5e:classes:11:level:15"
   },
   {
     "level": 16,
@@ -6939,10 +6939,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:16"
+    "id": "dnd:5e:classes:11:level:16"
   },
   {
     "level": 17,
@@ -6977,10 +6977,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:17"
+    "id": "dnd:5e:classes:11:level:17"
   },
   {
     "level": 18,
@@ -7015,10 +7015,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:18"
+    "id": "dnd:5e:classes:11:level:18"
   },
   {
     "level": 19,
@@ -7053,10 +7053,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:19"
+    "id": "dnd:5e:classes:11:level:19"
   },
   {
     "level": 20,
@@ -7095,10 +7095,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:warlock"
+      "id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:warlock:level:20"
+    "id": "dnd:5e:classes:11:level:20"
   },
   {
     "level": 1,
@@ -7132,10 +7132,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:1"
+    "id": "dnd:5e:classes:12:level:1"
   },
   {
     "level": 2,
@@ -7165,10 +7165,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:2"
+    "id": "dnd:5e:classes:12:level:2"
   },
   {
     "level": 3,
@@ -7193,10 +7193,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:3"
+    "id": "dnd:5e:classes:12:level:3"
   },
   {
     "level": 4,
@@ -7226,10 +7226,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:4"
+    "id": "dnd:5e:classes:12:level:4"
   },
   {
     "level": 5,
@@ -7254,10 +7254,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:5"
+    "id": "dnd:5e:classes:12:level:5"
   },
   {
     "level": 6,
@@ -7282,10 +7282,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:6"
+    "id": "dnd:5e:classes:12:level:6"
   },
   {
     "level": 7,
@@ -7310,10 +7310,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:7"
+    "id": "dnd:5e:classes:12:level:7"
   },
   {
     "level": 8,
@@ -7343,10 +7343,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:8"
+    "id": "dnd:5e:classes:12:level:8"
   },
   {
     "level": 9,
@@ -7371,10 +7371,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:9"
+    "id": "dnd:5e:classes:12:level:9"
   },
   {
     "level": 10,
@@ -7399,10 +7399,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:10"
+    "id": "dnd:5e:classes:12:level:10"
   },
   {
     "level": 11,
@@ -7427,10 +7427,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:11"
+    "id": "dnd:5e:classes:12:level:11"
   },
   {
     "level": 12,
@@ -7460,10 +7460,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:12"
+    "id": "dnd:5e:classes:12:level:12"
   },
   {
     "level": 13,
@@ -7488,10 +7488,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:13"
+    "id": "dnd:5e:classes:12:level:13"
   },
   {
     "level": 14,
@@ -7516,10 +7516,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:14"
+    "id": "dnd:5e:classes:12:level:14"
   },
   {
     "level": 15,
@@ -7544,10 +7544,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:15"
+    "id": "dnd:5e:classes:12:level:15"
   },
   {
     "level": 16,
@@ -7577,10 +7577,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:16"
+    "id": "dnd:5e:classes:12:level:16"
   },
   {
     "level": 17,
@@ -7605,10 +7605,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:17"
+    "id": "dnd:5e:classes:12:level:17"
   },
   {
     "level": 18,
@@ -7638,10 +7638,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:18"
+    "id": "dnd:5e:classes:12:level:18"
   },
   {
     "level": 19,
@@ -7671,10 +7671,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:19"
+    "id": "dnd:5e:classes:12:level:19"
   },
   {
     "level": 20,
@@ -7704,10 +7704,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:wizard"
+      "id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:wizard:level:20"
+    "id": "dnd:5e:classes:12:level:20"
   },
   {
     "level": 3,
@@ -7731,7 +7731,7 @@
       "name": "Berserker",
       "id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:berserker:level:3",
+    "id": "dnd:5e:subclasses:1:level:3",
     "index": 241
   },
   {
@@ -7752,7 +7752,7 @@
       "name": "Berserker",
       "id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:berserker:level:6"
+    "id": "dnd:5e:subclasses:1:level:6"
   },
   {
     "level": 10,
@@ -7772,7 +7772,7 @@
       "name": "Berserker",
       "id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:berserker:level:10",
+    "id": "dnd:5e:subclasses:1:level:10",
     "index": 243
   },
   {
@@ -7793,7 +7793,7 @@
       "name": "Berserker",
       "id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:berserker:level:14",
+    "id": "dnd:5e:subclasses:1:level:14",
     "index": 244
   },
   {
@@ -7815,13 +7815,13 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {
       "name": "Lore",
-      "id": "dnd:5e:subclasses:lore"
+      "id": "dnd:5e:subclasses:2"
     },
-    "id": "dnd:5e:subclasses:lore:level:3",
+    "id": "dnd:5e:subclasses:2:level:3",
     "index": 245
   },
   {
@@ -7839,13 +7839,13 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {
       "name": "Lore",
-      "id": "dnd:5e:subclasses:lore"
+      "id": "dnd:5e:subclasses:2"
     },
-    "id": "dnd:5e:subclasses:lore:level:6",
+    "id": "dnd:5e:subclasses:2:level:6",
     "index": 246
   },
   {
@@ -7863,13 +7863,13 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:bard"
+      "id": "dnd:5e:classes:2"
     },
     "subclass": {
       "name": "Lore",
-      "id": "dnd:5e:subclasses:lore"
+      "id": "dnd:5e:subclasses:2"
     },
-    "id": "dnd:5e:subclasses:lore:level:14",
+    "id": "dnd:5e:subclasses:2:level:14",
     "index": 247
   }
 ]
