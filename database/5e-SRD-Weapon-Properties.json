@@ -1,6 +1,6 @@
 [{
   "name": "Ammunition",
-  "desc": ["You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon).", "At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see â€œImprovised Weaponsâ€� later in the section). A sling must be loaded to deal any damage when used in this way."],
+  "desc": ["You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon).", "At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see 'Improvised Weapons' later in the section). A sling must be loaded to deal any damage when used in this way."],
   "id": "dnd:5e:weapon-properties:1"
 }, {
   "name": "Finesse",
@@ -24,7 +24,7 @@
   "id": "dnd:5e:weapon-properties:6"
 }, {
   "name": "Special",
-  "desc": ["A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see â€œSpecial Weaponsâ€� later in this section)."],
+  "desc": ["A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see 'Special Weapons' later in this section)."],
   "id": "dnd:5e:weapon-properties:7"
 }, {
   "name": "Thrown",
@@ -36,7 +36,7 @@
   "id": "dnd:5e:weapon-properties:9"
 }, {
   "name": "Versatile",
-  "desc": ["This weapon can be used with one or two hands. A damage value in parentheses appears with the propertyâ€”the damage when the weapon is used with two hands to make a melee attack."],
+  "desc": ["This weapon can be used with one or two hands. A damage value in parentheses appears with the property'the damage when the weapon is used with two hands to make a melee attack."],
   "id": "dnd:5e:weapon-properties:10"
 }, {
   "name": "Monk",
