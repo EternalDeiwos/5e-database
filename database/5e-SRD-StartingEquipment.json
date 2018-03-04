@@ -1,156 +1,156 @@
 [{
   "class": {
-    "id": "dnd:5e:classes:1",
+    "_id": "dnd:5e:classes:1",
     "name": "Barbarian"
   },
   "starting_equipment": [{
-    "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}, {
-    "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 4}],
+    "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}, {
+    "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 4}],
   "choices_to_make": 2,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 2}]
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 2}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:1"
+  "_id": "dnd:5e:startingequipment:1"
 }, {
   "class": {
-    "id": "dnd:5e:classes:2",
+    "_id": "dnd:5e:classes:2",
     "name": "Bard"
   },
   "starting_equipment": [{
-    "item": { "id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
-    "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}],
+    "item": { "_id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
+    "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}],
   "choices_to_make": 3,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:155", "name": "Diplomat's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:155", "name": "Diplomat's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:157", "name": "Entertainer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:157", "name": "Entertainer's Pack"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:184", "name": "Lute"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:184", "name": "Lute"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:180", "name": "Bagpipes"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:181", "name": "Drum"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:182", "name": "Dulcimer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:183", "name": "Flute"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:184", "name": "Lute"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:185", "name": "Lyre"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:186", "name": "Horn"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:187", "name": "Pan flute"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:188", "name": "Shawm"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:189", "name": "Viol"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:180", "name": "Bagpipes"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:181", "name": "Drum"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:182", "name": "Dulcimer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:183", "name": "Flute"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:184", "name": "Lute"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:185", "name": "Lyre"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:186", "name": "Horn"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:187", "name": "Pan flute"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:188", "name": "Shawm"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:189", "name": "Viol"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:2"
+  "_id": "dnd:5e:startingequipment:2"
 }, {
   "class": {
-    "id": "dnd:5e:classes:3",
+    "_id": "dnd:5e:classes:3",
     "name": "Cleric"
   },
   "starting_equipment": [{
-  "item": { "id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}],
+  "item": { "_id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}],
   "choices_to_make": 5,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace" },"quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace" },"quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:31", "name": "Warhammer" }, "quantity": 1,
+      "item": { "_id": "dnd:5e:equipment:31", "name": "Warhammer" }, "quantity": 1,
       "prerequisites": [{
         "type": "proficiency",
-        "proficiency": { "id": "dnd:5e:proficiencies:51", "name": "Warhammers" }
+        "proficiency": { "_id": "dnd:5e:proficiencies:51", "name": "Warhammers" }
       }]
     }]
   }],
@@ -158,19 +158,19 @@
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:43", "name": "Scale Mail"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:43", "name": "Scale Mail"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:47", "name": "Chain Mail"}, "quantity": 1, "prerequisites": [{
+      "item": { "_id": "dnd:5e:equipment:47", "name": "Chain Mail"}, "quantity": 1, "prerequisites": [{
         "type": "proficiency",
-        "proficiency":{ "id": "dnd:5e:proficiencies:14", "name": "Chain Mail" }
+        "proficiency":{ "_id": "dnd:5e:proficiencies:14", "name": "Chain Mail" }
       }]
     }]
   }],
@@ -178,113 +178,113 @@
     "choose": 2,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
   "choice_4": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:159", "name": "Priest's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:159", "name": "Priest's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
   }],
   "choice_5": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:58", "name": "Amulet"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:93", "name": "Emblem"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:134", "name": "Reliquary"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:58", "name": "Amulet"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:93", "name": "Emblem"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:134", "name": "Reliquary"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:3"
+  "_id": "dnd:5e:startingequipment:3"
 }, {
   "class": {
-    "id": "dnd:5e:classes:4",
+    "_id": "dnd:5e:classes:4",
     "name": "Druid"
   },
   "starting_equipment": [{
-    "item": { "id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
-    "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}],
+    "item": { "_id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
+    "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}],
   "choices_to_make": 3,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:89", "name": "Sprig of mistletoe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:90", "name": "Totem"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:91", "name": "Wooden staff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:92", "name": "Yew wand"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:89", "name": "Sprig of mistletoe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:90", "name": "Totem"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:91", "name": "Wooden staff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:92", "name": "Yew wand"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:4"
+  "_id": "dnd:5e:startingequipment:4"
 }, {
   "class": {
-    "id": "dnd:5e:classes:5",
+    "_id": "dnd:5e:classes:5",
     "name": "Fighter"
   },
 "starting_equipment": [],
@@ -293,543 +293,543 @@
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:47", "name": "Chain Mail"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:47", "name": "Chain Mail"}, "quantity": 1}]
   }, {
     "choose": 3,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:54", "name": "Arrow"}, "quantity": 20}]
+      "item": { "_id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:54", "name": "Arrow"}, "quantity": 20}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-    "item": { "id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}]
+    "item": { "_id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 2,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 2}]
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 2}]
   }],
   "choice_4": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
   }],
   "choice_5": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:5"
+  "_id": "dnd:5e:startingequipment:5"
 }, {
   "class": {
-    "id": "dnd:5e:classes:6",
+    "_id": "dnd:5e:classes:6",
     "name": "Monk"
   },
   "starting_equipment": [{
-  "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 10}],
+  "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 10}],
   "choices_to_make": 2,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:6"
+  "_id": "dnd:5e:startingequipment:6"
 }, {
   "class": {
-    "id": "dnd:5e:classes:7",
+    "_id": "dnd:5e:classes:7",
     "name": "Paladin"
   },
   "starting_equipment": [{
-  "item": { "id": "dnd:5e:equipment:47", "name": "Chain Mail"}, "quantity": 1}],
+  "item": { "_id": "dnd:5e:equipment:47", "name": "Chain Mail"}, "quantity": 1}],
   "choices_to_make": 5,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-    "item": { "id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}]
+    "item": { "_id": "dnd:5e:equipment:50", "name": "Shield"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 5}]
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 5}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:159", "name": "Priest's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:159", "name": "Priest's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
   }],
   "choice_4": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:58", "name": "Amulet"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:93", "name": "Emblem"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:134", "name": "Reliquary"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:58", "name": "Amulet"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:93", "name": "Emblem"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:134", "name": "Reliquary"}, "quantity": 1}]
   }],
   "choice_5": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:15", "name": "Battleaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:16", "name": "Flail"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:17", "name": "Glaive"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:18", "name": "Greataxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:19", "name": "Greatsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:20", "name": "Halberd"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:21", "name": "Lance"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:22", "name": "Longsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:23", "name": "Maul"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:24", "name": "Morningstar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:25", "name": "Pike"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:27", "name": "Scimitar"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:29", "name": "Trident"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:30", "name": "War pick"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:31", "name": "Warhammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:32", "name": "Whip"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:33", "name": "Blowgun"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:34", "name": "Crossbow, hand"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:35", "name": "Crossbow, heavy"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:37", "name": "Net"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:7"
+  "_id": "dnd:5e:startingequipment:7"
 }, {
   "class": {
-    "id": "dnd:5e:classes:8",
+    "_id": "dnd:5e:classes:8",
     "name": "Ranger"
   },
   "starting_equipment": [{
-    "item": { "id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
-    "item": { "id": "dnd:5e:equipment:54", "name": "Arrow"}, "quantity": 20}],
+    "item": { "_id": "dnd:5e:equipment:36", "name": "Longbow"}, "quantity": 1}, {
+    "item": { "_id": "dnd:5e:equipment:54", "name": "Arrow"}, "quantity": 20}],
   "choices_to_make": 3,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:43", "name": "Scale Mail"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:43", "name": "Scale Mail"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 2}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 2}]
   }, {
     "choose": 2,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:8"
+  "_id": "dnd:5e:startingequipment:8"
 }, {
   "class": {
-    "id": "dnd:5e:classes:9",
+    "_id": "dnd:5e:classes:9",
     "name": "Rogue"
   },
   "starting_equipment": [{
-    "item": { "id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
-    "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 2}, {
-    "item": { "id": "dnd:5e:equipment:191", "name": "Thieves’ tools"}, "quantity": 1}],
+    "item": { "_id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}, {
+    "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 2}, {
+    "item": { "_id": "dnd:5e:equipment:191", "name": "Thieves’ tools"}, "quantity": 1}],
   "choices_to_make": 3,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:26", "name": "Rapier"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 2,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:54", "name": "Arrow"}, "quantity": 20}]
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:54", "name": "Arrow"}, "quantity": 20}]
   }, {
     "choose": 2,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:28", "name": "Shortsword"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:154", "name": "Burglar's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:154", "name": "Burglar's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:9"
+  "_id": "dnd:5e:startingequipment:9"
 }, {
   "class": {
-    "id": "dnd:5e:classes:10",
+    "_id": "dnd:5e:classes:10",
     "name": "Sorcerer"
   },
   "starting_equipment": [{
-  "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 2}],
+  "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 2}],
   "choices_to_make": 3,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:87", "name": "Component pouch"}, "quantity": 2}]
+      "item": { "_id": "dnd:5e:equipment:87", "name": "Component pouch"}, "quantity": 2}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:60", "name": "Crystal"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:61", "name": "Orb"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:62", "name": "Rod"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:63", "name": "Staff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:64", "name": "Wand"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:60", "name": "Crystal"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:61", "name": "Orb"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:62", "name": "Rod"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:63", "name": "Staff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:64", "name": "Wand"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:158", "name": "Explorer's Pack"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:10"
+  "_id": "dnd:5e:startingequipment:10"
 }, {
   "class": {
-    "id": "dnd:5e:classes:11",
+    "_id": "dnd:5e:classes:11",
     "name": "Warlock"
   },
   "starting_equipment": [{
-    "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 2}, {
-    "item": { "id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}],
+    "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 2}, {
+    "item": { "_id": "dnd:5e:equipment:39", "name": "Leather"}, "quantity": 1}],
   "choices_to_make": 4,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:56", "name": "Crossbow bolt"}, "quantity": 20}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:87", "name": "Component pouch"}, "quantity": 2}]
+      "item": { "_id": "dnd:5e:equipment:87", "name": "Component pouch"}, "quantity": 2}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:60", "name": "Crystal"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:61", "name": "Orb"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:62", "name": "Rod"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:63", "name": "Staff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:64", "name": "Wand"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:60", "name": "Crystal"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:61", "name": "Orb"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:62", "name": "Rod"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:63", "name": "Staff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:64", "name": "Wand"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:160", "name": "Scholar's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:160", "name": "Scholar's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
   }],
   "choice_4": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:1", "name": "Club"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:3", "name": "Greatclub"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:4", "name": "Handaxe"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:5", "name": "Javelin"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:6", "name": "Light hammer"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:7", "name": "Mace"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:9", "name": "Sickle"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:10", "name": "Spear"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:11", "name": "Crossbow, light"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:12", "name": "Dart"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:13", "name": "Shortbow"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:14", "name": "Sling"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:11"
+  "_id": "dnd:5e:startingequipment:11"
 }, {
   "class": {
-    "id": "dnd:5e:classes:12",
+    "_id": "dnd:5e:classes:12",
     "name": "Wizard"
   },
   "starting_equipment": [{
-  "item": { "id": "dnd:5e:equipment:145", "name": "Spellbook"}, "quantity": 1}],
+  "item": { "_id": "dnd:5e:equipment:145", "name": "Spellbook"}, "quantity": 1}],
   "choices_to_make": 4,
   "choice_1": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:2", "name": "Dagger"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:8", "name": "Quarterstaff"}, "quantity": 1}]
   }],
   "choice_2": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:87", "name": "Component pouch"}, "quantity": 2}]
+      "item": { "_id": "dnd:5e:equipment:87", "name": "Component pouch"}, "quantity": 2}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:60", "name": "Crystal"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:61", "name": "Orb"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:62", "name": "Rod"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:63", "name": "Staff"}, "quantity": 1}, {
-      "item": { "id": "dnd:5e:equipment:64", "name": "Wand"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:60", "name": "Crystal"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:61", "name": "Orb"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:62", "name": "Rod"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:63", "name": "Staff"}, "quantity": 1}, {
+      "item": { "_id": "dnd:5e:equipment:64", "name": "Wand"}, "quantity": 1}]
   }],
   "choice_3": [{
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:160", "name": "Scholar's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:160", "name": "Scholar's Pack"}, "quantity": 1}]
   }, {
     "choose": 1,
     "type": "equipment",
     "from": [{
-      "item": { "id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
+      "item": { "_id": "dnd:5e:equipment:156", "name": "Dungeoneer's Pack"}, "quantity": 1}]
   }],
-  "id": "dnd:5e:startingequipment:12"
+  "_id": "dnd:5e:startingequipment:12"
 }]

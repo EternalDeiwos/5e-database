@@ -2,7 +2,7 @@
   {
     "name": "Hill Dwarf",
     "race": {
-      "id": "dnd:5e:races:1",
+      "_id": "dnd:5e:races:1",
       "name": "Dwarf"
     },
     "desc": "As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.",
@@ -24,17 +24,17 @@
     },
     "racial_traits": [
       {
-        "id": "dnd:5e:traits:4",
+        "_id": "dnd:5e:traits:4",
         "name": "Dwarven Toughness"
       }
     ],
     "racial_trait_options": {},
-    "id": "dnd:5e:subraces:1"
+    "_id": "dnd:5e:subraces:1"
   },
   {
     "name": "High Elf",
     "race": {
-      "id": "dnd:5e:races:2",
+      "_id": "dnd:5e:races:2",
       "name": "Elf"
     },
     "desc": "As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races.",
@@ -48,19 +48,19 @@
     ],
     "starting_proficiencies:": [
       {
-        "id": "dnd:5e:proficiencies:42",
+        "_id": "dnd:5e:proficiencies:42",
         "name": "Longswords"
       },
       {
-        "id": "dnd:5e:proficiencies:48",
+        "_id": "dnd:5e:proficiencies:48",
         "name": "Shortswords"
       },
       {
-        "id": "dnd:5e:proficiencies:33",
+        "_id": "dnd:5e:proficiencies:33",
         "name": "Shortbows"
       },
       {
-        "id": "dnd:5e:proficiencies:56",
+        "_id": "dnd:5e:proficiencies:56",
         "name": "Longbows"
       }
     ],
@@ -72,59 +72,59 @@
       "choose": 1,
       "from": [
         {
-          "id": "dnd:5e:languages:2",
+          "_id": "dnd:5e:languages:2",
           "name": "Dwarvish"
         },
         {
-          "id": "dnd:5e:languages:4",
+          "_id": "dnd:5e:languages:4",
           "name": "Giant"
         },
         {
-          "id": "dnd:5e:languages:5",
+          "_id": "dnd:5e:languages:5",
           "name": "Gnomish"
         },
         {
-          "id": "dnd:5e:languages:6",
+          "_id": "dnd:5e:languages:6",
           "name": "Goblin"
         },
         {
-          "id": "dnd:5e:languages:7",
+          "_id": "dnd:5e:languages:7",
           "name": "Halfling"
         },
         {
-          "id": "dnd:5e:languages:8",
+          "_id": "dnd:5e:languages:8",
           "name": "Orc"
         },
         {
-          "id": "dnd:5e:languages:9",
+          "_id": "dnd:5e:languages:9",
           "name": "Abyssal"
         },
         {
-          "id": "dnd:5e:languages:10",
+          "_id": "dnd:5e:languages:10",
           "name": "Celestial"
         },
         {
-          "id": "dnd:5e:languages:11",
+          "_id": "dnd:5e:languages:11",
           "name": "Draconic"
         },
         {
-          "id": "dnd:5e:languages:12",
+          "_id": "dnd:5e:languages:12",
           "name": "Deep Speech"
         },
         {
-          "id": "dnd:5e:languages:13",
+          "_id": "dnd:5e:languages:13",
           "name": "Infernal"
         },
         {
-          "id": "dnd:5e:languages:14",
+          "_id": "dnd:5e:languages:14",
           "name": "Primordial"
         },
         {
-          "id": "dnd:5e:languages:15",
+          "_id": "dnd:5e:languages:15",
           "name": "Sylvan"
         },
         {
-          "id": "dnd:5e:languages:16",
+          "_id": "dnd:5e:languages:16",
           "name": "Undercommon"
         }
       ],
@@ -136,63 +136,63 @@
         "choose": 1,
         "from": [
           {
-            "id": "dnd:5e:traits:9",
+            "_id": "dnd:5e:traits:9",
             "name": "High Elf Cantrip: Light"
           },
           {
-            "id": "dnd:5e:traits:10",
+            "_id": "dnd:5e:traits:10",
             "name": "High Elf Cantrip: Mage Hand"
           },
           {
-            "id": "dnd:5e:traits:11",
+            "_id": "dnd:5e:traits:11",
             "name": "High Elf Cantrip: Mending"
           },
           {
-            "id": "dnd:5e:traits:12",
+            "_id": "dnd:5e:traits:12",
             "name": "High Elf Cantrip: Message"
           },
           {
-            "id": "dnd:5e:traits:13",
+            "_id": "dnd:5e:traits:13",
             "name": "High Elf Cantrip: Minor Illusion"
           },
           {
-            "id": "dnd:5e:traits:14",
+            "_id": "dnd:5e:traits:14",
             "name": "High Elf Cantrip: Acid Splash"
           },
           {
-            "id": "dnd:5e:traits:15",
+            "_id": "dnd:5e:traits:15",
             "name": "High Elf Cantrip: Prestidigitation"
           },
           {
-            "id": "dnd:5e:traits:16",
+            "_id": "dnd:5e:traits:16",
             "name": "High Elf Cantrip: Ray of Frost"
           },
           {
-            "id": "dnd:5e:traits:17",
+            "_id": "dnd:5e:traits:17",
             "name": "High Elf Cantrip: Shocking Grasp"
           },
           {
-            "id": "dnd:5e:traits:18",
+            "_id": "dnd:5e:traits:18",
             "name": "High Elf Cantrip: True Strike"
           },
           {
-            "id": "dnd:5e:traits:19",
+            "_id": "dnd:5e:traits:19",
             "name": "High Elf Cantrip: Chill Touch"
           },
           {
-            "id": "dnd:5e:traits:20",
+            "_id": "dnd:5e:traits:20",
             "name": "High Elf Cantrip: Dancing Lights"
           }
         ],
         "type": "trait"
       }
     ,
-    "id": "dnd:5e:subraces:2"
+    "_id": "dnd:5e:subraces:2"
   },
   {
     "name": "Lightfoot Halfling",
     "race": {
-      "id": "dnd:5e:races:3",
+      "_id": "dnd:5e:races:3",
       "name": "Halfling"
     },
     "desc": "As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.",
@@ -214,17 +214,17 @@
     },
     "racial_traits": [
       {
-        "id": "dnd:5e:traits:23",
+        "_id": "dnd:5e:traits:23",
         "name": "Naturally Stealthy"
       }
     ],
     "racial_trait_options": {},
-    "id": "dnd:5e:subraces:3"
+    "_id": "dnd:5e:subraces:3"
   },
   {
     "name": "Mountain Dwarf",
     "race": {
-      "id": "dnd:5e:races:1",
+      "_id": "dnd:5e:races:1",
       "name": "Dwarf"
     },
     "desc": "As a mountain dwarf, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf), and tend toward lighter coloration.",
@@ -238,11 +238,11 @@
     ],
     "starting_proficiencies:": [
       {
-        "id": "dnd:5e:proficiencies:2",
+        "_id": "dnd:5e:proficiencies:2",
         "name": "Medium armor"
       },
       {
-        "id": "dnd:5e:proficiencies:3",
+        "_id": "dnd:5e:proficiencies:3",
         "name": "Heavy armor"
       }
     ],
@@ -253,12 +253,12 @@
     },
     "racial_traits": [],
     "racial_trait_options": {},
-    "id": "dnd:5e:subraces:4"
+    "_id": "dnd:5e:subraces:4"
   },
   {
     "name": "Wood Elf",
     "race": {
-      "id": "dnd:5e:races:2",
+      "_id": "dnd:5e:races:2",
       "name": "Elf"
     },
     "desc": "As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly through your native forrests.",
@@ -272,19 +272,19 @@
     ],
     "starting_proficiencies:": [
       {
-        "id": "dnd:5e:proficiencies:42",
+        "_id": "dnd:5e:proficiencies:42",
         "name": "Longswords"
       },
       {
-        "id": "dnd:5e:proficiencies:48",
+        "_id": "dnd:5e:proficiencies:48",
         "name": "Shortswords"
       },
       {
-        "id": "dnd:5e:proficiencies:33",
+        "_id": "dnd:5e:proficiencies:33",
         "name": "Shortbows"
       },
       {
-        "id": "dnd:5e:proficiencies:56",
+        "_id": "dnd:5e:proficiencies:56",
         "name": "Longbows"
       }
     ],
@@ -295,21 +295,21 @@
     },
     "racial_traits": [
       {
-        "id": "dnd:5e:traits:37",
+        "_id": "dnd:5e:traits:37",
         "name": "Fleet of Foot"
       },
       {
-        "id": "dnd:5e:traits:38",
+        "_id": "dnd:5e:traits:38",
         "name": "Mask of the Wild"
       }
     ],
     "racial_trait_options": {},
-    "id": "dnd:5e:subraces:5"
+    "_id": "dnd:5e:subraces:5"
   },
   {
     "name": "Dark Elf (Drow)",
     "race": {
-      "id": "dnd:5e:races:2",
+      "_id": "dnd:5e:races:2",
       "name": "Elf"
     },
     "desc": "As a wood elf, you have keen senses and intuition, and your fleet feet carry you quickly through your native forrests.",
@@ -323,15 +323,15 @@
     ],
     "starting_proficiencies:": [
       {
-        "id": "dnd:5e:proficiencies:46",
+        "_id": "dnd:5e:proficiencies:46",
         "name": "Rapiers"
       },
       {
-        "id": "dnd:5e:proficiencies:48",
+        "_id": "dnd:5e:proficiencies:48",
         "name": "Shortswords"
       },
       {
-        "id": "dnd:5e:proficiencies:54",
+        "_id": "dnd:5e:proficiencies:54",
         "name": "Crossbows, hand"
       }
     ],
@@ -342,19 +342,19 @@
     },
     "racial_traits": [
       {
-        "id": "dnd:5e:traits:39",
+        "_id": "dnd:5e:traits:39",
         "name": "Superior Darkvision"
       },
       {
-        "id": "dnd:5e:traits:40",
+        "_id": "dnd:5e:traits:40",
         "name": "Sunlight Sensitivity"
       },
       {
-        "id": "dnd:5e:traits:41",
+        "_id": "dnd:5e:traits:41",
         "name": "Drow Magic"
       }
     ],
     "racial_trait_options": {},
-    "id": "dnd:5e:subraces:6"
+    "_id": "dnd:5e:subraces:6"
   }
 ]

@@ -7,11 +7,11 @@
     "features": [
       {
         "name": "Rage",
-        "id": "dnd:5e:features:1"
+        "_id": "dnd:5e:features:1"
       },
       {
         "name": "Unarmored Defense",
-        "id": "dnd:5e:features:2"
+        "_id": "dnd:5e:features:2"
       }
     ],
     "class_specific": {
@@ -21,10 +21,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:1"
+    "_id": "dnd:5e:classes:1:level:1"
   },
   {
     "level": 2,
@@ -34,11 +34,11 @@
     "features": [
       {
         "name": "Reckless Attack",
-        "id": "dnd:5e:features:3"
+        "_id": "dnd:5e:features:3"
       },
       {
         "name": "Danger Sense",
-        "id": "dnd:5e:features:4"
+        "_id": "dnd:5e:features:4"
       }
     ],
     "class_specific": {
@@ -48,10 +48,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:2"
+    "_id": "dnd:5e:classes:1:level:2"
   },
   {
     "level": 3,
@@ -61,7 +61,7 @@
     "features": [
       {
         "name": "Primal Path",
-        "id": "dnd:5e:features:5"
+        "_id": "dnd:5e:features:5"
       }
     ],
     "class_specific": {
@@ -71,10 +71,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:3"
+    "_id": "dnd:5e:classes:1:level:3"
   },
   {
     "level": 4,
@@ -84,7 +84,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:7"
+        "_id": "dnd:5e:features:7"
       }
     ],
     "class_specific": {
@@ -94,10 +94,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:4"
+    "_id": "dnd:5e:classes:1:level:4"
   },
   {
     "level": 5,
@@ -107,11 +107,11 @@
     "features": [
       {
         "name": "Extra Attack",
-        "id": "dnd:5e:features:8"
+        "_id": "dnd:5e:features:8"
       },
       {
         "name": "Fast Movement",
-        "id": "dnd:5e:features:9"
+        "_id": "dnd:5e:features:9"
       }
     ],
     "class_specific": {
@@ -121,10 +121,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:5"
+    "_id": "dnd:5e:classes:1:level:5"
   },
   {
     "level": 6,
@@ -140,10 +140,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:6"
+    "_id": "dnd:5e:classes:1:level:6"
   },
   {
     "level": 7,
@@ -153,7 +153,7 @@
     "features": [
       {
         "name": "Mindless Rage",
-        "id": "dnd:5e:features:10"
+        "_id": "dnd:5e:features:10"
       }
     ],
     "spellcasting": {},
@@ -164,10 +164,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:7"
+    "_id": "dnd:5e:classes:1:level:7"
   },
   {
     "level": 8,
@@ -177,7 +177,7 @@
     "features": [
       {
         "name": "Feral Instinct",
-        "id": "dnd:5e:features:11"
+        "_id": "dnd:5e:features:11"
       }
     ],
     "spellcasting": {},
@@ -188,10 +188,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:8"
+    "_id": "dnd:5e:classes:1:level:8"
   },
   {
     "level": 9,
@@ -201,7 +201,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:12"
+        "_id": "dnd:5e:features:12"
       }
     ],
     "spellcasting": {},
@@ -212,10 +212,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:9"
+    "_id": "dnd:5e:classes:1:level:9"
   },
   {
     "level": 10,
@@ -231,10 +231,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:10"
+    "_id": "dnd:5e:classes:1:level:10"
   },
   {
     "level": 11,
@@ -244,7 +244,7 @@
     "features": [
       {
         "name": "Relentless Rage",
-        "id": "dnd:5e:features:15"
+        "_id": "dnd:5e:features:15"
       }
     ],
     "spellcasting": {},
@@ -255,10 +255,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:11"
+    "_id": "dnd:5e:classes:1:level:11"
   },
   {
     "level": 12,
@@ -268,7 +268,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:16"
+        "_id": "dnd:5e:features:16"
       }
     ],
     "class_specific": {
@@ -278,10 +278,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:12"
+    "_id": "dnd:5e:classes:1:level:12"
   },
   {
     "level": 13,
@@ -291,7 +291,7 @@
     "features": [
       {
         "name": "Brutal Critical (2 dice)",
-        "id": "dnd:5e:features:17"
+        "_id": "dnd:5e:features:17"
       }
     ],
     "class_specific": {
@@ -301,10 +301,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:13"
+    "_id": "dnd:5e:classes:1:level:13"
   },
   {
     "level": 14,
@@ -319,10 +319,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:14"
+    "_id": "dnd:5e:classes:1:level:14"
   },
   {
     "level": 15,
@@ -332,7 +332,7 @@
     "features": [
       {
         "name": "Persistent Rage",
-        "id": "dnd:5e:features:19"
+        "_id": "dnd:5e:features:19"
       }
     ],
     "class_specific": {
@@ -342,10 +342,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:15"
+    "_id": "dnd:5e:classes:1:level:15"
   },
   {
     "level": 16,
@@ -355,7 +355,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:20"
+        "_id": "dnd:5e:features:20"
       }
     ],
     "class_specific": {
@@ -365,10 +365,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:16"
+    "_id": "dnd:5e:classes:1:level:16"
   },
   {
     "level": 17,
@@ -378,7 +378,7 @@
     "features": [
       {
         "name": "Brutal Critical (3 dice)",
-        "id": "dnd:5e:features:21"
+        "_id": "dnd:5e:features:21"
       }
     ],
     "class_specific": {
@@ -388,10 +388,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:17"
+    "_id": "dnd:5e:classes:1:level:17"
   },
   {
     "level": 18,
@@ -401,7 +401,7 @@
     "features": [
       {
         "name": "Indomitable Might",
-        "id": "dnd:5e:features:22"
+        "_id": "dnd:5e:features:22"
       }
     ],
     "class_specific": {
@@ -411,10 +411,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:18"
+    "_id": "dnd:5e:classes:1:level:18"
   },
   {
     "level": 19,
@@ -424,7 +424,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:23"
+        "_id": "dnd:5e:features:23"
       }
     ],
     "class_specific": {
@@ -434,10 +434,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:19"
+    "_id": "dnd:5e:classes:1:level:19"
   },
   {
     "level": 20,
@@ -447,7 +447,7 @@
     "features": [
       {
         "name": "Fast Movement",
-        "id": "dnd:5e:features:24"
+        "_id": "dnd:5e:features:24"
       }
     ],
     "class_specific": {
@@ -457,10 +457,10 @@
     },
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:1:level:20"
+    "_id": "dnd:5e:classes:1:level:20"
   },
   {
     "level": 1,
@@ -470,15 +470,15 @@
     "features": [
       {
         "name": "Spellcasting",
-        "id": "dnd:5e:features:25"
+        "_id": "dnd:5e:features:25"
       },
       {
         "name": "Bardic Inspiration (d6)",
-        "id": "dnd:5e:features:26"
+        "_id": "dnd:5e:features:26"
       },
       {
         "name": "Superior Inspiration",
-        "id": "dnd:5e:features:70"
+        "_id": "dnd:5e:features:70"
       }
     ],
     "spellcasting": {
@@ -503,10 +503,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:1"
+    "_id": "dnd:5e:classes:2:level:1"
   },
   {
     "level": 2,
@@ -516,11 +516,11 @@
     "features": [
       {
         "name": "Jack of All Trades",
-        "id": "dnd:5e:features:27"
+        "_id": "dnd:5e:features:27"
       },
       {
         "name": "Song of Rest (d6)",
-        "id": "dnd:5e:features:28"
+        "_id": "dnd:5e:features:28"
       }
     ],
     "spellcasting": {
@@ -545,10 +545,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:2"
+    "_id": "dnd:5e:classes:2:level:2"
   },
   {
     "level": 3,
@@ -557,13 +557,13 @@
     "feature_choices": [
       {
         "name": "Choose: Expertise 1",
-        "id": "dnd:5e:features:32"
+        "_id": "dnd:5e:features:32"
       }
     ],
     "features": [
       {
         "name": "Bard College",
-        "id": "dnd:5e:features:29"
+        "_id": "dnd:5e:features:29"
       }
     ],
     "spellcasting": {
@@ -588,10 +588,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:3"
+    "_id": "dnd:5e:classes:2:level:3"
   },
   {
     "level": 4,
@@ -601,7 +601,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:51"
+        "_id": "dnd:5e:features:51"
       }
     ],
     "spellcasting": {
@@ -626,10 +626,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:4"
+    "_id": "dnd:5e:classes:2:level:4"
   },
   {
     "level": 5,
@@ -639,11 +639,11 @@
     "features": [
       {
         "name": "Bardic Inspiration (d8)",
-        "id": "dnd:5e:features:52"
+        "_id": "dnd:5e:features:52"
       },
       {
         "name": "Font of Inspiration",
-        "id": "dnd:5e:features:53"
+        "_id": "dnd:5e:features:53"
       }
     ],
     "spellcasting": {
@@ -668,10 +668,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:5"
+    "_id": "dnd:5e:classes:2:level:5"
   },
   {
     "level": 6,
@@ -701,10 +701,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:6"
+    "_id": "dnd:5e:classes:2:level:6"
   },
   {
     "level": 7,
@@ -714,7 +714,7 @@
     "features": [
       {
         "name": "Countercharm",
-        "id": "dnd:5e:features:54"
+        "_id": "dnd:5e:features:54"
       }
     ],
     "spellcasting": {
@@ -739,10 +739,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:7"
+    "_id": "dnd:5e:classes:2:level:7"
   },
   {
     "level": 8,
@@ -751,7 +751,7 @@
     "feature_choices": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:56"
+        "_id": "dnd:5e:features:56"
       }
     ],
     "features": [],
@@ -777,10 +777,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:8"
+    "_id": "dnd:5e:classes:2:level:8"
   },
   {
     "level": 9,
@@ -790,7 +790,7 @@
     "features": [
       {
         "name": "Song of Rest (d8)",
-        "id": "dnd:5e:features:57"
+        "_id": "dnd:5e:features:57"
       }
     ],
     "spellcasting": {
@@ -815,10 +815,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:9"
+    "_id": "dnd:5e:classes:2:level:9"
   },
   {
     "level": 10,
@@ -827,17 +827,17 @@
     "feature_choices": [
       {
         "name": "Choose: Expertise 2",
-        "id": "dnd:5e:features:59"
+        "_id": "dnd:5e:features:59"
       }
     ],
     "features": [
       {
         "name": "Bardic Inspiration (d10)",
-        "id": "dnd:5e:features:58"
+        "_id": "dnd:5e:features:58"
       },
       {
         "name": "Magical Secrets 1",
-        "id": "dnd:5e:features:60"
+        "_id": "dnd:5e:features:60"
       }
     ],
     "spellcasting": {
@@ -862,10 +862,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:10"
+    "_id": "dnd:5e:classes:2:level:10"
   },
   {
     "level": 11,
@@ -895,10 +895,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:11"
+    "_id": "dnd:5e:classes:2:level:11"
   },
   {
     "level": 12,
@@ -908,7 +908,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:61"
+        "_id": "dnd:5e:features:61"
       }
     ],
     "spellcasting": {
@@ -933,10 +933,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:12"
+    "_id": "dnd:5e:classes:2:level:12"
   },
   {
     "level": 13,
@@ -946,7 +946,7 @@
     "features": [
       {
         "name": "Song of Rest (d10)",
-        "id": "dnd:5e:features:62"
+        "_id": "dnd:5e:features:62"
       }
     ],
     "spellcasting": {
@@ -971,10 +971,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:13"
+    "_id": "dnd:5e:classes:2:level:13"
   },
   {
     "level": 14,
@@ -984,7 +984,7 @@
     "features": [
       {
         "name": "Magical Secrets 2",
-        "id": "dnd:5e:features:63"
+        "_id": "dnd:5e:features:63"
       }
     ],
     "spellcasting": {
@@ -1009,10 +1009,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:14"
+    "_id": "dnd:5e:classes:2:level:14"
   },
   {
     "level": 15,
@@ -1022,7 +1022,7 @@
     "features": [
       {
         "name": "Bardic Inspiration (d12)",
-        "id": "dnd:5e:features:65"
+        "_id": "dnd:5e:features:65"
       }
     ],
     "spellcasting": {
@@ -1047,10 +1047,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:15"
+    "_id": "dnd:5e:classes:2:level:15"
   },
   {
     "level": 16,
@@ -1060,7 +1060,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:66"
+        "_id": "dnd:5e:features:66"
       }
     ],
     "spellcasting": {
@@ -1085,10 +1085,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:16"
+    "_id": "dnd:5e:classes:2:level:16"
   },
   {
     "level": 17,
@@ -1098,7 +1098,7 @@
     "features": [
       {
         "name": "Song of Rest (d12)",
-        "id": "dnd:5e:features:67"
+        "_id": "dnd:5e:features:67"
       }
     ],
     "spellcasting": {
@@ -1123,10 +1123,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:17"
+    "_id": "dnd:5e:classes:2:level:17"
   },
   {
     "level": 18,
@@ -1136,7 +1136,7 @@
     "features": [
       {
         "name": "Magical Secrets 3",
-        "id": "dnd:5e:features:68"
+        "_id": "dnd:5e:features:68"
       }
     ],
     "spellcasting": {
@@ -1161,10 +1161,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:18"
+    "_id": "dnd:5e:classes:2:level:18"
   },
   {
     "level": 19,
@@ -1174,7 +1174,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:69"
+        "_id": "dnd:5e:features:69"
       }
     ],
     "spellcasting": {
@@ -1199,10 +1199,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:19"
+    "_id": "dnd:5e:classes:2:level:19"
   },
   {
     "level": 20,
@@ -1212,7 +1212,7 @@
     "features": [
       {
         "name": "Superior Inspiration",
-        "id": "dnd:5e:features:70"
+        "_id": "dnd:5e:features:70"
       }
     ],
     "spellcasting": {
@@ -1237,10 +1237,10 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:2:level:20"
+    "_id": "dnd:5e:classes:2:level:20"
   },
   {
     "level": 1,
@@ -1250,15 +1250,15 @@
     "features": [
       {
         "name": "Spellcasting",
-        "id": "dnd:5e:features:71"
+        "_id": "dnd:5e:features:71"
       },
       {
         "name": "Divine Domain",
-        "id": "dnd:5e:features:72"
+        "_id": "dnd:5e:features:72"
       },
       {
         "name": "Domain Spells 1",
-        "id": "dnd:5e:features:73"
+        "_id": "dnd:5e:features:73"
       }
     ],
     "spellcasting": {
@@ -1280,10 +1280,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:1"
+    "_id": "dnd:5e:classes:3:level:1"
   },
   {
     "level": 2,
@@ -1293,11 +1293,11 @@
     "features": [
       {
         "name": "Channel Divinity (1/rest)",
-        "id": "dnd:5e:features:76"
+        "_id": "dnd:5e:features:76"
       },
       {
         "name": "Channel Divinity: Turn Undead",
-        "id": "dnd:5e:features:77"
+        "_id": "dnd:5e:features:77"
       }
     ],
     "spellcasting": {
@@ -1319,10 +1319,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:2"
+    "_id": "dnd:5e:classes:3:level:2"
   },
   {
     "level": 3,
@@ -1332,7 +1332,7 @@
     "features": [
       {
         "name": "Domain Spells 2",
-        "id": "dnd:5e:features:79"
+        "_id": "dnd:5e:features:79"
       }
     ],
     "spellcasting": {
@@ -1354,10 +1354,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:3"
+    "_id": "dnd:5e:classes:3:level:3"
   },
   {
     "level": 4,
@@ -1367,7 +1367,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:80"
+        "_id": "dnd:5e:features:80"
       }
     ],
     "spellcasting": {
@@ -1389,10 +1389,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:4"
+    "_id": "dnd:5e:classes:3:level:4"
   },
   {
     "level": 5,
@@ -1402,11 +1402,11 @@
     "features": [
       {
         "name": "Domain Spells 3",
-        "id": "dnd:5e:features:81"
+        "_id": "dnd:5e:features:81"
       },
       {
         "name": "Destroy Undead (CR 1/2 or below)",
-        "id": "dnd:5e:features:82"
+        "_id": "dnd:5e:features:82"
       }
     ],
     "spellcasting": {
@@ -1428,10 +1428,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:5"
+    "_id": "dnd:5e:classes:3:level:5"
   },
   {
     "level": 6,
@@ -1441,7 +1441,7 @@
     "features": [
       {
         "name": "Channel Divinity (2/rest)",
-        "id": "dnd:5e:features:83"
+        "_id": "dnd:5e:features:83"
       }
     ],
     "spellcasting": {
@@ -1463,10 +1463,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:6"
+    "_id": "dnd:5e:classes:3:level:6"
   },
   {
     "level": 7,
@@ -1476,7 +1476,7 @@
     "features": [
       {
         "name": "Domain Spells 4",
-        "id": "dnd:5e:features:85"
+        "_id": "dnd:5e:features:85"
       }
     ],
     "spellcasting": {
@@ -1498,10 +1498,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:7"
+    "_id": "dnd:5e:classes:3:level:7"
   },
   {
     "level": 8,
@@ -1511,11 +1511,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:86"
+        "_id": "dnd:5e:features:86"
       },
       {
         "name": "Destroy Undead (CR 1 or below)",
-        "id": "dnd:5e:features:87"
+        "_id": "dnd:5e:features:87"
       }
     ],
     "spellcasting": {
@@ -1537,10 +1537,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:8"
+    "_id": "dnd:5e:classes:3:level:8"
   },
   {
     "level": 9,
@@ -1550,7 +1550,7 @@
     "features": [
       {
         "name": "Domain Spells 5",
-        "id": "dnd:5e:features:89"
+        "_id": "dnd:5e:features:89"
       }
     ],
     "spellcasting": {
@@ -1572,10 +1572,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:9"
+    "_id": "dnd:5e:classes:3:level:9"
   },
   {
     "level": 10,
@@ -1585,7 +1585,7 @@
     "features": [
       {
         "name": "Divine Intervention",
-        "id": "dnd:5e:features:90"
+        "_id": "dnd:5e:features:90"
       }
     ],
     "spellcasting": {
@@ -1607,10 +1607,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:10"
+    "_id": "dnd:5e:classes:3:level:10"
   },
   {
     "level": 11,
@@ -1620,7 +1620,7 @@
     "features": [
       {
         "name": "Destroy Undead (CR 2 or below)",
-        "id": "dnd:5e:features:91"
+        "_id": "dnd:5e:features:91"
       }
     ],
     "spellcasting": {
@@ -1642,10 +1642,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:11"
+    "_id": "dnd:5e:classes:3:level:11"
   },
   {
     "level": 12,
@@ -1655,7 +1655,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:92"
+        "_id": "dnd:5e:features:92"
       }
     ],
     "spellcasting": {
@@ -1677,10 +1677,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:12"
+    "_id": "dnd:5e:classes:3:level:12"
   },
   {
     "level": 13,
@@ -1707,10 +1707,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:13"
+    "_id": "dnd:5e:classes:3:level:13"
   },
   {
     "level": 14,
@@ -1720,7 +1720,7 @@
     "features": [
       {
         "name": "Destroy Undead (CR 3 or below)",
-        "id": "dnd:5e:features:93"
+        "_id": "dnd:5e:features:93"
       }
     ],
     "spellcasting": {
@@ -1742,10 +1742,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:14"
+    "_id": "dnd:5e:classes:3:level:14"
   },
   {
     "level": 15,
@@ -1772,10 +1772,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:15"
+    "_id": "dnd:5e:classes:3:level:15"
   },
   {
     "level": 16,
@@ -1785,7 +1785,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:94"
+        "_id": "dnd:5e:features:94"
       }
     ],
     "spellcasting": {
@@ -1807,10 +1807,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:16"
+    "_id": "dnd:5e:classes:3:level:16"
   },
   {
     "level": 17,
@@ -1820,11 +1820,11 @@
     "features": [
       {
         "name": "Destroy Undead (CR 4 or below)",
-        "id": "dnd:5e:features:95"
+        "_id": "dnd:5e:features:95"
       },
       {
         "name": "Supreme Healing",
-        "id": "dnd:5e:features:96"
+        "_id": "dnd:5e:features:96"
       }
     ],
     "spellcasting": {
@@ -1846,10 +1846,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:17"
+    "_id": "dnd:5e:classes:3:level:17"
   },
   {
     "level": 18,
@@ -1859,7 +1859,7 @@
     "features": [
       {
         "name": "Channel Divinity (3/rest)",
-        "id": "dnd:5e:features:97"
+        "_id": "dnd:5e:features:97"
       }
     ],
     "spellcasting": {
@@ -1881,10 +1881,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:18"
+    "_id": "dnd:5e:classes:3:level:18"
   },
   {
     "level": 19,
@@ -1894,7 +1894,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:98"
+        "_id": "dnd:5e:features:98"
       }
     ],
     "spellcasting": {
@@ -1916,10 +1916,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:19"
+    "_id": "dnd:5e:classes:3:level:19"
   },
   {
     "level": 20,
@@ -1929,7 +1929,7 @@
     "features": [
       {
         "name": "Divine Intervention Improvement",
-        "id": "dnd:5e:features:99"
+        "_id": "dnd:5e:features:99"
       }
     ],
     "spellcasting": {
@@ -1951,10 +1951,10 @@
     },
     "class": {
       "name": "Cleric",
-      "id": "dnd:5e:classes:3"
+      "_id": "dnd:5e:classes:3"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:3:level:20"
+    "_id": "dnd:5e:classes:3:level:20"
   },
   {
     "level": 1,
@@ -1964,11 +1964,11 @@
     "features": [
       {
         "name": "Spellcasting",
-        "id": "dnd:5e:features:100"
+        "_id": "dnd:5e:features:100"
       },
       {
         "name": "Druidic",
-        "id": "dnd:5e:features:101"
+        "_id": "dnd:5e:features:101"
       }
     ],
     "spellcasting": {
@@ -1990,10 +1990,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:1"
+    "_id": "dnd:5e:classes:4:level:1"
   },
   {
     "level": 2,
@@ -2003,11 +2003,11 @@
     "features": [
       {
         "name": "Wild Shape (CR 1/4 or below, no flying or swim speed)",
-        "id": "dnd:5e:features:102"
+        "_id": "dnd:5e:features:102"
       },
       {
         "name": "Druid Circle",
-        "id": "dnd:5e:features:103"
+        "_id": "dnd:5e:features:103"
       }
     ],
     "spellcasting": {
@@ -2029,10 +2029,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:2"
+    "_id": "dnd:5e:classes:4:level:2"
   },
   {
     "level": 3,
@@ -2059,10 +2059,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:3"
+    "_id": "dnd:5e:classes:4:level:3"
   },
   {
     "level": 4,
@@ -2072,11 +2072,11 @@
     "features": [
       {
         "name": "Wild Shape (CR 1/2 or below, no flying speed)",
-        "id": "dnd:5e:features:115"
+        "_id": "dnd:5e:features:115"
       },
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:116"
+        "_id": "dnd:5e:features:116"
       }
     ],
     "spellcasting": {
@@ -2098,10 +2098,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:4"
+    "_id": "dnd:5e:classes:4:level:4"
   },
   {
     "level": 5,
@@ -2128,10 +2128,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:5"
+    "_id": "dnd:5e:classes:4:level:5"
   },
   {
     "level": 6,
@@ -2158,10 +2158,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:6"
+    "_id": "dnd:5e:classes:4:level:6"
   },
   {
     "level": 7,
@@ -2188,10 +2188,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:7"
+    "_id": "dnd:5e:classes:4:level:7"
   },
   {
     "level": 8,
@@ -2201,11 +2201,11 @@
     "features": [
       {
         "name": "Wild Shape (CR 1 or below)",
-        "id": "dnd:5e:features:120"
+        "_id": "dnd:5e:features:120"
       },
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:121"
+        "_id": "dnd:5e:features:121"
       }
     ],
     "spellcasting": {
@@ -2227,10 +2227,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:8"
+    "_id": "dnd:5e:classes:4:level:8"
   },
   {
     "level": 9,
@@ -2257,10 +2257,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:9"
+    "_id": "dnd:5e:classes:4:level:9"
   },
   {
     "level": 10,
@@ -2287,10 +2287,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:10"
+    "_id": "dnd:5e:classes:4:level:10"
   },
   {
     "level": 11,
@@ -2317,10 +2317,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:11"
+    "_id": "dnd:5e:classes:4:level:11"
   },
   {
     "level": 12,
@@ -2330,7 +2330,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:124"
+        "_id": "dnd:5e:features:124"
       }
     ],
     "spellcasting": {
@@ -2352,10 +2352,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:12"
+    "_id": "dnd:5e:classes:4:level:12"
   },
   {
     "level": 13,
@@ -2382,10 +2382,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:13"
+    "_id": "dnd:5e:classes:4:level:13"
   },
   {
     "level": 14,
@@ -2412,10 +2412,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:14"
+    "_id": "dnd:5e:classes:4:level:14"
   },
   {
     "level": 15,
@@ -2442,10 +2442,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:15"
+    "_id": "dnd:5e:classes:4:level:15"
   },
   {
     "level": 16,
@@ -2455,7 +2455,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:126"
+        "_id": "dnd:5e:features:126"
       }
     ],
     "spellcasting": {
@@ -2477,10 +2477,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:16"
+    "_id": "dnd:5e:classes:4:level:16"
   },
   {
     "level": 17,
@@ -2507,10 +2507,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:17"
+    "_id": "dnd:5e:classes:4:level:17"
   },
   {
     "level": 18,
@@ -2520,11 +2520,11 @@
     "features": [
       {
         "name": "Timeless Body",
-        "id": "dnd:5e:features:127"
+        "_id": "dnd:5e:features:127"
       },
       {
         "name": "Beast Spells",
-        "id": "dnd:5e:features:128"
+        "_id": "dnd:5e:features:128"
       }
     ],
     "spellcasting": {
@@ -2546,10 +2546,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:18"
+    "_id": "dnd:5e:classes:4:level:18"
   },
   {
     "level": 19,
@@ -2559,7 +2559,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:129"
+        "_id": "dnd:5e:features:129"
       }
     ],
     "spellcasting": {
@@ -2581,10 +2581,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:19"
+    "_id": "dnd:5e:classes:4:level:19"
   },
   {
     "level": 20,
@@ -2594,7 +2594,7 @@
     "features": [
       {
         "name": "Archdruid",
-        "id": "dnd:5e:features:130"
+        "_id": "dnd:5e:features:130"
       }
     ],
     "spellcasting": {
@@ -2616,10 +2616,10 @@
     },
     "class": {
       "name": "Druid",
-      "id": "dnd:5e:classes:4"
+      "_id": "dnd:5e:classes:4"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:4:level:20"
+    "_id": "dnd:5e:classes:4:level:20"
   },
   {
     "level": 1,
@@ -2628,13 +2628,13 @@
     "feature_choices": [
       {
         "name": "Choose: Fighting Style",
-        "id": "dnd:5e:features:131"
+        "_id": "dnd:5e:features:131"
       }
     ],
     "features": [
       {
         "name": "Second Wind",
-        "id": "dnd:5e:features:138"
+        "_id": "dnd:5e:features:138"
       }
     ],
     "spellcasting": {},
@@ -2645,10 +2645,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:1"
+    "_id": "dnd:5e:classes:5:level:1"
   },
   {
     "level": 2,
@@ -2658,11 +2658,11 @@
     "features": [
       {
         "name": "Action Surge (1 use)",
-        "id": "dnd:5e:features:139"
+        "_id": "dnd:5e:features:139"
       },
       {
         "name": "Action Surge (2 uses)",
-        "id": "dnd:5e:features:155"
+        "_id": "dnd:5e:features:155"
       }
     ],
     "spellcasting": {},
@@ -2673,10 +2673,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:2"
+    "_id": "dnd:5e:classes:5:level:2"
   },
   {
     "level": 3,
@@ -2686,7 +2686,7 @@
     "features": [
       {
         "name": "Martial Archetype",
-        "id": "dnd:5e:features:140"
+        "_id": "dnd:5e:features:140"
       }
     ],
     "spellcasting": {},
@@ -2697,10 +2697,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:3"
+    "_id": "dnd:5e:classes:5:level:3"
   },
   {
     "level": 4,
@@ -2710,7 +2710,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:142"
+        "_id": "dnd:5e:features:142"
       }
     ],
     "spellcasting": {},
@@ -2721,10 +2721,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:4"
+    "_id": "dnd:5e:classes:5:level:4"
   },
   {
     "level": 5,
@@ -2734,7 +2734,7 @@
     "features": [
       {
         "name": "Extra Attack (1)",
-        "id": "dnd:5e:features:143"
+        "_id": "dnd:5e:features:143"
       }
     ],
     "spellcasting": {},
@@ -2745,10 +2745,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:5"
+    "_id": "dnd:5e:classes:5:level:5"
   },
   {
     "level": 6,
@@ -2758,7 +2758,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:144"
+        "_id": "dnd:5e:features:144"
       }
     ],
     "spellcasting": {},
@@ -2769,10 +2769,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:6"
+    "_id": "dnd:5e:classes:5:level:6"
   },
   {
     "level": 7,
@@ -2788,10 +2788,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:7"
+    "_id": "dnd:5e:classes:5:level:7"
   },
   {
     "level": 8,
@@ -2801,7 +2801,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:146"
+        "_id": "dnd:5e:features:146"
       }
     ],
     "spellcasting": {},
@@ -2812,10 +2812,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:8"
+    "_id": "dnd:5e:classes:5:level:8"
   },
   {
     "level": 9,
@@ -2825,7 +2825,7 @@
     "features": [
       {
         "name": "Indomitable (1 use)",
-        "id": "dnd:5e:features:147"
+        "_id": "dnd:5e:features:147"
       }
     ],
     "spellcasting": {},
@@ -2836,10 +2836,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:9"
+    "_id": "dnd:5e:classes:5:level:9"
   },
   {
     "level": 10,
@@ -2855,10 +2855,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:10"
+    "_id": "dnd:5e:classes:5:level:10"
   },
   {
     "level": 11,
@@ -2868,7 +2868,7 @@
     "features": [
       {
         "name": "Extra Attack (2)",
-        "id": "dnd:5e:features:149"
+        "_id": "dnd:5e:features:149"
       }
     ],
     "spellcasting": {},
@@ -2879,10 +2879,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:11"
+    "_id": "dnd:5e:classes:5:level:11"
   },
   {
     "level": 12,
@@ -2892,7 +2892,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:150"
+        "_id": "dnd:5e:features:150"
       }
     ],
     "spellcasting": {},
@@ -2903,10 +2903,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:12"
+    "_id": "dnd:5e:classes:5:level:12"
   },
   {
     "level": 13,
@@ -2916,7 +2916,7 @@
     "features": [
       {
         "name": "Indomitable (2 uses)",
-        "id": "dnd:5e:features:151"
+        "_id": "dnd:5e:features:151"
       }
     ],
     "spellcasting": {},
@@ -2927,10 +2927,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:13"
+    "_id": "dnd:5e:classes:5:level:13"
   },
   {
     "level": 14,
@@ -2940,7 +2940,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:152"
+        "_id": "dnd:5e:features:152"
       }
     ],
     "spellcasting": {},
@@ -2951,10 +2951,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:14"
+    "_id": "dnd:5e:classes:5:14"
   },
   {
     "level": 15,
@@ -2970,10 +2970,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:15"
+    "_id": "dnd:5e:classes:5:level:15"
   },
   {
     "level": 16,
@@ -2983,7 +2983,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 6",
-        "id": "dnd:5e:features:154"
+        "_id": "dnd:5e:features:154"
       }
     ],
     "spellcasting": {},
@@ -2994,10 +2994,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:16"
+    "_id": "dnd:5e:classes:5:level:16"
   },
   {
     "level": 17,
@@ -3007,7 +3007,7 @@
     "features": [
       {
         "name": "Indomitable (3 uses)",
-        "id": "dnd:5e:features:156"
+        "_id": "dnd:5e:features:156"
       }
     ],
     "spellcasting": {},
@@ -3018,10 +3018,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:17"
+    "_id": "dnd:5e:classes:5:level:17"
   },
   {
     "level": 18,
@@ -3037,10 +3037,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:18"
+    "_id": "dnd:5e:classes:5:level:18"
   },
   {
     "level": 19,
@@ -3050,7 +3050,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 7",
-        "id": "dnd:5e:features:158"
+        "_id": "dnd:5e:features:158"
       }
     ],
     "spellcasting": {},
@@ -3061,10 +3061,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:19"
+    "_id": "dnd:5e:classes:5:level:19"
   },
   {
     "level": 20,
@@ -3074,7 +3074,7 @@
     "features": [
       {
         "name": "Extra Attack (3)",
-        "id": "dnd:5e:features:159"
+        "_id": "dnd:5e:features:159"
       }
     ],
     "spellcasting": {},
@@ -3085,10 +3085,10 @@
     },
     "class": {
       "name": "Fighter",
-      "id": "dnd:5e:classes:5"
+      "_id": "dnd:5e:classes:5"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:5:level:20"
+    "_id": "dnd:5e:classes:5:level:20"
   },
   {
     "level": 1,
@@ -3098,11 +3098,11 @@
     "features": [
       {
         "name": "Unarmored Defense",
-        "id": "dnd:5e:features:160"
+        "_id": "dnd:5e:features:160"
       },
       {
         "name": "Martial Arts",
-        "id": "dnd:5e:features:161"
+        "_id": "dnd:5e:features:161"
       }
     ],
     "spellcasting": {},
@@ -3116,10 +3116,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:1"
+    "_id": "dnd:5e:classes:6:level:1"
   },
   {
     "level": 2,
@@ -3129,23 +3129,23 @@
     "features": [
       {
         "name": "Ki",
-        "id": "dnd:5e:features:162"
+        "_id": "dnd:5e:features:162"
       },
       {
         "name": "Flurry of Blows",
-        "id": "dnd:5e:features:163"
+        "_id": "dnd:5e:features:163"
       },
       {
         "name": "Patient Defense",
-        "id": "dnd:5e:features:164"
+        "_id": "dnd:5e:features:164"
       },
       {
         "name": "Step of the Wind",
-        "id": "dnd:5e:features:165"
+        "_id": "dnd:5e:features:165"
       },
       {
         "name": "Unarmored Movement 1",
-        "id": "dnd:5e:features:166"
+        "_id": "dnd:5e:features:166"
       }
     ],
     "spellcasting": {},
@@ -3159,10 +3159,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:2"
+    "_id": "dnd:5e:classes:6:level:2"
   },
   {
     "level": 3,
@@ -3172,11 +3172,11 @@
     "features": [
       {
         "name": "Monastic Tradition",
-        "id": "dnd:5e:features:167"
+        "_id": "dnd:5e:features:167"
       },
       {
         "name": "Deflect Missiles",
-        "id": "dnd:5e:features:168"
+        "_id": "dnd:5e:features:168"
       }
     ],
     "spellcasting": {},
@@ -3190,10 +3190,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:3"
+    "_id": "dnd:5e:classes:6:level:3"
   },
   {
     "level": 4,
@@ -3203,11 +3203,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:170"
+        "_id": "dnd:5e:features:170"
       },
       {
         "name": "Slow Fall",
-        "id": "dnd:5e:features:171"
+        "_id": "dnd:5e:features:171"
       }
     ],
     "spellcasting": {},
@@ -3221,10 +3221,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:4"
+    "_id": "dnd:5e:classes:6:level:4"
   },
   {
     "level": 5,
@@ -3234,11 +3234,11 @@
     "features": [
       {
         "name": "Extra Attack",
-        "id": "dnd:5e:features:172"
+        "_id": "dnd:5e:features:172"
       },
       {
         "name": "Stunning Strike",
-        "id": "dnd:5e:features:173"
+        "_id": "dnd:5e:features:173"
       }
     ],
     "spellcasting": {},
@@ -3252,10 +3252,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:5"
+    "_id": "dnd:5e:classes:6:level:5"
   },
   {
     "level": 6,
@@ -3265,7 +3265,7 @@
     "features": [
       {
         "name": "Ki Empowered Strikes",
-        "id": "dnd:5e:features:174"
+        "_id": "dnd:5e:features:174"
       }
     ],
     "spellcasting": {},
@@ -3279,10 +3279,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:6"
+    "_id": "dnd:5e:classes:6:level:6"
   },
   {
     "level": 7,
@@ -3292,11 +3292,11 @@
     "features": [
       {
         "name": "Evasion",
-        "id": "dnd:5e:features:176"
+        "_id": "dnd:5e:features:176"
       },
       {
         "name": "Stillness of Mind",
-        "id": "dnd:5e:features:177"
+        "_id": "dnd:5e:features:177"
       }
     ],
     "spellcasting": {},
@@ -3310,10 +3310,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:7"
+    "_id": "dnd:5e:classes:6:level:7"
   },
   {
     "level": 8,
@@ -3323,7 +3323,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:178"
+        "_id": "dnd:5e:features:178"
       }
     ],
     "spellcasting": {},
@@ -3337,10 +3337,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:8"
+    "_id": "dnd:5e:classes:6:level:8"
   },
   {
     "level": 9,
@@ -3350,7 +3350,7 @@
     "features": [
       {
         "name": "Unarmored Movement 2",
-        "id": "dnd:5e:features:179"
+        "_id": "dnd:5e:features:179"
       }
     ],
     "spellcasting": {},
@@ -3364,10 +3364,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:9"
+    "_id": "dnd:5e:classes:6:level:9"
   },
   {
     "level": 10,
@@ -3377,7 +3377,7 @@
     "features": [
       {
         "name": "Purity of Body",
-        "id": "dnd:5e:features:180"
+        "_id": "dnd:5e:features:180"
       }
     ],
     "spellcasting": {},
@@ -3391,10 +3391,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:10"
+    "_id": "dnd:5e:classes:6:level:10"
   },
   {
     "level": 11,
@@ -3413,10 +3413,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:11"
+    "_id": "dnd:5e:classes:6:level:11"
   },
   {
     "level": 12,
@@ -3426,7 +3426,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:182"
+        "_id": "dnd:5e:features:182"
       }
     ],
     "spellcasting": {},
@@ -3440,10 +3440,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:12"
+    "_id": "dnd:5e:classes:6:level:12"
   },
   {
     "level": 13,
@@ -3453,7 +3453,7 @@
     "features": [
       {
         "name": "Tongue of the Sun and Moon",
-        "id": "dnd:5e:features:183"
+        "_id": "dnd:5e:features:183"
       }
     ],
     "spellcasting": {},
@@ -3467,10 +3467,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:13"
+    "_id": "dnd:5e:classes:6:level:13"
   },
   {
     "level": 14,
@@ -3480,7 +3480,7 @@
     "features": [
       {
         "name": "Diamond Soul",
-        "id": "dnd:5e:features:184"
+        "_id": "dnd:5e:features:184"
       }
     ],
     "spellcasting": {},
@@ -3494,10 +3494,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:14"
+    "_id": "dnd:5e:classes:6:level:14"
   },
   {
     "level": 15,
@@ -3507,7 +3507,7 @@
     "features": [
       {
         "name": "Timeless Body",
-        "id": "dnd:5e:features:185"
+        "_id": "dnd:5e:features:185"
       }
     ],
     "spellcasting": {},
@@ -3521,10 +3521,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:15"
+    "_id": "dnd:5e:classes:6:level:15"
   },
   {
     "level": 16,
@@ -3534,7 +3534,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:186"
+        "_id": "dnd:5e:features:186"
       }
     ],
     "spellcasting": {},
@@ -3548,10 +3548,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:16"
+    "_id": "dnd:5e:classes:6:level:16"
   },
   {
     "level": 17,
@@ -3570,10 +3570,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:17"
+    "_id": "dnd:5e:classes:6:level:17"
   },
   {
     "level": 18,
@@ -3583,7 +3583,7 @@
     "features": [
       {
         "name": "Empty Body",
-        "id": "dnd:5e:features:188"
+        "_id": "dnd:5e:features:188"
       }
     ],
     "spellcasting": {},
@@ -3597,10 +3597,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:18"
+    "_id": "dnd:5e:classes:6:level:18"
   },
   {
     "level": 19,
@@ -3610,7 +3610,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:189"
+        "_id": "dnd:5e:features:189"
       }
     ],
     "spellcasting": {},
@@ -3624,10 +3624,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:19"
+    "_id": "dnd:5e:classes:6:level:19"
   },
   {
     "level": 20,
@@ -3637,7 +3637,7 @@
     "features": [
       {
         "name": "Perfect Self",
-        "id": "dnd:5e:features:190"
+        "_id": "dnd:5e:features:190"
       }
     ],
     "spellcasting": {},
@@ -3651,10 +3651,10 @@
     },
     "class": {
       "name": "Monk",
-      "id": "dnd:5e:classes:6"
+      "_id": "dnd:5e:classes:6"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:6:level:20"
+    "_id": "dnd:5e:classes:6:level:20"
   },
   {
     "level": 1,
@@ -3664,11 +3664,11 @@
     "features": [
       {
         "name": "Divine Sense",
-        "id": "dnd:5e:features:191"
+        "_id": "dnd:5e:features:191"
       },
       {
         "name": "Lay on Hands",
-        "id": "dnd:5e:features:192"
+        "_id": "dnd:5e:features:192"
       }
     ],
     "spellcasting": {
@@ -3683,10 +3683,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:1"
+    "_id": "dnd:5e:classes:7:level:1"
   },
   {
     "level": 2,
@@ -3695,17 +3695,17 @@
     "feature_choices": [
       {
         "name": "Choose: Fighting Style",
-        "id": "dnd:5e:features:193"
+        "_id": "dnd:5e:features:193"
       }
     ],
     "features": [
       {
         "name": "Spellcasting",
-        "id": "dnd:5e:features:198"
+        "_id": "dnd:5e:features:198"
       },
       {
         "name": "Divine Smite",
-        "id": "dnd:5e:features:199"
+        "_id": "dnd:5e:features:199"
       }
     ],
     "spellcasting": {
@@ -3720,10 +3720,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:2"
+    "_id": "dnd:5e:classes:7:level:2"
   },
   {
     "level": 3,
@@ -3733,19 +3733,19 @@
     "features": [
       {
         "name": "Divine Health",
-        "id": "dnd:5e:features:200"
+        "_id": "dnd:5e:features:200"
       },
       {
         "name": "Sacred Oath",
-        "id": "dnd:5e:features:201"
+        "_id": "dnd:5e:features:201"
       },
       {
         "name": "Oath Spells",
-        "id": "dnd:5e:features:202"
+        "_id": "dnd:5e:features:202"
       },
       {
         "name": "Channel Divinity",
-        "id": "dnd:5e:features:203"
+        "_id": "dnd:5e:features:203"
       }
     ],
     "spellcasting": {
@@ -3760,10 +3760,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:3"
+    "_id": "dnd:5e:classes:7:level:3"
   },
   {
     "level": 4,
@@ -3773,7 +3773,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:206"
+        "_id": "dnd:5e:features:206"
       }
     ],
     "spellcasting": {
@@ -3788,10 +3788,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:4"
+    "_id": "dnd:5e:classes:7:level:4"
   },
   {
     "level": 5,
@@ -3801,7 +3801,7 @@
     "features": [
       {
         "name": "Extra Attack",
-        "id": "dnd:5e:features:207"
+        "_id": "dnd:5e:features:207"
       }
     ],
     "spellcasting": {
@@ -3816,10 +3816,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:5"
+    "_id": "dnd:5e:classes:7:level:5"
   },
   {
     "level": 6,
@@ -3829,7 +3829,7 @@
     "features": [
       {
         "name": "Aura of Protection",
-        "id": "dnd:5e:features:208"
+        "_id": "dnd:5e:features:208"
       }
     ],
     "spell_slots_level_1": 4,
@@ -3840,10 +3840,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:6"
+    "_id": "dnd:5e:classes:7:level:6"
   },
   {
     "level": 7,
@@ -3859,10 +3859,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:7"
+    "_id": "dnd:5e:classes:7:level:7"
   },
   {
     "level": 8,
@@ -3872,7 +3872,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:210"
+        "_id": "dnd:5e:features:210"
       }
     ],
     "spell_slots_level_1": 4,
@@ -3883,10 +3883,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:8"
+    "_id": "dnd:5e:classes:7:level:8"
   },
   {
     "level": 9,
@@ -3902,10 +3902,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:9"
+    "_id": "dnd:5e:classes:7:level:9"
   },
   {
     "level": 10,
@@ -3915,7 +3915,7 @@
     "features": [
       {
         "name": "Aura of Courage",
-        "id": "dnd:5e:features:211"
+        "_id": "dnd:5e:features:211"
       }
     ],
     "spell_slots_level_1": 4,
@@ -3926,10 +3926,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:10"
+    "_id": "dnd:5e:classes:7:level:10"
   },
   {
     "level": 11,
@@ -3939,7 +3939,7 @@
     "features": [
       {
         "name": "Improved Divine Smite",
-        "id": "dnd:5e:features:212"
+        "_id": "dnd:5e:features:212"
       }
     ],
     "spell_slots_level_1": 4,
@@ -3950,10 +3950,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:11"
+    "_id": "dnd:5e:classes:7:level:11"
   },
   {
     "level": 12,
@@ -3963,7 +3963,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:213"
+        "_id": "dnd:5e:features:213"
       }
     ],
     "spell_slots_level_1": 4,
@@ -3974,10 +3974,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:12"
+    "_id": "dnd:5e:classes:7:level:12"
   },
   {
     "level": 13,
@@ -3993,10 +3993,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:13"
+    "_id": "dnd:5e:classes:7:level:13"
   },
   {
     "level": 14,
@@ -4006,7 +4006,7 @@
     "features": [
       {
         "name": "Cleansing Touch",
-        "id": "dnd:5e:features:214"
+        "_id": "dnd:5e:features:214"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4017,10 +4017,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:14"
+    "_id": "dnd:5e:classes:7:level:14"
   },
   {
     "level": 15,
@@ -4040,10 +4040,10 @@
     },
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:15"
+    "_id": "dnd:5e:classes:7:level:15"
   },
   {
     "level": 16,
@@ -4053,7 +4053,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:216"
+        "_id": "dnd:5e:features:216"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4064,10 +4064,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:16"
+    "_id": "dnd:5e:classes:7:level:16"
   },
   {
     "level": 17,
@@ -4083,10 +4083,10 @@
     "aura_range": 10,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:17"
+    "_id": "dnd:5e:classes:7:level:17"
   },
   {
     "level": 18,
@@ -4096,7 +4096,7 @@
     "features": [
       {
         "name": "Aura improvements",
-        "id": "dnd:5e:features:217"
+        "_id": "dnd:5e:features:217"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4107,10 +4107,10 @@
     "aura_range": 30,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:18"
+    "_id": "dnd:5e:classes:7:level:18"
   },
   {
     "level": 19,
@@ -4120,7 +4120,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:218"
+        "_id": "dnd:5e:features:218"
       }
     ],
     "spell_slots_level_1": 4,
@@ -4131,10 +4131,10 @@
     "aura_range": 30,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:19"
+    "_id": "dnd:5e:classes:7:level:19"
   },
   {
     "level": 20,
@@ -4150,10 +4150,10 @@
     "aura_range": 30,
     "class": {
       "name": "Paladin",
-      "id": "dnd:5e:classes:7"
+      "_id": "dnd:5e:classes:7"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:7:level:20"
+    "_id": "dnd:5e:classes:7:level:20"
   },
   {
     "level": 1,
@@ -4163,11 +4163,11 @@
     "features": [
       {
         "name": "Favored Enemy (1 type)",
-        "id": "dnd:5e:features:220"
+        "_id": "dnd:5e:features:220"
       },
       {
         "name": "Natural Explorer (1 terrain type)",
-        "id": "dnd:5e:features:221"
+        "_id": "dnd:5e:features:221"
       }
     ],
     "spellcasting": {
@@ -4184,10 +4184,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:1"
+    "_id": "dnd:5e:classes:8:level:1"
   },
   {
     "level": 2,
@@ -4196,13 +4196,13 @@
     "feature_choices": [
       {
         "name": "Choose: Fighting Style",
-        "id": "dnd:5e:features:222"
+        "_id": "dnd:5e:features:222"
       }
     ],
     "features": [
       {
         "name": "Spellcasting",
-        "id": "dnd:5e:features:227"
+        "_id": "dnd:5e:features:227"
       }
     ],
     "spellcasting": {
@@ -4219,10 +4219,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:2"
+    "_id": "dnd:5e:classes:8:level:2"
   },
   {
     "level": 3,
@@ -4232,11 +4232,11 @@
     "features": [
       {
         "name": "Ranger Archetype",
-        "id": "dnd:5e:features:228"
+        "_id": "dnd:5e:features:228"
       },
       {
         "name": "Primeval Awareness",
-        "id": "dnd:5e:features:233"
+        "_id": "dnd:5e:features:233"
       }
     ],
     "spellcasting": {
@@ -4253,10 +4253,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:3"
+    "_id": "dnd:5e:classes:8:level:3"
   },
   {
     "level": 4,
@@ -4266,7 +4266,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:234"
+        "_id": "dnd:5e:features:234"
       }
     ],
     "spellcasting": {
@@ -4283,10 +4283,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:4"
+    "_id": "dnd:5e:classes:8:level:4"
   },
   {
     "level": 5,
@@ -4296,7 +4296,7 @@
     "features": [
       {
         "name": "Extra Attack",
-        "id": "dnd:5e:features:235"
+        "_id": "dnd:5e:features:235"
       }
     ],
     "spellcasting": {
@@ -4313,10 +4313,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:5"
+    "_id": "dnd:5e:classes:8:level:5"
   },
   {
     "level": 6,
@@ -4326,11 +4326,11 @@
     "features": [
       {
         "name": "Favored Enemy (2 types)",
-        "id": "dnd:5e:features:236"
+        "_id": "dnd:5e:features:236"
       },
       {
         "name": "Natural Explorer (2 terrain types)",
-        "id": "dnd:5e:features:237"
+        "_id": "dnd:5e:features:237"
       }
     ],
     "spellcasting": {
@@ -4347,10 +4347,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:6"
+    "_id": "dnd:5e:classes:8:level:6"
   },
   {
     "level": 7,
@@ -4372,10 +4372,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:7"
+    "_id": "dnd:5e:classes:8:level:7"
   },
   {
     "level": 8,
@@ -4385,11 +4385,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:242"
+        "_id": "dnd:5e:features:242"
       },
       {
         "name": "Land’s Stride",
-        "id": "dnd:5e:features:243"
+        "_id": "dnd:5e:features:243"
       }
     ],
     "spellcasting": {
@@ -4406,10 +4406,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:8"
+    "_id": "dnd:5e:classes:8:level:8"
   },
   {
     "level": 9,
@@ -4431,10 +4431,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:9"
+    "_id": "dnd:5e:classes:8:level:9"
   },
   {
     "level": 10,
@@ -4444,11 +4444,11 @@
     "features": [
       {
         "name": "Natural Explorer (3 terrain types)",
-        "id": "dnd:5e:features:244"
+        "_id": "dnd:5e:features:244"
       },
       {
         "name": "Hide in Plain Sight",
-        "id": "dnd:5e:features:245"
+        "_id": "dnd:5e:features:245"
       }
     ],
     "spellcasting": {
@@ -4465,10 +4465,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:10"
+    "_id": "dnd:5e:classes:8:level:10"
   },
   {
     "level": 11,
@@ -4490,10 +4490,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:11"
+    "_id": "dnd:5e:classes:8:level:11"
   },
   {
     "level": 12,
@@ -4503,7 +4503,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:249"
+        "_id": "dnd:5e:features:249"
       }
     ],
     "spellcasting": {
@@ -4520,10 +4520,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:12"
+    "_id": "dnd:5e:classes:8:level:12"
   },
   {
     "level": 13,
@@ -4545,10 +4545,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:13"
+    "_id": "dnd:5e:classes:8:level:13"
   },
   {
     "level": 14,
@@ -4558,11 +4558,11 @@
     "features": [
       {
         "name": "Favored Enemy (3 enemies)",
-        "id": "dnd:5e:features:250"
+        "_id": "dnd:5e:features:250"
       },
       {
         "name": "Vanish",
-        "id": "dnd:5e:features:251"
+        "_id": "dnd:5e:features:251"
       }
     ],
     "spellcasting": {
@@ -4579,10 +4579,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:14"
+    "_id": "dnd:5e:classes:8:level:14"
   },
   {
     "level": 15,
@@ -4604,10 +4604,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:15"
+    "_id": "dnd:5e:classes:8:level:15"
   },
   {
     "level": 16,
@@ -4617,7 +4617,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:256"
+        "_id": "dnd:5e:features:256"
       }
     ],
     "spellcasting": {
@@ -4634,10 +4634,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:16"
+    "_id": "dnd:5e:classes:8:level:16"
   },
   {
     "level": 17,
@@ -4659,10 +4659,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:17"
+    "_id": "dnd:5e:classes:8:level:17"
   },
   {
     "level": 18,
@@ -4672,7 +4672,7 @@
     "features": [
       {
         "name": "Feral Senses",
-        "id": "dnd:5e:features:257"
+        "_id": "dnd:5e:features:257"
       }
     ],
     "spellcasting": {
@@ -4689,10 +4689,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:18"
+    "_id": "dnd:5e:classes:8:level:18"
   },
   {
     "level": 19,
@@ -4702,7 +4702,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:258"
+        "_id": "dnd:5e:features:258"
       }
     ],
     "spellcasting": {
@@ -4719,10 +4719,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:19"
+    "_id": "dnd:5e:classes:8:level:19"
   },
   {
     "level": 20,
@@ -4732,7 +4732,7 @@
     "features": [
       {
         "name": "Foe Slayer",
-        "id": "dnd:5e:features:259"
+        "_id": "dnd:5e:features:259"
       }
     ],
     "spellcasting": {
@@ -4749,10 +4749,10 @@
     },
     "class": {
       "name": "Ranger",
-      "id": "dnd:5e:classes:8"
+      "_id": "dnd:5e:classes:8"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:8:level:20"
+    "_id": "dnd:5e:classes:8:level:20"
   },
   {
     "level": 1,
@@ -4761,17 +4761,17 @@
     "feature_choices": [
       {
         "name": "Expertise 1",
-        "id": "dnd:5e:features:260"
+        "_id": "dnd:5e:features:260"
       }
     ],
     "features": [
       {
         "name": "Sneak Attack",
-        "id": "dnd:5e:features:280"
+        "_id": "dnd:5e:features:280"
       },
       {
         "name": "Thieves' Cant",
-        "id": "dnd:5e:features:281"
+        "_id": "dnd:5e:features:281"
       }
     ],
     "spellcasting": {},
@@ -4783,10 +4783,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:1"
+    "_id": "dnd:5e:classes:9:level:1"
   },
   {
     "level": 2,
@@ -4796,7 +4796,7 @@
     "features": [
       {
         "name": "Cunning Action",
-        "id": "dnd:5e:features:282"
+        "_id": "dnd:5e:features:282"
       }
     ],
     "spellcasting": {},
@@ -4808,10 +4808,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:2"
+    "_id": "dnd:5e:classes:9:level:2"
   },
   {
     "level": 3,
@@ -4821,7 +4821,7 @@
     "features": [
       {
         "name": "Roguish Archetype",
-        "id": "dnd:5e:features:283"
+        "_id": "dnd:5e:features:283"
       }
     ],
     "spellcasting": {},
@@ -4833,10 +4833,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:3"
+    "_id": "dnd:5e:classes:9:level:3"
   },
   {
     "level": 4,
@@ -4846,7 +4846,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:286"
+        "_id": "dnd:5e:features:286"
       }
     ],
     "spellcasting": {},
@@ -4858,10 +4858,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:4"
+    "_id": "dnd:5e:classes:9:level:4"
   },
   {
     "level": 5,
@@ -4871,7 +4871,7 @@
     "features": [
       {
         "name": "Uncanny Dodge",
-        "id": "dnd:5e:features:287"
+        "_id": "dnd:5e:features:287"
       }
     ],
     "spellcasting": {},
@@ -4883,10 +4883,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:5"
+    "_id": "dnd:5e:classes:9:level:5"
   },
   {
     "level": 6,
@@ -4895,7 +4895,7 @@
     "feature_choices": [
       {
         "name": "Expertise 2",
-        "id": "dnd:5e:features:288"
+        "_id": "dnd:5e:features:288"
       }
     ],
     "features": [],
@@ -4908,10 +4908,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:6"
+    "_id": "dnd:5e:classes:9:level:6"
   },
   {
     "level": 7,
@@ -4921,7 +4921,7 @@
     "features": [
       {
         "name": "Evasion",
-        "id": "dnd:5e:features:289"
+        "_id": "dnd:5e:features:289"
       }
     ],
     "spellcasting": {},
@@ -4933,10 +4933,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:7"
+    "_id": "dnd:5e:classes:9:level:7"
   },
   {
     "level": 8,
@@ -4946,7 +4946,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:290"
+        "_id": "dnd:5e:features:290"
       }
     ],
     "spellcasting": {},
@@ -4958,10 +4958,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:8"
+    "_id": "dnd:5e:classes:9:level:8"
   },
   {
     "level": 9,
@@ -4971,7 +4971,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:290"
+        "_id": "dnd:5e:features:290"
       }
     ],
     "spellcasting": {},
@@ -4983,10 +4983,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:9"
+    "_id": "dnd:5e:classes:9:level:9"
   },
   {
     "level": 10,
@@ -4996,7 +4996,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:292"
+        "_id": "dnd:5e:features:292"
       }
     ],
     "spellcasting": {},
@@ -5008,10 +5008,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:10"
+    "_id": "dnd:5e:classes:9:level:10"
   },
   {
     "level": 11,
@@ -5021,7 +5021,7 @@
     "features": [
       {
         "name": "Reliable Talent",
-        "id": "dnd:5e:features:293"
+        "_id": "dnd:5e:features:293"
       }
     ],
     "spellcasting": {},
@@ -5033,10 +5033,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:11"
+    "_id": "dnd:5e:classes:9:level:11"
   },
   {
     "level": 12,
@@ -5046,7 +5046,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:294"
+        "_id": "dnd:5e:features:294"
       }
     ],
     "spellcasting": {},
@@ -5058,10 +5058,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:12"
+    "_id": "dnd:5e:classes:9:level:12"
   },
   {
     "level": 13,
@@ -5078,10 +5078,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:13"
+    "_id": "dnd:5e:classes:9:level:13"
   },
   {
     "level": 14,
@@ -5091,7 +5091,7 @@
     "features": [
       {
         "name": "Blindsense",
-        "id": "dnd:5e:features:296"
+        "_id": "dnd:5e:features:296"
       }
     ],
     "spellcasting": {},
@@ -5103,10 +5103,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:14"
+    "_id": "dnd:5e:classes:9:level:14"
   },
   {
     "level": 15,
@@ -5116,7 +5116,7 @@
     "features": [
       {
         "name": "Slippery Mind",
-        "id": "dnd:5e:features:297"
+        "_id": "dnd:5e:features:297"
       }
     ],
     "spellcasting": {},
@@ -5128,10 +5128,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:15"
+    "_id": "dnd:5e:classes:9:level:15"
   },
   {
     "level": 16,
@@ -5141,7 +5141,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:298"
+        "_id": "dnd:5e:features:298"
       }
     ],
     "spellcasting": {},
@@ -5153,10 +5153,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:16"
+    "_id": "dnd:5e:classes:9:level:16"
   },
   {
     "level": 17,
@@ -5173,10 +5173,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:17"
+    "_id": "dnd:5e:classes:9:level:17"
   },
   {
     "level": 18,
@@ -5186,7 +5186,7 @@
     "features": [
       {
         "name": "Elusive",
-        "id": "dnd:5e:features:300"
+        "_id": "dnd:5e:features:300"
       }
     ],
     "spellcasting": {},
@@ -5198,10 +5198,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:18"
+    "_id": "dnd:5e:classes:9:level:18"
   },
   {
     "level": 19,
@@ -5211,7 +5211,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 6",
-        "id": "dnd:5e:features:301"
+        "_id": "dnd:5e:features:301"
       }
     ],
     "spellcasting": {},
@@ -5223,10 +5223,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:19"
+    "_id": "dnd:5e:classes:9:level:19"
   },
   {
     "level": 20,
@@ -5236,7 +5236,7 @@
     "features": [
       {
         "name": "Stroke of Luck",
-        "id": "dnd:5e:features:302"
+        "_id": "dnd:5e:features:302"
       }
     ],
     "spellcasting": {},
@@ -5248,10 +5248,10 @@
     },
     "class": {
       "name": "Rogue",
-      "id": "dnd:5e:classes:9"
+      "_id": "dnd:5e:classes:9"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:9:level:20"
+    "_id": "dnd:5e:classes:9:level:20"
   },
   {
     "level": 1,
@@ -5261,11 +5261,11 @@
     "features": [
       {
         "name": "Spellcasting",
-        "id": "dnd:5e:features:303"
+        "_id": "dnd:5e:features:303"
       },
       {
         "name": "Sorcerous Origin",
-        "id": "dnd:5e:features:304"
+        "_id": "dnd:5e:features:304"
       }
     ],
     "spellcasting": {
@@ -5288,10 +5288,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:1"
+    "_id": "dnd:5e:classes:10:level:1"
   },
   {
     "level": 2,
@@ -5301,15 +5301,15 @@
     "features": [
       {
         "name": "Font of Magic",
-        "id": "dnd:5e:features:317"
+        "_id": "dnd:5e:features:317"
       },
       {
         "name": "Flexible Casting: Creating Spell Slots",
-        "id": "dnd:5e:features:318"
+        "_id": "dnd:5e:features:318"
       },
       {
         "name": "Flexible Casting: Converting Spell Slot",
-        "id": "dnd:5e:features:319"
+        "_id": "dnd:5e:features:319"
       }
     ],
     "spellcasting": {
@@ -5353,10 +5353,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:2"
+    "_id": "dnd:5e:classes:10:level:2"
   },
   {
     "level": 3,
@@ -5365,7 +5365,7 @@
     "feature_choices": [
       {
         "name": "Choose: Metamagic, First and Second",
-        "id": "dnd:5e:features:320"
+        "_id": "dnd:5e:features:320"
       }
     ],
     "features": [],
@@ -5410,10 +5410,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:3"
+    "_id": "dnd:5e:classes:10:level:3"
   },
   {
     "level": 4,
@@ -5423,7 +5423,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:329"
+        "_id": "dnd:5e:features:329"
       }
     ],
     "spellcasting": {
@@ -5467,10 +5467,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:4"
+    "_id": "dnd:5e:classes:10:level:4"
   },
   {
     "level": 5,
@@ -5519,10 +5519,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:5"
+    "_id": "dnd:5e:classes:10:level:5"
   },
   {
     "level": 6,
@@ -5571,10 +5571,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:6"
+    "_id": "dnd:5e:classes:10:level:6"
   },
   {
     "level": 7,
@@ -5623,10 +5623,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:7"
+    "_id": "dnd:5e:classes:10:level:7"
   },
   {
     "level": 8,
@@ -5636,7 +5636,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:331"
+        "_id": "dnd:5e:features:331"
       }
     ],
     "spellcasting": {
@@ -5680,10 +5680,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:8"
+    "_id": "dnd:5e:classes:10:level:8"
   },
   {
     "level": 9,
@@ -5732,10 +5732,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:9"
+    "_id": "dnd:5e:classes:10:level:9"
   },
   {
     "level": 10,
@@ -5744,7 +5744,7 @@
     "feature_choices": [
       {
         "name": "Choose: Metamagic, Third",
-        "id": "dnd:5e:features:332"
+        "_id": "dnd:5e:features:332"
       }
     ],
     "features": [],
@@ -5789,10 +5789,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:10"
+    "_id": "dnd:5e:classes:10:level:10"
   },
   {
     "level": 11,
@@ -5841,10 +5841,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:11"
+    "_id": "dnd:5e:classes:10:level:11"
   },
   {
     "level": 12,
@@ -5854,7 +5854,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:333"
+        "_id": "dnd:5e:features:333"
       }
     ],
     "spellcasting": {
@@ -5898,10 +5898,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:12"
+    "_id": "dnd:5e:classes:10:level:12"
   },
   {
     "level": 13,
@@ -5950,10 +5950,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:13"
+    "_id": "dnd:5e:classes:10:level:13"
   },
   {
     "level": 14,
@@ -6002,10 +6002,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:14"
+    "_id": "dnd:5e:classes:10:level:14"
   },
   {
     "level": 15,
@@ -6054,10 +6054,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:15"
+    "_id": "dnd:5e:classes:10:level:15"
   },
   {
     "level": 16,
@@ -6067,7 +6067,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:335"
+        "_id": "dnd:5e:features:335"
       }
     ],
     "spellcasting": {
@@ -6111,10 +6111,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:16"
+    "_id": "dnd:5e:classes:10:level:16"
   },
   {
     "level": 17,
@@ -6123,7 +6123,7 @@
     "feature_choices": [
       {
         "name": "Choose: Metamagic, Fourth",
-        "id": "dnd:5e:features:336"
+        "_id": "dnd:5e:features:336"
       }
     ],
     "features": [],
@@ -6168,10 +6168,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:17"
+    "_id": "dnd:5e:classes:10:level:17"
   },
   {
     "level": 18,
@@ -6220,10 +6220,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:18"
+    "_id": "dnd:5e:classes:10:level:18"
   },
   {
     "level": 19,
@@ -6233,7 +6233,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:338"
+        "_id": "dnd:5e:features:338"
       }
     ],
     "spellcasting": {
@@ -6277,10 +6277,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:19"
+    "_id": "dnd:5e:classes:10:level:19"
   },
   {
     "level": 20,
@@ -6290,7 +6290,7 @@
     "features": [
       {
         "name": "Sorcerous Restoration",
-        "id": "dnd:5e:features:339"
+        "_id": "dnd:5e:features:339"
       }
     ],
     "spellcasting": {
@@ -6334,10 +6334,10 @@
     },
     "class": {
       "name": "Sorcerer",
-      "id": "dnd:5e:classes:10"
+      "_id": "dnd:5e:classes:10"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:10:level:20"
+    "_id": "dnd:5e:classes:10:level:20"
   },
   {
     "level": 1,
@@ -6347,11 +6347,11 @@
     "features": [
       {
         "name": "Otherworldly Patron",
-        "id": "dnd:5e:features:340"
+        "_id": "dnd:5e:features:340"
       },
       {
         "name": "Pact Magic",
-        "id": "dnd:5e:features:342"
+        "_id": "dnd:5e:features:342"
       }
     ],
     "spellcasting": {
@@ -6376,10 +6376,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:1"
+    "_id": "dnd:5e:classes:11:level:1"
   },
   {
     "level": 2,
@@ -6389,7 +6389,7 @@
     "features": [
       {
         "name": "Choose: Eldritch Invocations",
-        "id": "dnd:5e:features:343"
+        "_id": "dnd:5e:features:343"
       }
     ],
     "spellcasting": {
@@ -6414,10 +6414,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:2"
+    "_id": "dnd:5e:classes:11:level:2"
   },
   {
     "level": 3,
@@ -6427,7 +6427,7 @@
     "features": [
       {
         "name": "Choose: Pact Boon",
-        "id": "dnd:5e:features:376"
+        "_id": "dnd:5e:features:376"
       }
     ],
     "spellcasting": {
@@ -6452,10 +6452,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:3"
+    "_id": "dnd:5e:classes:11:level:3"
   },
   {
     "level": 4,
@@ -6465,7 +6465,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:380"
+        "_id": "dnd:5e:features:380"
       }
     ],
     "spellcasting": {
@@ -6490,10 +6490,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:4"
+    "_id": "dnd:5e:classes:11:level:4"
   },
   {
     "level": 5,
@@ -6503,7 +6503,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "id": "dnd:5e:features:381"
+        "_id": "dnd:5e:features:381"
       }
     ],
     "spellcasting": {
@@ -6528,10 +6528,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:5"
+    "_id": "dnd:5e:classes:11:level:5"
   },
   {
     "level": 6,
@@ -6561,10 +6561,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:6"
+    "_id": "dnd:5e:classes:11:level:6"
   },
   {
     "level": 7,
@@ -6574,7 +6574,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "id": "dnd:5e:features:383"
+        "_id": "dnd:5e:features:383"
       }
     ],
     "spellcasting": {
@@ -6599,10 +6599,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:7"
+    "_id": "dnd:5e:classes:11:level:7"
   },
   {
     "level": 8,
@@ -6612,7 +6612,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:384"
+        "_id": "dnd:5e:features:384"
       }
     ],
     "spellcasting": {
@@ -6637,10 +6637,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:8"
+    "_id": "dnd:5e:classes:11:level:8"
   },
   {
     "level": 9,
@@ -6650,7 +6650,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "id": "dnd:5e:features:385"
+        "_id": "dnd:5e:features:385"
       }
     ],
     "spellcasting": {
@@ -6675,10 +6675,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:9"
+    "_id": "dnd:5e:classes:11:level:9"
   },
   {
     "level": 10,
@@ -6708,10 +6708,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:10"
+    "_id": "dnd:5e:classes:11:level:10"
   },
   {
     "level": 11,
@@ -6721,7 +6721,7 @@
     "features": [
       {
         "name": "Mystic Arcanum (6th level)",
-        "id": "dnd:5e:features:387"
+        "_id": "dnd:5e:features:387"
       }
     ],
     "spellcasting": {
@@ -6746,10 +6746,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:11"
+    "_id": "dnd:5e:classes:11:level:11"
   },
   {
     "level": 12,
@@ -6759,11 +6759,11 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:388"
+        "_id": "dnd:5e:features:388"
       },
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "id": "dnd:5e:features:389"
+        "_id": "dnd:5e:features:389"
       }
     ],
     "spellcasting": {
@@ -6788,10 +6788,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:12"
+    "_id": "dnd:5e:classes:11:level:12"
   },
   {
     "level": 13,
@@ -6801,7 +6801,7 @@
     "features": [
       {
         "name": "Mystic Arcanum (7th level)",
-        "id": "dnd:5e:features:390"
+        "_id": "dnd:5e:features:390"
       }
     ],
     "spellcasting": {
@@ -6826,10 +6826,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:13"
+    "_id": "dnd:5e:classes:11:level:13"
   },
   {
     "level": 14,
@@ -6859,10 +6859,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:14"
+    "_id": "dnd:5e:classes:11:level:14"
   },
   {
     "level": 15,
@@ -6872,11 +6872,11 @@
     "features": [
       {
         "name": "Mystic Arcanum (8th level)",
-        "id": "dnd:5e:features:392"
+        "_id": "dnd:5e:features:392"
       },
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "id": "dnd:5e:features:393"
+        "_id": "dnd:5e:features:393"
       }
     ],
     "spellcasting": {
@@ -6901,10 +6901,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:15"
+    "_id": "dnd:5e:classes:11:level:15"
   },
   {
     "level": 16,
@@ -6914,7 +6914,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:394"
+        "_id": "dnd:5e:features:394"
       }
     ],
     "spellcasting": {
@@ -6939,10 +6939,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:16"
+    "_id": "dnd:5e:classes:11:level:16"
   },
   {
     "level": 17,
@@ -6952,7 +6952,7 @@
     "features": [
       {
         "name": "Mystic Arcanum (9th level)",
-        "id": "dnd:5e:features:395"
+        "_id": "dnd:5e:features:395"
       }
     ],
     "spellcasting": {
@@ -6977,10 +6977,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:17"
+    "_id": "dnd:5e:classes:11:level:17"
   },
   {
     "level": 18,
@@ -6990,7 +6990,7 @@
     "features": [
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "id": "dnd:5e:features:396"
+        "_id": "dnd:5e:features:396"
       }
     ],
     "spellcasting": {
@@ -7015,10 +7015,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:18"
+    "_id": "dnd:5e:classes:11:level:18"
   },
   {
     "level": 19,
@@ -7028,7 +7028,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 6",
-        "id": "dnd:5e:features:397"
+        "_id": "dnd:5e:features:397"
       }
     ],
     "spellcasting": {
@@ -7053,10 +7053,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:19"
+    "_id": "dnd:5e:classes:11:level:19"
   },
   {
     "level": 20,
@@ -7066,11 +7066,11 @@
     "features": [
       {
         "name": "Eldritch Master",
-        "id": "dnd:5e:features:398"
+        "_id": "dnd:5e:features:398"
       },
       {
         "name": "Choose: Additional Eldritch Invocation",
-        "id": "dnd:5e:features:399"
+        "_id": "dnd:5e:features:399"
       }
     ],
     "spellcasting": {
@@ -7095,10 +7095,10 @@
     },
     "class": {
       "name": "Warlock",
-      "id": "dnd:5e:classes:11"
+      "_id": "dnd:5e:classes:11"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:11:level:20"
+    "_id": "dnd:5e:classes:11:level:20"
   },
   {
     "level": 1,
@@ -7108,11 +7108,11 @@
     "features": [
       {
         "name": "Spellcasting",
-        "id": "dnd:5e:features:393"
+        "_id": "dnd:5e:features:393"
       },
       {
         "name": "Arcane Recovery",
-        "id": "dnd:5e:features:394"
+        "_id": "dnd:5e:features:394"
       }
     ],
     "spellcasting": {
@@ -7132,10 +7132,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:1"
+    "_id": "dnd:5e:classes:12:level:1"
   },
   {
     "level": 2,
@@ -7145,7 +7145,7 @@
     "features": [
       {
         "name": "Arcane Tradition",
-        "id": "dnd:5e:features:395"
+        "_id": "dnd:5e:features:395"
       }
     ],
     "spellcasting": {
@@ -7165,10 +7165,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:2"
+    "_id": "dnd:5e:classes:12:level:2"
   },
   {
     "level": 3,
@@ -7193,10 +7193,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:3"
+    "_id": "dnd:5e:classes:12:level:3"
   },
   {
     "level": 4,
@@ -7206,7 +7206,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 1",
-        "id": "dnd:5e:features:398"
+        "_id": "dnd:5e:features:398"
       }
     ],
     "spellcasting": {
@@ -7226,10 +7226,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:4"
+    "_id": "dnd:5e:classes:12:level:4"
   },
   {
     "level": 5,
@@ -7254,10 +7254,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:5"
+    "_id": "dnd:5e:classes:12:level:5"
   },
   {
     "level": 6,
@@ -7282,10 +7282,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:6"
+    "_id": "dnd:5e:classes:12:level:6"
   },
   {
     "level": 7,
@@ -7310,10 +7310,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:7"
+    "_id": "dnd:5e:classes:12:level:7"
   },
   {
     "level": 8,
@@ -7323,7 +7323,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 2",
-        "id": "dnd:5e:features:400"
+        "_id": "dnd:5e:features:400"
       }
     ],
     "spellcasting": {
@@ -7343,10 +7343,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:8"
+    "_id": "dnd:5e:classes:12:level:8"
   },
   {
     "level": 9,
@@ -7371,10 +7371,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:9"
+    "_id": "dnd:5e:classes:12:level:9"
   },
   {
     "level": 10,
@@ -7399,10 +7399,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:10"
+    "_id": "dnd:5e:classes:12:level:10"
   },
   {
     "level": 11,
@@ -7427,10 +7427,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:11"
+    "_id": "dnd:5e:classes:12:level:11"
   },
   {
     "level": 12,
@@ -7440,7 +7440,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 3",
-        "id": "dnd:5e:features:402"
+        "_id": "dnd:5e:features:402"
       }
     ],
     "spellcasting": {
@@ -7460,10 +7460,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:12"
+    "_id": "dnd:5e:classes:12:level:12"
   },
   {
     "level": 13,
@@ -7488,10 +7488,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:13"
+    "_id": "dnd:5e:classes:12:level:13"
   },
   {
     "level": 14,
@@ -7516,10 +7516,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:14"
+    "_id": "dnd:5e:classes:12:level:14"
   },
   {
     "level": 15,
@@ -7544,10 +7544,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:15"
+    "_id": "dnd:5e:classes:12:level:15"
   },
   {
     "level": 16,
@@ -7557,7 +7557,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 4",
-        "id": "dnd:5e:features:404"
+        "_id": "dnd:5e:features:404"
       }
     ],
     "spellcasting": {
@@ -7577,10 +7577,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:16"
+    "_id": "dnd:5e:classes:12:level:16"
   },
   {
     "level": 17,
@@ -7605,10 +7605,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:17"
+    "_id": "dnd:5e:classes:12:level:17"
   },
   {
     "level": 18,
@@ -7618,7 +7618,7 @@
     "features": [
       {
         "name": "Spell Mastery",
-        "id": "dnd:5e:features:405"
+        "_id": "dnd:5e:features:405"
       }
     ],
     "spellcasting": {
@@ -7638,10 +7638,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:18"
+    "_id": "dnd:5e:classes:12:level:18"
   },
   {
     "level": 19,
@@ -7651,7 +7651,7 @@
     "features": [
       {
         "name": "Ability Score Improvement 5",
-        "id": "dnd:5e:features:406"
+        "_id": "dnd:5e:features:406"
       }
     ],
     "spellcasting": {
@@ -7671,10 +7671,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:19"
+    "_id": "dnd:5e:classes:12:level:19"
   },
   {
     "level": 20,
@@ -7684,7 +7684,7 @@
     "features": [
       {
         "name": "Signature Spell",
-        "id": "dnd:5e:features:407"
+        "_id": "dnd:5e:features:407"
       }
     ],
     "spellcasting": {
@@ -7704,10 +7704,10 @@
     },
     "class": {
       "name": "Wizard",
-      "id": "dnd:5e:classes:12"
+      "_id": "dnd:5e:classes:12"
     },
     "subclass": {},
-    "id": "dnd:5e:classes:12:level:20"
+    "_id": "dnd:5e:classes:12:level:20"
   },
   {
     "level": 3,
@@ -7715,23 +7715,23 @@
     "features": [
       {
         "name": "Primal Path",
-        "id": "dnd:5e:features:5"
+        "_id": "dnd:5e:features:5"
       },
       {
         "name": "Frenzy",
-        "id": "dnd:5e:features:6"
+        "_id": "dnd:5e:features:6"
       }
     ],
     "spellcasting": {},
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "id": "dnd:5e:subclasses:1"
+      "_id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:1:level:3",
+    "_id": "dnd:5e:subclasses:1:level:3",
     "index": 241
   },
   {
@@ -7740,19 +7740,19 @@
     "features": [
       {
         "name": "Mindless Rage",
-        "id": "dnd:5e:features:10"
+        "_id": "dnd:5e:features:10"
       }
     ],
     "spellcasting": {},
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "id": "dnd:5e:subclasses:1"
+      "_id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:1:level:6"
+    "_id": "dnd:5e:subclasses:1:level:6"
   },
   {
     "level": 10,
@@ -7760,19 +7760,19 @@
     "features": [
       {
         "name": "Intimidating Presence",
-        "id": "dnd:5e:features:14"
+        "_id": "dnd:5e:features:14"
       }
     ],
     "spellcasting": {},
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "id": "dnd:5e:subclasses:1"
+      "_id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:1:level:10",
+    "_id": "dnd:5e:subclasses:1:level:10",
     "index": 243
   },
   {
@@ -7781,19 +7781,19 @@
     "features": [
       {
         "name": "Retaliation",
-        "id": "dnd:5e:features:18"
+        "_id": "dnd:5e:features:18"
       }
     ],
     "spellcasting": {},
     "class": {
       "name": "Barbarian",
-      "id": "dnd:5e:classes:1"
+      "_id": "dnd:5e:classes:1"
     },
     "subclass": {
       "name": "Berserker",
-      "id": "dnd:5e:subclasses:1"
+      "_id": "dnd:5e:subclasses:1"
     },
-    "id": "dnd:5e:subclasses:1:level:14",
+    "_id": "dnd:5e:subclasses:1:level:14",
     "index": 244
   },
   {
@@ -7802,11 +7802,11 @@
     "features": [
       {
         "name": "Bonus Proficiencies",
-        "id": "dnd:5e:features:30"
+        "_id": "dnd:5e:features:30"
       },
       {
         "name": "Cutting Words",
-        "id": "dnd:5e:features:31"
+        "_id": "dnd:5e:features:31"
       }
     ],
     "spellcasting": {},
@@ -7815,13 +7815,13 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {
       "name": "Lore",
-      "id": "dnd:5e:subclasses:2"
+      "_id": "dnd:5e:subclasses:2"
     },
-    "id": "dnd:5e:subclasses:2:level:3",
+    "_id": "dnd:5e:subclasses:2:level:3",
     "index": 245
   },
   {
@@ -7830,7 +7830,7 @@
     "features": [
       {
         "name": "Additional Magical Secrets",
-        "id": "dnd:5e:features:55"
+        "_id": "dnd:5e:features:55"
       }
     ],
     "spellcasting": {},
@@ -7839,13 +7839,13 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {
       "name": "Lore",
-      "id": "dnd:5e:subclasses:2"
+      "_id": "dnd:5e:subclasses:2"
     },
-    "id": "dnd:5e:subclasses:2:level:6",
+    "_id": "dnd:5e:subclasses:2:level:6",
     "index": 246
   },
   {
@@ -7854,7 +7854,7 @@
     "features": [
       {
         "name": "Peerless Skill",
-        "id": "dnd:5e:features:64"
+        "_id": "dnd:5e:features:64"
       }
     ],
     "spellcasting": {},
@@ -7863,13 +7863,13 @@
     },
     "class": {
       "name": "Bard",
-      "id": "dnd:5e:classes:2"
+      "_id": "dnd:5e:classes:2"
     },
     "subclass": {
       "name": "Lore",
-      "id": "dnd:5e:subclasses:2"
+      "_id": "dnd:5e:subclasses:2"
     },
-    "id": "dnd:5e:subclasses:2:level:14",
+    "_id": "dnd:5e:subclasses:2:level:14",
     "index": 247
   }
 ]

@@ -4,2245 +4,2245 @@
     "equipment": [
       {
         "name": "Club",
-        "id": "dnd:5e:equipment:1"
+        "_id": "dnd:5e:equipment:1"
       },
       {
         "name": "Dagger",
-        "id": "dnd:5e:equipment:2"
+        "_id": "dnd:5e:equipment:2"
       },
       {
         "name": "Greatclub",
-        "id": "dnd:5e:equipment:3"
+        "_id": "dnd:5e:equipment:3"
       },
       {
         "name": "Handaxe",
-        "id": "dnd:5e:equipment:4"
+        "_id": "dnd:5e:equipment:4"
       },
       {
         "name": "Javelin",
-        "id": "dnd:5e:equipment:5"
+        "_id": "dnd:5e:equipment:5"
       },
       {
         "name": "Light hammer",
-        "id": "dnd:5e:equipment:6"
+        "_id": "dnd:5e:equipment:6"
       },
       {
         "name": "Mace",
-        "id": "dnd:5e:equipment:7"
+        "_id": "dnd:5e:equipment:7"
       },
       {
         "name": "Quarterstaff",
-        "id": "dnd:5e:equipment:8"
+        "_id": "dnd:5e:equipment:8"
       },
       {
         "name": "Sickle",
-        "id": "dnd:5e:equipment:9"
+        "_id": "dnd:5e:equipment:9"
       },
       {
         "name": "Spear",
-        "id": "dnd:5e:equipment:10"
+        "_id": "dnd:5e:equipment:10"
       },
       {
         "name": "Crossbow, light",
-        "id": "dnd:5e:equipment:11"
+        "_id": "dnd:5e:equipment:11"
       },
       {
         "name": "Dart",
-        "id": "dnd:5e:equipment:12"
+        "_id": "dnd:5e:equipment:12"
       },
       {
         "name": "Shortbow",
-        "id": "dnd:5e:equipment:13"
+        "_id": "dnd:5e:equipment:13"
       },
       {
         "name": "Sling",
-        "id": "dnd:5e:equipment:14"
+        "_id": "dnd:5e:equipment:14"
       },
       {
         "name": "Battleaxe",
-        "id": "dnd:5e:equipment:15"
+        "_id": "dnd:5e:equipment:15"
       },
       {
         "name": "Flail",
-        "id": "dnd:5e:equipment:16"
+        "_id": "dnd:5e:equipment:16"
       },
       {
         "name": "Glaive",
-        "id": "dnd:5e:equipment:17"
+        "_id": "dnd:5e:equipment:17"
       },
       {
         "name": "Greataxe",
-        "id": "dnd:5e:equipment:18"
+        "_id": "dnd:5e:equipment:18"
       },
       {
         "name": "Greatsword",
-        "id": "dnd:5e:equipment:19"
+        "_id": "dnd:5e:equipment:19"
       },
       {
         "name": "Halberd",
-        "id": "dnd:5e:equipment:20"
+        "_id": "dnd:5e:equipment:20"
       },
       {
         "name": "Lance",
-        "id": "dnd:5e:equipment:21"
+        "_id": "dnd:5e:equipment:21"
       },
       {
         "name": "Longsword",
-        "id": "dnd:5e:equipment:22"
+        "_id": "dnd:5e:equipment:22"
       },
       {
         "name": "Maul",
-        "id": "dnd:5e:equipment:23"
+        "_id": "dnd:5e:equipment:23"
       },
       {
         "name": "Morningstar",
-        "id": "dnd:5e:equipment:24"
+        "_id": "dnd:5e:equipment:24"
       },
       {
         "name": "Pike",
-        "id": "dnd:5e:equipment:25"
+        "_id": "dnd:5e:equipment:25"
       },
       {
         "name": "Rapier",
-        "id": "dnd:5e:equipment:26"
+        "_id": "dnd:5e:equipment:26"
       },
       {
         "name": "Scimitar",
-        "id": "dnd:5e:equipment:27"
+        "_id": "dnd:5e:equipment:27"
       },
       {
         "name": "Shortsword",
-        "id": "dnd:5e:equipment:28"
+        "_id": "dnd:5e:equipment:28"
       },
       {
         "name": "Trident",
-        "id": "dnd:5e:equipment:29"
+        "_id": "dnd:5e:equipment:29"
       },
       {
         "name": "War pick",
-        "id": "dnd:5e:equipment:30"
+        "_id": "dnd:5e:equipment:30"
       },
       {
         "name": "Warhammer",
-        "id": "dnd:5e:equipment:31"
+        "_id": "dnd:5e:equipment:31"
       },
       {
         "name": "Whip",
-        "id": "dnd:5e:equipment:32"
+        "_id": "dnd:5e:equipment:32"
       },
       {
         "name": "Blowgun",
-        "id": "dnd:5e:equipment:33"
+        "_id": "dnd:5e:equipment:33"
       },
       {
         "name": "Crossbow, hand",
-        "id": "dnd:5e:equipment:34"
+        "_id": "dnd:5e:equipment:34"
       },
       {
         "name": "Crossbow, heavy",
-        "id": "dnd:5e:equipment:35"
+        "_id": "dnd:5e:equipment:35"
       },
       {
         "name": "Longbow",
-        "id": "dnd:5e:equipment:36"
+        "_id": "dnd:5e:equipment:36"
       },
       {
         "name": "Net",
-        "id": "dnd:5e:equipment:37"
+        "_id": "dnd:5e:equipment:37"
       }
     ],
-    "id": "dnd:5e:equipment-categories:1"
+    "_id": "dnd:5e:equipment-categories:1"
   },
   {
     "name": "Armor",
     "equipment": [
       {
         "name": "Padded",
-        "id": "dnd:5e:equipment:38"
+        "_id": "dnd:5e:equipment:38"
       },
       {
         "name": "Leather",
-        "id": "dnd:5e:equipment:39"
+        "_id": "dnd:5e:equipment:39"
       },
       {
         "name": "Studded Leather",
-        "id": "dnd:5e:equipment:40"
+        "_id": "dnd:5e:equipment:40"
       },
       {
         "name": "Hide",
-        "id": "dnd:5e:equipment:41"
+        "_id": "dnd:5e:equipment:41"
       },
       {
         "name": "Chain Shirt",
-        "id": "dnd:5e:equipment:42"
+        "_id": "dnd:5e:equipment:42"
       },
       {
         "name": "Scale Mail",
-        "id": "dnd:5e:equipment:43"
+        "_id": "dnd:5e:equipment:43"
       },
       {
         "name": "Breastplate",
-        "id": "dnd:5e:equipment:44"
+        "_id": "dnd:5e:equipment:44"
       },
       {
         "name": "Half Plate",
-        "id": "dnd:5e:equipment:45"
+        "_id": "dnd:5e:equipment:45"
       },
       {
         "name": "Ring Mail",
-        "id": "dnd:5e:equipment:46"
+        "_id": "dnd:5e:equipment:46"
       },
       {
         "name": "Chain Mail",
-        "id": "dnd:5e:equipment:47"
+        "_id": "dnd:5e:equipment:47"
       },
       {
         "name": "Splint",
-        "id": "dnd:5e:equipment:48"
+        "_id": "dnd:5e:equipment:48"
       },
       {
         "name": "Plate",
-        "id": "dnd:5e:equipment:49"
+        "_id": "dnd:5e:equipment:49"
       },
       {
         "name": "Shield",
-        "id": "dnd:5e:equipment:50"
+        "_id": "dnd:5e:equipment:50"
       }
     ],
-    "id": "dnd:5e:equipment-categories:2"
+    "_id": "dnd:5e:equipment-categories:2"
   },
   {
     "name": "Adventuring Gear",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:51",
+        "_id": "dnd:5e:equipment:51",
         "name": "Abacus"
       },
       {
-        "id": "dnd:5e:equipment:52",
+        "_id": "dnd:5e:equipment:52",
         "name": "Acid (vial)"
       },
       {
-        "id": "dnd:5e:equipment:53",
+        "_id": "dnd:5e:equipment:53",
         "name": "Alchemist’s fire (flask)"
       },
       {
-        "id": "dnd:5e:equipment:54",
+        "_id": "dnd:5e:equipment:54",
         "name": "Arrow"
       },
       {
-        "id": "dnd:5e:equipment:55",
+        "_id": "dnd:5e:equipment:55",
         "name": "Blowgun needle"
       },
       {
-        "id": "dnd:5e:equipment:56",
+        "_id": "dnd:5e:equipment:56",
         "name": "Crossbow bolt"
       },
       {
-        "id": "dnd:5e:equipment:57",
+        "_id": "dnd:5e:equipment:57",
         "name": "Sling bullet"
       },
       {
-        "id": "dnd:5e:equipment:58",
+        "_id": "dnd:5e:equipment:58",
         "name": "Amulet"
       },
       {
-        "id": "dnd:5e:equipment:59",
+        "_id": "dnd:5e:equipment:59",
         "name": "Antitoxin (vial)"
       },
       {
-        "id": "dnd:5e:equipment:60",
+        "_id": "dnd:5e:equipment:60",
         "name": "Crystal"
       },
       {
-        "id": "dnd:5e:equipment:61",
+        "_id": "dnd:5e:equipment:61",
         "name": "Orb"
       },
       {
-        "id": "dnd:5e:equipment:62",
+        "_id": "dnd:5e:equipment:62",
         "name": "Rod"
       },
       {
-        "id": "dnd:5e:equipment:63",
+        "_id": "dnd:5e:equipment:63",
         "name": "Staff"
       },
       {
-        "id": "dnd:5e:equipment:64",
+        "_id": "dnd:5e:equipment:64",
         "name": "Wand"
       },
       {
-        "id": "dnd:5e:equipment:65",
+        "_id": "dnd:5e:equipment:65",
         "name": "Backpack"
       },
       {
-        "id": "dnd:5e:equipment:66",
+        "_id": "dnd:5e:equipment:66",
         "name": "Ball bearings (bag of 1,000)"
       },
       {
-        "id": "dnd:5e:equipment:67",
+        "_id": "dnd:5e:equipment:67",
         "name": "Barrel"
       },
       {
-        "id": "dnd:5e:equipment:68",
+        "_id": "dnd:5e:equipment:68",
         "name": "Basket"
       },
       {
-        "id": "dnd:5e:equipment:69",
+        "_id": "dnd:5e:equipment:69",
         "name": "Bedroll"
       },
       {
-        "id": "dnd:5e:equipment:70",
+        "_id": "dnd:5e:equipment:70",
         "name": "Bell"
       },
       {
-        "id": "dnd:5e:equipment:71",
+        "_id": "dnd:5e:equipment:71",
         "name": "Blanket"
       },
       {
-        "id": "dnd:5e:equipment:72",
+        "_id": "dnd:5e:equipment:72",
         "name": "Block and tackle"
       },
       {
-        "id": "dnd:5e:equipment:73",
+        "_id": "dnd:5e:equipment:73",
         "name": "Book"
       },
       {
-        "id": "dnd:5e:equipment:74",
+        "_id": "dnd:5e:equipment:74",
         "name": "Bottle, glass"
       },
       {
-        "id": "dnd:5e:equipment:75",
+        "_id": "dnd:5e:equipment:75",
         "name": "Bucket"
       },
       {
-        "id": "dnd:5e:equipment:76",
+        "_id": "dnd:5e:equipment:76",
         "name": "Caltrops"
       },
       {
-        "id": "dnd:5e:equipment:77",
+        "_id": "dnd:5e:equipment:77",
         "name": "Candle"
       },
       {
-        "id": "dnd:5e:equipment:78",
+        "_id": "dnd:5e:equipment:78",
         "name": "Case, crossbow bolt"
       },
       {
-        "id": "dnd:5e:equipment:79",
+        "_id": "dnd:5e:equipment:79",
         "name": "Case, map or scroll"
       },
       {
-        "id": "dnd:5e:equipment:80",
+        "_id": "dnd:5e:equipment:80",
         "name": "Chain (10 feet)"
       },
       {
-        "id": "dnd:5e:equipment:81",
+        "_id": "dnd:5e:equipment:81",
         "name": "Chalk (1 piece)"
       },
       {
-        "id": "dnd:5e:equipment:82",
+        "_id": "dnd:5e:equipment:82",
         "name": "Chest"
       },
       {
-        "id": "dnd:5e:equipment:83",
+        "_id": "dnd:5e:equipment:83",
         "name": "Clothes, common"
       },
       {
-        "id": "dnd:5e:equipment:84",
+        "_id": "dnd:5e:equipment:84",
         "name": "Clothes, costume"
       },
       {
-        "id": "dnd:5e:equipment:85",
+        "_id": "dnd:5e:equipment:85",
         "name": "Clothes, fine"
       },
       {
-        "id": "dnd:5e:equipment:86",
+        "_id": "dnd:5e:equipment:86",
         "name": "Clothes, traveler’s"
       },
       {
-        "id": "dnd:5e:equipment:87",
+        "_id": "dnd:5e:equipment:87",
         "name": "Component pouch"
       },
       {
-        "id": "dnd:5e:equipment:88",
+        "_id": "dnd:5e:equipment:88",
         "name": "Crowbar"
       },
       {
-        "id": "dnd:5e:equipment:89",
+        "_id": "dnd:5e:equipment:89",
         "name": "Sprig of mistletoe"
       },
       {
-        "id": "dnd:5e:equipment:90",
+        "_id": "dnd:5e:equipment:90",
         "name": "Totem"
       },
       {
-        "id": "dnd:5e:equipment:91",
+        "_id": "dnd:5e:equipment:91",
         "name": "Wooden staff"
       },
       {
-        "id": "dnd:5e:equipment:92",
+        "_id": "dnd:5e:equipment:92",
         "name": "Yew wand"
       },
       {
-        "id": "dnd:5e:equipment:93",
+        "_id": "dnd:5e:equipment:93",
         "name": "Emblem"
       },
       {
-        "id": "dnd:5e:equipment:94",
+        "_id": "dnd:5e:equipment:94",
         "name": "Fishing tackle"
       },
       {
-        "id": "dnd:5e:equipment:95",
+        "_id": "dnd:5e:equipment:95",
         "name": "Flask or tankard"
       },
       {
-        "id": "dnd:5e:equipment:96",
+        "_id": "dnd:5e:equipment:96",
         "name": "Grappling hook"
       },
       {
-        "id": "dnd:5e:equipment:97",
+        "_id": "dnd:5e:equipment:97",
         "name": "Hammer"
       },
       {
-        "id": "dnd:5e:equipment:98",
+        "_id": "dnd:5e:equipment:98",
         "name": "Hammer, sledge"
       },
       {
-        "id": "dnd:5e:equipment:99",
+        "_id": "dnd:5e:equipment:99",
         "name": "Holy water (flask)"
       },
       {
-        "id": "dnd:5e:equipment:100",
+        "_id": "dnd:5e:equipment:100",
         "name": "Hourglass"
       },
       {
-        "id": "dnd:5e:equipment:101",
+        "_id": "dnd:5e:equipment:101",
         "name": "Hunting trap"
       },
       {
-        "id": "dnd:5e:equipment:102",
+        "_id": "dnd:5e:equipment:102",
         "name": "Ink (1 ounce bottle)"
       },
       {
-        "id": "dnd:5e:equipment:103",
+        "_id": "dnd:5e:equipment:103",
         "name": "Ink pen"
       },
       {
-        "id": "dnd:5e:equipment:100",
+        "_id": "dnd:5e:equipment:100",
         "name": "Hourglass"
       },
       {
-        "id": "dnd:5e:equipment:101",
+        "_id": "dnd:5e:equipment:101",
         "name": "Hunting trap"
       },
       {
-        "id": "dnd:5e:equipment:102",
+        "_id": "dnd:5e:equipment:102",
         "name": "Ink (1 ounce bottle)"
       },
       {
-        "id": "dnd:5e:equipment:103",
+        "_id": "dnd:5e:equipment:103",
         "name": "Ink pen"
       },
       {
-        "id": "dnd:5e:equipment:104",
+        "_id": "dnd:5e:equipment:104",
         "name": "Jug or pitcher"
       },
       {
-        "id": "dnd:5e:equipment:105",
+        "_id": "dnd:5e:equipment:105",
         "name": "Climber’s Kit"
       },
       {
-        "id": "dnd:5e:equipment:106",
+        "_id": "dnd:5e:equipment:106",
         "name": "Disguise Kit"
       },
       {
-        "id": "dnd:5e:equipment:107",
+        "_id": "dnd:5e:equipment:107",
         "name": "Forgery Kit"
       },
       {
-        "id": "dnd:5e:equipment:108",
+        "_id": "dnd:5e:equipment:108",
         "name": "Herbalism Kit"
       },
       {
-        "id": "dnd:5e:equipment:109",
+        "_id": "dnd:5e:equipment:109",
         "name": "Healer’s Kit"
       },
       {
-        "id": "dnd:5e:equipment:110",
+        "_id": "dnd:5e:equipment:110",
         "name": "Mess Kit"
       },
       {
-        "id": "dnd:5e:equipment:111",
+        "_id": "dnd:5e:equipment:111",
         "name": "Poisoner’s Kit"
       },
       {
-        "id": "dnd:5e:equipment:112",
+        "_id": "dnd:5e:equipment:112",
         "name": "Ladder (10-foot)"
       },
       {
-        "id": "dnd:5e:equipment:113",
+        "_id": "dnd:5e:equipment:113",
         "name": "Lamp"
       },
       {
-        "id": "dnd:5e:equipment:114",
+        "_id": "dnd:5e:equipment:114",
         "name": "Lantern, bullseye"
       },
       {
-        "id": "dnd:5e:equipment:115",
+        "_id": "dnd:5e:equipment:115",
         "name": "Lantern, hooded"
       },
       {
-        "id": "dnd:5e:equipment:116",
+        "_id": "dnd:5e:equipment:116",
         "name": "Lock"
       },
       {
-        "id": "dnd:5e:equipment:117",
+        "_id": "dnd:5e:equipment:117",
         "name": "Magnifying glass"
       },
       {
-        "id": "dnd:5e:equipment:118",
+        "_id": "dnd:5e:equipment:118",
         "name": "Manacles"
       },
       {
-        "id": "dnd:5e:equipment:119",
+        "_id": "dnd:5e:equipment:119",
         "name": "Mirror, steel"
       },
       {
-        "id": "dnd:5e:equipment:120",
+        "_id": "dnd:5e:equipment:120",
         "name": "Oil (flask)"
       },
       {
-        "id": "dnd:5e:equipment:121",
+        "_id": "dnd:5e:equipment:121",
         "name": "Paper (one sheet)"
       },
       {
-        "id": "dnd:5e:equipment:122",
+        "_id": "dnd:5e:equipment:122",
         "name": "Parchment (one sheet)"
       },
       {
-        "id": "dnd:5e:equipment:123",
+        "_id": "dnd:5e:equipment:123",
         "name": "Perfume (vial)"
       },
       {
-        "id": "dnd:5e:equipment:124",
+        "_id": "dnd:5e:equipment:124",
         "name": "Pick, miner’s"
       },
       {
-        "id": "dnd:5e:equipment:125",
+        "_id": "dnd:5e:equipment:125",
         "name": "Piton"
       },
       {
-        "id": "dnd:5e:equipment:126",
+        "_id": "dnd:5e:equipment:126",
         "name": "Poison, basic (vial)"
       },
       {
-        "id": "dnd:5e:equipment:127",
+        "_id": "dnd:5e:equipment:127",
         "name": "Pole (10-foot)"
       },
       {
-        "id": "dnd:5e:equipment:128",
+        "_id": "dnd:5e:equipment:128",
         "name": "Pot, iron"
       },
       {
-        "id": "dnd:5e:equipment:129",
+        "_id": "dnd:5e:equipment:129",
         "name": "Potion of healing"
       },
       {
-        "id": "dnd:5e:equipment:130",
+        "_id": "dnd:5e:equipment:130",
         "name": "Pouch"
       },
       {
-        "id": "dnd:5e:equipment:131",
+        "_id": "dnd:5e:equipment:131",
         "name": "Quiver"
       },
       {
-        "id": "dnd:5e:equipment:132",
+        "_id": "dnd:5e:equipment:132",
         "name": "Ram, portable"
       },
       {
-        "id": "dnd:5e:equipment:133",
+        "_id": "dnd:5e:equipment:133",
         "name": "Rations (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:134",
+        "_id": "dnd:5e:equipment:134",
         "name": "Reliquary"
       },
       {
-        "id": "dnd:5e:equipment:135",
+        "_id": "dnd:5e:equipment:135",
         "name": "Robes"
       },
       {
-        "id": "dnd:5e:equipment:136",
+        "_id": "dnd:5e:equipment:136",
         "name": "Rope, hempen (50 feet)"
       },
       {
-        "id": "dnd:5e:equipment:137",
+        "_id": "dnd:5e:equipment:137",
         "name": "Rope, silk (50 feet)"
       },
       {
-        "id": "dnd:5e:equipment:138",
+        "_id": "dnd:5e:equipment:138",
         "name": "Sack"
       },
       {
-        "id": "dnd:5e:equipment:139",
+        "_id": "dnd:5e:equipment:139",
         "name": "Scale, merchant’s"
       },
       {
-        "id": "dnd:5e:equipment:140",
+        "_id": "dnd:5e:equipment:140",
         "name": "Sealing wax"
       },
       {
-        "id": "dnd:5e:equipment:141",
+        "_id": "dnd:5e:equipment:141",
         "name": "Shovel"
       },
       {
-        "id": "dnd:5e:equipment:142",
+        "_id": "dnd:5e:equipment:142",
         "name": "Signal whistle"
       },
       {
-        "id": "dnd:5e:equipment:143",
+        "_id": "dnd:5e:equipment:143",
         "name": "Signet ring"
       },
       {
-        "id": "dnd:5e:equipment:144",
+        "_id": "dnd:5e:equipment:144",
         "name": "Soap"
       },
       {
-        "id": "dnd:5e:equipment:145",
+        "_id": "dnd:5e:equipment:145",
         "name": "Spellbook"
       },
       {
-        "id": "dnd:5e:equipment:146",
+        "_id": "dnd:5e:equipment:146",
         "name": "Spike, iron"
       },
       {
-        "id": "dnd:5e:equipment:147",
+        "_id": "dnd:5e:equipment:147",
         "name": "Spyglass"
       },
       {
-        "id": "dnd:5e:equipment:148",
+        "_id": "dnd:5e:equipment:148",
         "name": "Tent, two-person"
       },
       {
-        "id": "dnd:5e:equipment:149",
+        "_id": "dnd:5e:equipment:149",
         "name": "Tinderbox"
       },
       {
-        "id": "dnd:5e:equipment:150",
+        "_id": "dnd:5e:equipment:150",
         "name": "Torch"
       },
       {
-        "id": "dnd:5e:equipment:151",
+        "_id": "dnd:5e:equipment:151",
         "name": "Vial"
       },
       {
-        "id": "dnd:5e:equipment:152",
+        "_id": "dnd:5e:equipment:152",
         "name": "Waterskin"
       },
       {
-        "id": "dnd:5e:equipment:153",
+        "_id": "dnd:5e:equipment:153",
         "name": "Whetstone"
       },
       {
-        "id": "dnd:5e:equipment:154",
+        "_id": "dnd:5e:equipment:154",
         "name": "Burglar's Pack"
       },
       {
-        "id": "dnd:5e:equipment:155",
+        "_id": "dnd:5e:equipment:155",
         "name": "Diplomat's Pack"
       },
       {
-        "id": "dnd:5e:equipment:156",
+        "_id": "dnd:5e:equipment:156",
         "name": "Dungeoneer's Pack"
       },
       {
-        "id": "dnd:5e:equipment:157",
+        "_id": "dnd:5e:equipment:157",
         "name": "Entertainer's Pack"
       },
       {
-        "id": "dnd:5e:equipment:158",
+        "_id": "dnd:5e:equipment:158",
         "name": "Explorer's Pack"
       },
       {
-        "id": "dnd:5e:equipment:159",
+        "_id": "dnd:5e:equipment:159",
         "name": "Priest's Pack"
       },
       {
-        "id": "dnd:5e:equipment:160",
+        "_id": "dnd:5e:equipment:160",
         "name": "Scholar's Pack"
       }
     ],
-    "id": "dnd:5e:equipment-categories:3"
+    "_id": "dnd:5e:equipment-categories:3"
   },
   {
     "name": "Tools",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:161",
+        "_id": "dnd:5e:equipment:161",
         "name": "Alchemist’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:162",
+        "_id": "dnd:5e:equipment:162",
         "name": "Brewer’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:163",
+        "_id": "dnd:5e:equipment:163",
         "name": "Calligrapher’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:164",
+        "_id": "dnd:5e:equipment:164",
         "name": "Carpenter’s tools"
       },
       {
-        "id": "dnd:5e:equipment:165",
+        "_id": "dnd:5e:equipment:165",
         "name": "Cartographer’s tools"
       },
       {
-        "id": "dnd:5e:equipment:166",
+        "_id": "dnd:5e:equipment:166",
         "name": "Cobbler’s tools"
       },
       {
-        "id": "dnd:5e:equipment:167",
+        "_id": "dnd:5e:equipment:167",
         "name": "Cook’s utensils"
       },
       {
-        "id": "dnd:5e:equipment:168",
+        "_id": "dnd:5e:equipment:168",
         "name": "Glassblower’s tools"
       },
       {
-        "id": "dnd:5e:equipment:169",
+        "_id": "dnd:5e:equipment:169",
         "name": "Jeweler’s tools"
       },
       {
-        "id": "dnd:5e:equipment:170",
+        "_id": "dnd:5e:equipment:170",
         "name": "Leatherworker’s tools"
       },
       {
-        "id": "dnd:5e:equipment:171",
+        "_id": "dnd:5e:equipment:171",
         "name": "Mason’s tools"
       },
       {
-        "id": "dnd:5e:equipment:172",
+        "_id": "dnd:5e:equipment:172",
         "name": "Painter’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:173",
+        "_id": "dnd:5e:equipment:173",
         "name": "Potter’s tools"
       },
       {
-        "id": "dnd:5e:equipment:174",
+        "_id": "dnd:5e:equipment:174",
         "name": "Smith’s tools"
       },
       {
-        "id": "dnd:5e:equipment:175",
+        "_id": "dnd:5e:equipment:175",
         "name": "Tinker’s tools"
       },
       {
-        "id": "dnd:5e:equipment:176",
+        "_id": "dnd:5e:equipment:176",
         "name": "Weaver’s tools"
       },
       {
-        "id": "dnd:5e:equipment:177",
+        "_id": "dnd:5e:equipment:177",
         "name": "Woodcarver’s tools"
       },
       {
-        "id": "dnd:5e:equipment:178",
+        "_id": "dnd:5e:equipment:178",
         "name": "Dice set"
       },
       {
-        "id": "dnd:5e:equipment:179",
+        "_id": "dnd:5e:equipment:179",
         "name": "Playing card set"
       },
       {
-        "id": "dnd:5e:equipment:180",
+        "_id": "dnd:5e:equipment:180",
         "name": "Bagpipes"
       },
       {
-        "id": "dnd:5e:equipment:181",
+        "_id": "dnd:5e:equipment:181",
         "name": "Drum"
       },
       {
-        "id": "dnd:5e:equipment:182",
+        "_id": "dnd:5e:equipment:182",
         "name": "Dulcimer"
       },
       {
-        "id": "dnd:5e:equipment:183",
+        "_id": "dnd:5e:equipment:183",
         "name": "Flute"
       },
       {
-        "id": "dnd:5e:equipment:184",
+        "_id": "dnd:5e:equipment:184",
         "name": "Lute"
       },
       {
-        "id": "dnd:5e:equipment:185",
+        "_id": "dnd:5e:equipment:185",
         "name": "Lyre"
       },
       {
-        "id": "dnd:5e:equipment:186",
+        "_id": "dnd:5e:equipment:186",
         "name": "Horn"
       },
       {
-        "id": "dnd:5e:equipment:187",
+        "_id": "dnd:5e:equipment:187",
         "name": "Pan flute"
       },
       {
-        "id": "dnd:5e:equipment:188",
+        "_id": "dnd:5e:equipment:188",
         "name": "Shawm"
       },
       {
-        "id": "dnd:5e:equipment:189",
+        "_id": "dnd:5e:equipment:189",
         "name": "Viol"
       },
       {
-        "id": "dnd:5e:equipment:190",
+        "_id": "dnd:5e:equipment:190",
         "name": "Navigator’s tools"
       },
       {
-        "id": "dnd:5e:equipment:191",
+        "_id": "dnd:5e:equipment:191",
         "name": "Thieves’ tools"
       }
     ],
-    "id": "dnd:5e:equipment-categories:4"
+    "_id": "dnd:5e:equipment-categories:4"
   },
   {
     "name": "Mounts and Vehicles",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:194",
+        "_id": "dnd:5e:equipment:194",
         "name": "Mule"
       },
       {
-        "id": "dnd:5e:equipment:195",
+        "_id": "dnd:5e:equipment:195",
         "name": "Elephant"
       },
       {
-        "id": "dnd:5e:equipment:196",
+        "_id": "dnd:5e:equipment:196",
         "name": "Horse, draft"
       },
       {
-        "id": "dnd:5e:equipment:197",
+        "_id": "dnd:5e:equipment:197",
         "name": "Horse, riding"
       },
       {
-        "id": "dnd:5e:equipment:198",
+        "_id": "dnd:5e:equipment:198",
         "name": "Mastiff"
       },
       {
-        "id": "dnd:5e:equipment:199",
+        "_id": "dnd:5e:equipment:199",
         "name": "Pony"
       },
       {
-        "id": "dnd:5e:equipment:200",
+        "_id": "dnd:5e:equipment:200",
         "name": "Warhorse"
       },
       {
-        "id": "dnd:5e:equipment:201",
+        "_id": "dnd:5e:equipment:201",
         "name": "Barding: Padded"
       },
       {
-        "id": "dnd:5e:equipment:202",
+        "_id": "dnd:5e:equipment:202",
         "name": "Barding: Leather"
       },
       {
-        "id": "dnd:5e:equipment:203",
+        "_id": "dnd:5e:equipment:203",
         "name": "Barding: Studded Leather"
       },
       {
-        "id": "dnd:5e:equipment:204",
+        "_id": "dnd:5e:equipment:204",
         "name": "Barding: Hide"
       },
       {
-        "id": "dnd:5e:equipment:205",
+        "_id": "dnd:5e:equipment:205",
         "name": "Barding: Chain shirt"
       },
       {
-        "id": "dnd:5e:equipment:206",
+        "_id": "dnd:5e:equipment:206",
         "name": "Barding: Scale mail"
       },
       {
-        "id": "dnd:5e:equipment:207",
+        "_id": "dnd:5e:equipment:207",
         "name": "Barding: Breastplate"
       },
       {
-        "id": "dnd:5e:equipment:208",
+        "_id": "dnd:5e:equipment:208",
         "name": "Barding: Half plate"
       },
       {
-        "id": "dnd:5e:equipment:209",
+        "_id": "dnd:5e:equipment:209",
         "name": "Barding: Ring mail"
       },
       {
-        "id": "dnd:5e:equipment:210",
+        "_id": "dnd:5e:equipment:210",
         "name": "Barding: Chain mail"
       },
       {
-        "id": "dnd:5e:equipment:211",
+        "_id": "dnd:5e:equipment:211",
         "name": "Barding: Splint"
       },
       {
-        "id": "dnd:5e:equipment:212",
+        "_id": "dnd:5e:equipment:212",
         "name": "Barding: Plate"
       },
       {
-        "id": "dnd:5e:equipment:213",
+        "_id": "dnd:5e:equipment:213",
         "name": "Bit and bridle"
       },
       {
-        "id": "dnd:5e:equipment:214",
+        "_id": "dnd:5e:equipment:214",
         "name": "Carriage"
       },
       {
-        "id": "dnd:5e:equipment:215",
+        "_id": "dnd:5e:equipment:215",
         "name": "Cart"
       },
       {
-        "id": "dnd:5e:equipment:216",
+        "_id": "dnd:5e:equipment:216",
         "name": "Chariot"
       },
       {
-        "id": "dnd:5e:equipment:217",
+        "_id": "dnd:5e:equipment:217",
         "name": "Animal Feed (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:218",
+        "_id": "dnd:5e:equipment:218",
         "name": "Saddle, Exotic"
       },
       {
-        "id": "dnd:5e:equipment:219",
+        "_id": "dnd:5e:equipment:219",
         "name": "Saddle, Military"
       },
       {
-        "id": "dnd:5e:equipment:220",
+        "_id": "dnd:5e:equipment:220",
         "name": "Saddle, Pack"
       },
       {
-        "id": "dnd:5e:equipment:221",
+        "_id": "dnd:5e:equipment:221",
         "name": "Riding"
       },
       {
-        "id": "dnd:5e:equipment:222",
+        "_id": "dnd:5e:equipment:222",
         "name": "Saddlebags"
       },
       {
-        "id": "dnd:5e:equipment:223",
+        "_id": "dnd:5e:equipment:223",
         "name": "Sled"
       },
       {
-        "id": "dnd:5e:equipment:224",
+        "_id": "dnd:5e:equipment:224",
         "name": "Stabling (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:225",
+        "_id": "dnd:5e:equipment:225",
         "name": "Wagon"
       },
       {
-        "id": "dnd:5e:equipment:226",
+        "_id": "dnd:5e:equipment:226",
         "name": "Barding: Padded"
       },
       {
-        "id": "dnd:5e:equipment:227",
+        "_id": "dnd:5e:equipment:227",
         "name": "Barding: Leather"
       },
       {
-        "id": "dnd:5e:equipment:228",
+        "_id": "dnd:5e:equipment:228",
         "name": "Barding: Studded Leather"
       },
       {
-        "id": "dnd:5e:equipment:229",
+        "_id": "dnd:5e:equipment:229",
         "name": "Barding: Hide"
       },
       {
-        "id": "dnd:5e:equipment:230",
+        "_id": "dnd:5e:equipment:230",
         "name": "Barding: Chain shirt"
       },
       {
-        "id": "dnd:5e:equipment:231",
+        "_id": "dnd:5e:equipment:231",
         "name": "Barding: Scale mail"
       },
       {
-        "id": "dnd:5e:equipment:232",
+        "_id": "dnd:5e:equipment:232",
         "name": "Barding: Breastplate"
       },
       {
-        "id": "dnd:5e:equipment:233",
+        "_id": "dnd:5e:equipment:233",
         "name": "Barding: Half plate"
       },
       {
-        "id": "dnd:5e:equipment:234",
+        "_id": "dnd:5e:equipment:234",
         "name": "Barding: Ring mail"
       },
       {
-        "id": "dnd:5e:equipment:235",
+        "_id": "dnd:5e:equipment:235",
         "name": "Barding: Chain mail"
       },
       {
-        "id": "dnd:5e:equipment:236",
+        "_id": "dnd:5e:equipment:236",
         "name": "Barding: Splint"
       },
       {
-        "id": "dnd:5e:equipment:237",
+        "_id": "dnd:5e:equipment:237",
         "name": "Barding: Plate"
       },
       {
-        "id": "dnd:5e:equipment:238",
+        "_id": "dnd:5e:equipment:238",
         "name": "Bit and bridle"
       },
       {
-        "id": "dnd:5e:equipment:239",
+        "_id": "dnd:5e:equipment:239",
         "name": "Carriage"
       },
       {
-        "id": "dnd:5e:equipment:240",
+        "_id": "dnd:5e:equipment:240",
         "name": "Cart"
       },
       {
-        "id": "dnd:5e:equipment:241",
+        "_id": "dnd:5e:equipment:241",
         "name": "Chariot"
       },
       {
-        "id": "dnd:5e:equipment:242",
+        "_id": "dnd:5e:equipment:242",
         "name": "Animal Feed (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:243",
+        "_id": "dnd:5e:equipment:243",
         "name": "Saddle, Exotic"
       },
       {
-        "id": "dnd:5e:equipment:244",
+        "_id": "dnd:5e:equipment:244",
         "name": "Saddle, Military"
       },
       {
-        "id": "dnd:5e:equipment:245",
+        "_id": "dnd:5e:equipment:245",
         "name": "Saddle, Pack"
       },
       {
-        "id": "dnd:5e:equipment:246",
+        "_id": "dnd:5e:equipment:246",
         "name": "Riding"
       },
       {
-        "id": "dnd:5e:equipment:247",
+        "_id": "dnd:5e:equipment:247",
         "name": "Saddlebags"
       },
       {
-        "id": "dnd:5e:equipment:248",
+        "_id": "dnd:5e:equipment:248",
         "name": "Sled"
       },
       {
-        "id": "dnd:5e:equipment:249",
+        "_id": "dnd:5e:equipment:249",
         "name": "Stabling (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:250",
+        "_id": "dnd:5e:equipment:250",
         "name": "Wagon"
       },
       {
-        "id": "dnd:5e:equipment:251",
+        "_id": "dnd:5e:equipment:251",
         "name": "Galley"
       },
       {
-        "id": "dnd:5e:equipment:252",
+        "_id": "dnd:5e:equipment:252",
         "name": "Keelboat"
       },
       {
-        "id": "dnd:5e:equipment:253",
+        "_id": "dnd:5e:equipment:253",
         "name": "Longship"
       },
       {
-        "id": "dnd:5e:equipment:254",
+        "_id": "dnd:5e:equipment:254",
         "name": "Rowboat"
       },
       {
-        "id": "dnd:5e:equipment:255",
+        "_id": "dnd:5e:equipment:255",
         "name": "Sailing ship"
       },
       {
-        "id": "dnd:5e:equipment:256",
+        "_id": "dnd:5e:equipment:256",
         "name": "Warship"
       }
     ],
-    "id": "dnd:5e:equipment-categories:5"
+    "_id": "dnd:5e:equipment-categories:5"
   },
   {
     "name": "Simple Weapons",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:1",
+        "_id": "dnd:5e:equipment:1",
         "name": "Club"
       },
       {
-        "id": "dnd:5e:equipment:2",
+        "_id": "dnd:5e:equipment:2",
         "name": "Dagger"
       },
       {
-        "id": "dnd:5e:equipment:3",
+        "_id": "dnd:5e:equipment:3",
         "name": "Greatclub"
       },
       {
-        "id": "dnd:5e:equipment:4",
+        "_id": "dnd:5e:equipment:4",
         "name": "Handaxe"
       },
       {
-        "id": "dnd:5e:equipment:5",
+        "_id": "dnd:5e:equipment:5",
         "name": "Javelin"
       },
       {
-        "id": "dnd:5e:equipment:6",
+        "_id": "dnd:5e:equipment:6",
         "name": "Light hammer"
       },
       {
-        "id": "dnd:5e:equipment:7",
+        "_id": "dnd:5e:equipment:7",
         "name": "Mace"
       },
       {
-        "id": "dnd:5e:equipment:8",
+        "_id": "dnd:5e:equipment:8",
         "name": "Quarterstaff"
       },
       {
-        "id": "dnd:5e:equipment:9",
+        "_id": "dnd:5e:equipment:9",
         "name": "Sickle"
       },
       {
-        "id": "dnd:5e:equipment:10",
+        "_id": "dnd:5e:equipment:10",
         "name": "Spear"
       }
     ],
-    "id": "dnd:5e:equipment-categories:6"
+    "_id": "dnd:5e:equipment-categories:6"
   },
   {
     "name": "Martial Weapons",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:15",
+        "_id": "dnd:5e:equipment:15",
         "name": "Battleaxe"
       },
       {
-        "id": "dnd:5e:equipment:16",
+        "_id": "dnd:5e:equipment:16",
         "name": "Flail"
       },
       {
-        "id": "dnd:5e:equipment:17",
+        "_id": "dnd:5e:equipment:17",
         "name": "Glaive"
       },
       {
-        "id": "dnd:5e:equipment:18",
+        "_id": "dnd:5e:equipment:18",
         "name": "Greataxe"
       },
       {
-        "id": "dnd:5e:equipment:19",
+        "_id": "dnd:5e:equipment:19",
         "name": "Greatsword"
       },
       {
-        "id": "dnd:5e:equipment:20",
+        "_id": "dnd:5e:equipment:20",
         "name": "Halberd"
       },
       {
-        "id": "dnd:5e:equipment:21",
+        "_id": "dnd:5e:equipment:21",
         "name": "Lance"
       },
       {
-        "id": "dnd:5e:equipment:22",
+        "_id": "dnd:5e:equipment:22",
         "name": "Longsword"
       },
       {
-        "id": "dnd:5e:equipment:23",
+        "_id": "dnd:5e:equipment:23",
         "name": "Maul"
       },
       {
-        "id": "dnd:5e:equipment:24",
+        "_id": "dnd:5e:equipment:24",
         "name": "Morningstar"
       },
       {
-        "id": "dnd:5e:equipment:25",
+        "_id": "dnd:5e:equipment:25",
         "name": "Pike"
       },
       {
-        "id": "dnd:5e:equipment:26",
+        "_id": "dnd:5e:equipment:26",
         "name": "Rapier"
       },
       {
-        "id": "dnd:5e:equipment:27",
+        "_id": "dnd:5e:equipment:27",
         "name": "Scimitar"
       },
       {
-        "id": "dnd:5e:equipment:28",
+        "_id": "dnd:5e:equipment:28",
         "name": "Shortsword"
       },
       {
-        "id": "dnd:5e:equipment:29",
+        "_id": "dnd:5e:equipment:29",
         "name": "Trident"
       },
       {
-        "id": "dnd:5e:equipment:30",
+        "_id": "dnd:5e:equipment:30",
         "name": "War pick"
       },
       {
-        "id": "dnd:5e:equipment:31",
+        "_id": "dnd:5e:equipment:31",
         "name": "Warhammer"
       },
       {
-        "id": "dnd:5e:equipment:32",
+        "_id": "dnd:5e:equipment:32",
         "name": "Whip"
       },
       {
-        "id": "dnd:5e:equipment:33",
+        "_id": "dnd:5e:equipment:33",
         "name": "Blowgun"
       },
       {
-        "id": "dnd:5e:equipment:34",
+        "_id": "dnd:5e:equipment:34",
         "name": "Crossbow, hand"
       },
       {
-        "id": "dnd:5e:equipment:35",
+        "_id": "dnd:5e:equipment:35",
         "name": "Crossbow, heavy"
       },
       {
-        "id": "dnd:5e:equipment:36",
+        "_id": "dnd:5e:equipment:36",
         "name": "Longbow"
       },
       {
-        "id": "dnd:5e:equipment:37",
+        "_id": "dnd:5e:equipment:37",
         "name": "Net"
       }
     ],
-    "id": "dnd:5e:equipment-categories:7"
+    "_id": "dnd:5e:equipment-categories:7"
   },
   {
     "name": "Simple Melee Weapons",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:1",
+        "_id": "dnd:5e:equipment:1",
         "name": "Club"
       },
       {
-        "id": "dnd:5e:equipment:2",
+        "_id": "dnd:5e:equipment:2",
         "name": "Dagger"
       },
       {
-        "id": "dnd:5e:equipment:3",
+        "_id": "dnd:5e:equipment:3",
         "name": "Greatclub"
       },
       {
-        "id": "dnd:5e:equipment:4",
+        "_id": "dnd:5e:equipment:4",
         "name": "Handaxe"
       },
       {
-        "id": "dnd:5e:equipment:5",
+        "_id": "dnd:5e:equipment:5",
         "name": "Javelin"
       },
       {
-        "id": "dnd:5e:equipment:6",
+        "_id": "dnd:5e:equipment:6",
         "name": "Light hammer"
       },
       {
-        "id": "dnd:5e:equipment:7",
+        "_id": "dnd:5e:equipment:7",
         "name": "Mace"
       },
       {
-        "id": "dnd:5e:equipment:8",
+        "_id": "dnd:5e:equipment:8",
         "name": "Quarterstaff"
       },
       {
-        "id": "dnd:5e:equipment:9",
+        "_id": "dnd:5e:equipment:9",
         "name": "Sickle"
       },
       {
-        "id": "dnd:5e:equipment:10",
+        "_id": "dnd:5e:equipment:10",
         "name": "Spear"
       }
     ],
-    "id": "dnd:5e:equipment-categories:8"
+    "_id": "dnd:5e:equipment-categories:8"
   },
   {
     "name": "Simple Ranged Weapons",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:11",
+        "_id": "dnd:5e:equipment:11",
         "name": "Crossbow, light"
       },
       {
-        "id": "dnd:5e:equipment:12",
+        "_id": "dnd:5e:equipment:12",
         "name": "Dart"
       },
       {
-        "id": "dnd:5e:equipment:13",
+        "_id": "dnd:5e:equipment:13",
         "name": "Shortbow"
       },
       {
-        "id": "dnd:5e:equipment:14",
+        "_id": "dnd:5e:equipment:14",
         "name": "Sling"
       }
     ],
-    "id": "dnd:5e:equipment-categories:9"
+    "_id": "dnd:5e:equipment-categories:9"
   },
   {
     "name": "Martial Melee Weapons",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:15",
+        "_id": "dnd:5e:equipment:15",
         "name": "Battleaxe"
       },
       {
-        "id": "dnd:5e:equipment:16",
+        "_id": "dnd:5e:equipment:16",
         "name": "Flail"
       },
       {
-        "id": "dnd:5e:equipment:17",
+        "_id": "dnd:5e:equipment:17",
         "name": "Glaive"
       },
       {
-        "id": "dnd:5e:equipment:18",
+        "_id": "dnd:5e:equipment:18",
         "name": "Greataxe"
       },
       {
-        "id": "dnd:5e:equipment:19",
+        "_id": "dnd:5e:equipment:19",
         "name": "Greatsword"
       },
       {
-        "id": "dnd:5e:equipment:20",
+        "_id": "dnd:5e:equipment:20",
         "name": "Halberd"
       },
       {
-        "id": "dnd:5e:equipment:21",
+        "_id": "dnd:5e:equipment:21",
         "name": "Lance"
       },
       {
-        "id": "dnd:5e:equipment:22",
+        "_id": "dnd:5e:equipment:22",
         "name": "Longsword"
       },
       {
-        "id": "dnd:5e:equipment:23",
+        "_id": "dnd:5e:equipment:23",
         "name": "Maul"
       },
       {
-        "id": "dnd:5e:equipment:24",
+        "_id": "dnd:5e:equipment:24",
         "name": "Morningstar"
       },
       {
-        "id": "dnd:5e:equipment:25",
+        "_id": "dnd:5e:equipment:25",
         "name": "Pike"
       },
       {
-        "id": "dnd:5e:equipment:26",
+        "_id": "dnd:5e:equipment:26",
         "name": "Rapier"
       },
       {
-        "id": "dnd:5e:equipment:27",
+        "_id": "dnd:5e:equipment:27",
         "name": "Scimitar"
       },
       {
-        "id": "dnd:5e:equipment:28",
+        "_id": "dnd:5e:equipment:28",
         "name": "Shortsword"
       },
       {
-        "id": "dnd:5e:equipment:29",
+        "_id": "dnd:5e:equipment:29",
         "name": "Trident"
       },
       {
-        "id": "dnd:5e:equipment:30",
+        "_id": "dnd:5e:equipment:30",
         "name": "War pick"
       },
       {
-        "id": "dnd:5e:equipment:31",
+        "_id": "dnd:5e:equipment:31",
         "name": "Warhammer"
       },
       {
-        "id": "dnd:5e:equipment:32",
+        "_id": "dnd:5e:equipment:32",
         "name": "Whip"
       }
     ],
-    "id": "dnd:5e:equipment-categories:10"
+    "_id": "dnd:5e:equipment-categories:10"
   },
   {
     "name": "Martial Ranged Weapons",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:33",
+        "_id": "dnd:5e:equipment:33",
         "name": "Blowgun"
       },
       {
-        "id": "dnd:5e:equipment:34",
+        "_id": "dnd:5e:equipment:34",
         "name": "Crossbow, hand"
       },
       {
-        "id": "dnd:5e:equipment:35",
+        "_id": "dnd:5e:equipment:35",
         "name": "Crossbow, heavy"
       },
       {
-        "id": "dnd:5e:equipment:36",
+        "_id": "dnd:5e:equipment:36",
         "name": "Longbow"
       },
       {
-        "id": "dnd:5e:equipment:37",
+        "_id": "dnd:5e:equipment:37",
         "name": "Net"
       }
     ],
-    "id": "dnd:5e:equipment-categories:11"
+    "_id": "dnd:5e:equipment-categories:11"
   },
   {
     "name": "Light Armor",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:38",
+        "_id": "dnd:5e:equipment:38",
         "name": "Padded"
       },
       {
-        "id": "dnd:5e:equipment:39",
+        "_id": "dnd:5e:equipment:39",
         "name": "Leather"
       },
       {
-        "id": "dnd:5e:equipment:40",
+        "_id": "dnd:5e:equipment:40",
         "name": "Studded Leather"
       }
     ],
-    "id": "dnd:5e:equipment-categories:12"
+    "_id": "dnd:5e:equipment-categories:12"
   },
   {
     "name": "Medium Armor",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:41",
+        "_id": "dnd:5e:equipment:41",
         "name": "Hide"
       },
       {
-        "id": "dnd:5e:equipment:42",
+        "_id": "dnd:5e:equipment:42",
         "name": "Chain Shirt"
       },
       {
-        "id": "dnd:5e:equipment:43",
+        "_id": "dnd:5e:equipment:43",
         "name": "Scale Mail"
       },
       {
-        "id": "dnd:5e:equipment:44",
+        "_id": "dnd:5e:equipment:44",
         "name": "Breastplate"
       },
       {
-        "id": "dnd:5e:equipment:45",
+        "_id": "dnd:5e:equipment:45",
         "name": "Half Plate"
       }
     ],
-    "id": "dnd:5e:equipment-categories:13"
+    "_id": "dnd:5e:equipment-categories:13"
   },
   {
     "name": "Heavy Armor",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:46",
+        "_id": "dnd:5e:equipment:46",
         "name": "Ring Mail"
       },
       {
-        "id": "dnd:5e:equipment:47",
+        "_id": "dnd:5e:equipment:47",
         "name": "Chain Mail"
       },
       {
-        "id": "dnd:5e:equipment:48",
+        "_id": "dnd:5e:equipment:48",
         "name": "Splint"
       },
       {
-        "id": "dnd:5e:equipment:49",
+        "_id": "dnd:5e:equipment:49",
         "name": "Plate"
       }
     ],
-    "id": "dnd:5e:equipment-categories:14"
+    "_id": "dnd:5e:equipment-categories:14"
   },
   {
     "name": "Shields",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:50",
+        "_id": "dnd:5e:equipment:50",
         "name": "Shield"
       }
     ],
-    "id": "dnd:5e:equipment-categories:15"
+    "_id": "dnd:5e:equipment-categories:15"
   },
   {
     "name": "Standard Gear",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:51",
+        "_id": "dnd:5e:equipment:51",
         "name": "Abacus"
       },
       {
-        "id": "dnd:5e:equipment:52",
+        "_id": "dnd:5e:equipment:52",
         "name": "Acid (vial)"
       },
       {
-        "id": "dnd:5e:equipment:53",
+        "_id": "dnd:5e:equipment:53",
         "name": "Alchemist’s fire (flask)"
       },
       {
-        "id": "dnd:5e:equipment:54",
+        "_id": "dnd:5e:equipment:54",
         "name": "Arrow"
       },
       {
-        "id": "dnd:5e:equipment:55",
+        "_id": "dnd:5e:equipment:55",
         "name": "Blowgun needle"
       },
       {
-        "id": "dnd:5e:equipment:56",
+        "_id": "dnd:5e:equipment:56",
         "name": "Crossbow bolt"
       },
       {
-        "id": "dnd:5e:equipment:57",
+        "_id": "dnd:5e:equipment:57",
         "name": "Sling bullet"
       },
       {
-        "id": "dnd:5e:equipment:58",
+        "_id": "dnd:5e:equipment:58",
         "name": "Amulet"
       },
       {
-        "id": "dnd:5e:equipment:59",
+        "_id": "dnd:5e:equipment:59",
         "name": "Antitoxin (vial)"
       },
       {
-        "id": "dnd:5e:equipment:60",
+        "_id": "dnd:5e:equipment:60",
         "name": "Crystal"
       },
       {
-        "id": "dnd:5e:equipment:61",
+        "_id": "dnd:5e:equipment:61",
         "name": "Orb"
       },
       {
-        "id": "dnd:5e:equipment:62",
+        "_id": "dnd:5e:equipment:62",
         "name": "Rod"
       },
       {
-        "id": "dnd:5e:equipment:63",
+        "_id": "dnd:5e:equipment:63",
         "name": "Staff"
       },
       {
-        "id": "dnd:5e:equipment:64",
+        "_id": "dnd:5e:equipment:64",
         "name": "Wand"
       },
       {
-        "id": "dnd:5e:equipment:65",
+        "_id": "dnd:5e:equipment:65",
         "name": "Backpack"
       },
       {
-        "id": "dnd:5e:equipment:66",
+        "_id": "dnd:5e:equipment:66",
         "name": "Ball bearings (bag of 1,000)"
       },
       {
-        "id": "dnd:5e:equipment:67",
+        "_id": "dnd:5e:equipment:67",
         "name": "Barrel"
       },
       {
-        "id": "dnd:5e:equipment:68",
+        "_id": "dnd:5e:equipment:68",
         "name": "Basket"
       },
       {
-        "id": "dnd:5e:equipment:69",
+        "_id": "dnd:5e:equipment:69",
         "name": "Bedroll"
       },
       {
-        "id": "dnd:5e:equipment:70",
+        "_id": "dnd:5e:equipment:70",
         "name": "Bell"
       },
       {
-        "id": "dnd:5e:equipment:71",
+        "_id": "dnd:5e:equipment:71",
         "name": "Blanket"
       },
       {
-        "id": "dnd:5e:equipment:72",
+        "_id": "dnd:5e:equipment:72",
         "name": "Block and tackle"
       },
       {
-        "id": "dnd:5e:equipment:73",
+        "_id": "dnd:5e:equipment:73",
         "name": "Book"
       },
       {
-        "id": "dnd:5e:equipment:74",
+        "_id": "dnd:5e:equipment:74",
         "name": "Bottle, glass"
       },
       {
-        "id": "dnd:5e:equipment:75",
+        "_id": "dnd:5e:equipment:75",
         "name": "Bucket"
       },
       {
-        "id": "dnd:5e:equipment:76",
+        "_id": "dnd:5e:equipment:76",
         "name": "Caltrops"
       },
       {
-        "id": "dnd:5e:equipment:77",
+        "_id": "dnd:5e:equipment:77",
         "name": "Candle"
       },
       {
-        "id": "dnd:5e:equipment:78",
+        "_id": "dnd:5e:equipment:78",
         "name": "Case, crossbow bolt"
       },
       {
-        "id": "dnd:5e:equipment:79",
+        "_id": "dnd:5e:equipment:79",
         "name": "Case, map or scroll"
       },
       {
-        "id": "dnd:5e:equipment:80",
+        "_id": "dnd:5e:equipment:80",
         "name": "Chain (10 feet)"
       },
       {
-        "id": "dnd:5e:equipment:81",
+        "_id": "dnd:5e:equipment:81",
         "name": "Chalk (1 piece)"
       },
       {
-        "id": "dnd:5e:equipment:82",
+        "_id": "dnd:5e:equipment:82",
         "name": "Chest"
       },
       {
-        "id": "dnd:5e:equipment:83",
+        "_id": "dnd:5e:equipment:83",
         "name": "Clothes, common"
       },
       {
-        "id": "dnd:5e:equipment:84",
+        "_id": "dnd:5e:equipment:84",
         "name": "Clothes, costume"
       },
       {
-        "id": "dnd:5e:equipment:85",
+        "_id": "dnd:5e:equipment:85",
         "name": "Clothes, fine"
       },
       {
-        "id": "dnd:5e:equipment:86",
+        "_id": "dnd:5e:equipment:86",
         "name": "Clothes, traveler’s"
       },
       {
-        "id": "dnd:5e:equipment:87",
+        "_id": "dnd:5e:equipment:87",
         "name": "Component pouch"
       },
       {
-        "id": "dnd:5e:equipment:88",
+        "_id": "dnd:5e:equipment:88",
         "name": "Crowbar"
       },
       {
-        "id": "dnd:5e:equipment:89",
+        "_id": "dnd:5e:equipment:89",
         "name": "Sprig of mistletoe"
       },
       {
-        "id": "dnd:5e:equipment:90",
+        "_id": "dnd:5e:equipment:90",
         "name": "Totem"
       },
       {
-        "id": "dnd:5e:equipment:91",
+        "_id": "dnd:5e:equipment:91",
         "name": "Wooden staff"
       },
       {
-        "id": "dnd:5e:equipment:92",
+        "_id": "dnd:5e:equipment:92",
         "name": "Yew wand"
       },
       {
-        "id": "dnd:5e:equipment:93",
+        "_id": "dnd:5e:equipment:93",
         "name": "Emblem"
       },
       {
-        "id": "dnd:5e:equipment:94",
+        "_id": "dnd:5e:equipment:94",
         "name": "Fishing tackle"
       },
       {
-        "id": "dnd:5e:equipment:95",
+        "_id": "dnd:5e:equipment:95",
         "name": "Flask or tankard"
       },
       {
-        "id": "dnd:5e:equipment:96",
+        "_id": "dnd:5e:equipment:96",
         "name": "Grappling hook"
       },
       {
-        "id": "dnd:5e:equipment:97",
+        "_id": "dnd:5e:equipment:97",
         "name": "Hammer"
       },
       {
-        "id": "dnd:5e:equipment:98",
+        "_id": "dnd:5e:equipment:98",
         "name": "Hammer, sledge"
       },
       {
-        "id": "dnd:5e:equipment:99",
+        "_id": "dnd:5e:equipment:99",
         "name": "Holy water (flask)"
       },
       {
-        "id": "dnd:5e:equipment:100",
+        "_id": "dnd:5e:equipment:100",
         "name": "Hourglass"
       },
       {
-        "id": "dnd:5e:equipment:101",
+        "_id": "dnd:5e:equipment:101",
         "name": "Hunting trap"
       },
       {
-        "id": "dnd:5e:equipment:102",
+        "_id": "dnd:5e:equipment:102",
         "name": "Ink (1 ounce bottle)"
       },
       {
-        "id": "dnd:5e:equipment:103",
+        "_id": "dnd:5e:equipment:103",
         "name": "Ink pen"
       },
       {
-        "id": "dnd:5e:equipment:100",
+        "_id": "dnd:5e:equipment:100",
         "name": "Hourglass"
       },
       {
-        "id": "dnd:5e:equipment:101",
+        "_id": "dnd:5e:equipment:101",
         "name": "Hunting trap"
       },
       {
-        "id": "dnd:5e:equipment:102",
+        "_id": "dnd:5e:equipment:102",
         "name": "Ink (1 ounce bottle)"
       },
       {
-        "id": "dnd:5e:equipment:103",
+        "_id": "dnd:5e:equipment:103",
         "name": "Ink pen"
       },
       {
-        "id": "dnd:5e:equipment:104",
+        "_id": "dnd:5e:equipment:104",
         "name": "Jug or pitcher"
       },
       {
-        "id": "dnd:5e:equipment:112",
+        "_id": "dnd:5e:equipment:112",
         "name": "Ladder (10-foot)"
       },
       {
-        "id": "dnd:5e:equipment:113",
+        "_id": "dnd:5e:equipment:113",
         "name": "Lamp"
       },
       {
-        "id": "dnd:5e:equipment:114",
+        "_id": "dnd:5e:equipment:114",
         "name": "Lantern, bullseye"
       },
       {
-        "id": "dnd:5e:equipment:115",
+        "_id": "dnd:5e:equipment:115",
         "name": "Lantern, hooded"
       },
       {
-        "id": "dnd:5e:equipment:116",
+        "_id": "dnd:5e:equipment:116",
         "name": "Lock"
       },
       {
-        "id": "dnd:5e:equipment:117",
+        "_id": "dnd:5e:equipment:117",
         "name": "Magnifying glass"
       },
       {
-        "id": "dnd:5e:equipment:118",
+        "_id": "dnd:5e:equipment:118",
         "name": "Manacles"
       },
       {
-        "id": "dnd:5e:equipment:119",
+        "_id": "dnd:5e:equipment:119",
         "name": "Mirror, steel"
       },
       {
-        "id": "dnd:5e:equipment:120",
+        "_id": "dnd:5e:equipment:120",
         "name": "Oil (flask)"
       },
       {
-        "id": "dnd:5e:equipment:121",
+        "_id": "dnd:5e:equipment:121",
         "name": "Paper (one sheet)"
       },
       {
-        "id": "dnd:5e:equipment:122",
+        "_id": "dnd:5e:equipment:122",
         "name": "Parchment (one sheet)"
       },
       {
-        "id": "dnd:5e:equipment:123",
+        "_id": "dnd:5e:equipment:123",
         "name": "Perfume (vial)"
       },
       {
-        "id": "dnd:5e:equipment:124",
+        "_id": "dnd:5e:equipment:124",
         "name": "Pick, miner’s"
       },
       {
-        "id": "dnd:5e:equipment:125",
+        "_id": "dnd:5e:equipment:125",
         "name": "Piton"
       },
       {
-        "id": "dnd:5e:equipment:126",
+        "_id": "dnd:5e:equipment:126",
         "name": "Poison, basic (vial)"
       },
       {
-        "id": "dnd:5e:equipment:127",
+        "_id": "dnd:5e:equipment:127",
         "name": "Pole (10-foot)"
       },
       {
-        "id": "dnd:5e:equipment:128",
+        "_id": "dnd:5e:equipment:128",
         "name": "Pot, iron"
       },
       {
-        "id": "dnd:5e:equipment:129",
+        "_id": "dnd:5e:equipment:129",
         "name": "Potion of healing"
       },
       {
-        "id": "dnd:5e:equipment:130",
+        "_id": "dnd:5e:equipment:130",
         "name": "Pouch"
       },
       {
-        "id": "dnd:5e:equipment:131",
+        "_id": "dnd:5e:equipment:131",
         "name": "Quiver"
       },
       {
-        "id": "dnd:5e:equipment:132",
+        "_id": "dnd:5e:equipment:132",
         "name": "Ram, portable"
       },
       {
-        "id": "dnd:5e:equipment:133",
+        "_id": "dnd:5e:equipment:133",
         "name": "Rations (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:134",
+        "_id": "dnd:5e:equipment:134",
         "name": "Reliquary"
       },
       {
-        "id": "dnd:5e:equipment:135",
+        "_id": "dnd:5e:equipment:135",
         "name": "Robes"
       },
       {
-        "id": "dnd:5e:equipment:136",
+        "_id": "dnd:5e:equipment:136",
         "name": "Rope, hempen (50 feet)"
       },
       {
-        "id": "dnd:5e:equipment:137",
+        "_id": "dnd:5e:equipment:137",
         "name": "Rope, silk (50 feet)"
       },
       {
-        "id": "dnd:5e:equipment:138",
+        "_id": "dnd:5e:equipment:138",
         "name": "Sack"
       },
       {
-        "id": "dnd:5e:equipment:139",
+        "_id": "dnd:5e:equipment:139",
         "name": "Scale, merchant’s"
       },
       {
-        "id": "dnd:5e:equipment:140",
+        "_id": "dnd:5e:equipment:140",
         "name": "Sealing wax"
       },
       {
-        "id": "dnd:5e:equipment:141",
+        "_id": "dnd:5e:equipment:141",
         "name": "Shovel"
       },
       {
-        "id": "dnd:5e:equipment:142",
+        "_id": "dnd:5e:equipment:142",
         "name": "Signal whistle"
       },
       {
-        "id": "dnd:5e:equipment:143",
+        "_id": "dnd:5e:equipment:143",
         "name": "Signet ring"
       },
       {
-        "id": "dnd:5e:equipment:144",
+        "_id": "dnd:5e:equipment:144",
         "name": "Soap"
       },
       {
-        "id": "dnd:5e:equipment:145",
+        "_id": "dnd:5e:equipment:145",
         "name": "Spellbook"
       },
       {
-        "id": "dnd:5e:equipment:146",
+        "_id": "dnd:5e:equipment:146",
         "name": "Spike, iron"
       },
       {
-        "id": "dnd:5e:equipment:147",
+        "_id": "dnd:5e:equipment:147",
         "name": "Spyglass"
       },
       {
-        "id": "dnd:5e:equipment:148",
+        "_id": "dnd:5e:equipment:148",
         "name": "Tent, two-person"
       },
       {
-        "id": "dnd:5e:equipment:149",
+        "_id": "dnd:5e:equipment:149",
         "name": "Tinderbox"
       },
       {
-        "id": "dnd:5e:equipment:150",
+        "_id": "dnd:5e:equipment:150",
         "name": "Torch"
       },
       {
-        "id": "dnd:5e:equipment:151",
+        "_id": "dnd:5e:equipment:151",
         "name": "Vial"
       },
       {
-        "id": "dnd:5e:equipment:152",
+        "_id": "dnd:5e:equipment:152",
         "name": "Waterskin"
       },
       {
-        "id": "dnd:5e:equipment:153",
+        "_id": "dnd:5e:equipment:153",
         "name": "Whetstone"
       }
     ],
-    "id": "dnd:5e:equipment-categories:16"
+    "_id": "dnd:5e:equipment-categories:16"
   },
   {
     "name": "Kits",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:105",
+        "_id": "dnd:5e:equipment:105",
         "name": "Climber’s Kit"
       },
       {
-        "id": "dnd:5e:equipment:106",
+        "_id": "dnd:5e:equipment:106",
         "name": "Disguise Kit"
       },
       {
-        "id": "dnd:5e:equipment:107",
+        "_id": "dnd:5e:equipment:107",
         "name": "Forgery Kit"
       },
       {
-        "id": "dnd:5e:equipment:108",
+        "_id": "dnd:5e:equipment:108",
         "name": "Herbalism Kit"
       },
       {
-        "id": "dnd:5e:equipment:109",
+        "_id": "dnd:5e:equipment:109",
         "name": "Healer’s Kit"
       },
       {
-        "id": "dnd:5e:equipment:110",
+        "_id": "dnd:5e:equipment:110",
         "name": "Mess Kit"
       },
       {
-        "id": "dnd:5e:equipment:111",
+        "_id": "dnd:5e:equipment:111",
         "name": "Poisoner’s Kit"
       }
     ],
-    "id": "dnd:5e:equipment-categories:17"
+    "_id": "dnd:5e:equipment-categories:17"
   },
   {
     "name": "Equipment Packs",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:154",
+        "_id": "dnd:5e:equipment:154",
         "name": "Burglar's Pack"
       },
       {
-        "id": "dnd:5e:equipment:155",
+        "_id": "dnd:5e:equipment:155",
         "name": "Diplomat's Pack"
       },
       {
-        "id": "dnd:5e:equipment:156",
+        "_id": "dnd:5e:equipment:156",
         "name": "Dungeoneer's Pack"
       },
       {
-        "id": "dnd:5e:equipment:157",
+        "_id": "dnd:5e:equipment:157",
         "name": "Entertainer's Pack"
       },
       {
-        "id": "dnd:5e:equipment:158",
+        "_id": "dnd:5e:equipment:158",
         "name": "Explorer's Pack"
       },
       {
-        "id": "dnd:5e:equipment:159",
+        "_id": "dnd:5e:equipment:159",
         "name": "Priest's Pack"
       },
       {
-        "id": "dnd:5e:equipment:160",
+        "_id": "dnd:5e:equipment:160",
         "name": "Scholar's Pack"
       }
     ],
-    "id": "dnd:5e:equipment-categories:18"
+    "_id": "dnd:5e:equipment-categories:18"
   },
   {
     "name": "Artisan's Tools",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:161",
+        "_id": "dnd:5e:equipment:161",
         "name": "Alchemist’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:162",
+        "_id": "dnd:5e:equipment:162",
         "name": "Brewer’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:163",
+        "_id": "dnd:5e:equipment:163",
         "name": "Calligrapher’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:164",
+        "_id": "dnd:5e:equipment:164",
         "name": "Carpenter’s tools"
       },
       {
-        "id": "dnd:5e:equipment:165",
+        "_id": "dnd:5e:equipment:165",
         "name": "Cartographer’s tools"
       },
       {
-        "id": "dnd:5e:equipment:166",
+        "_id": "dnd:5e:equipment:166",
         "name": "Cobbler’s tools"
       },
       {
-        "id": "dnd:5e:equipment:167",
+        "_id": "dnd:5e:equipment:167",
         "name": "Cook’s utensils"
       },
       {
-        "id": "dnd:5e:equipment:168",
+        "_id": "dnd:5e:equipment:168",
         "name": "Glassblower’s tools"
       },
       {
-        "id": "dnd:5e:equipment:169",
+        "_id": "dnd:5e:equipment:169",
         "name": "Jeweler’s tools"
       },
       {
-        "id": "dnd:5e:equipment:170",
+        "_id": "dnd:5e:equipment:170",
         "name": "Leatherworker’s tools"
       },
       {
-        "id": "dnd:5e:equipment:171",
+        "_id": "dnd:5e:equipment:171",
         "name": "Mason’s tools"
       },
       {
-        "id": "dnd:5e:equipment:172",
+        "_id": "dnd:5e:equipment:172",
         "name": "Painter’s supplies"
       },
       {
-        "id": "dnd:5e:equipment:173",
+        "_id": "dnd:5e:equipment:173",
         "name": "Potter’s tools"
       },
       {
-        "id": "dnd:5e:equipment:174",
+        "_id": "dnd:5e:equipment:174",
         "name": "Smith’s tools"
       },
       {
-        "id": "dnd:5e:equipment:175",
+        "_id": "dnd:5e:equipment:175",
         "name": "Tinker’s tools"
       },
       {
-        "id": "dnd:5e:equipment:176",
+        "_id": "dnd:5e:equipment:176",
         "name": "Weaver’s tools"
       },
       {
-        "id": "dnd:5e:equipment:177",
+        "_id": "dnd:5e:equipment:177",
         "name": "Woodcarver’s tools"
       }
     ],
-    "id": "dnd:5e:equipment-categories:19"
+    "_id": "dnd:5e:equipment-categories:19"
   },
   {
     "name": "Gaming Sets",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:178",
+        "_id": "dnd:5e:equipment:178",
         "name": "Dice set"
       },
       {
-        "id": "dnd:5e:equipment:179",
+        "_id": "dnd:5e:equipment:179",
         "name": "Playing card set"
       }
     ],
-    "id": "dnd:5e:equipment-categories:20"
+    "_id": "dnd:5e:equipment-categories:20"
   },
   {
     "name": "Musical Instruments",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:180",
+        "_id": "dnd:5e:equipment:180",
         "name": "Bagpipes"
       },
       {
-        "id": "dnd:5e:equipment:181",
+        "_id": "dnd:5e:equipment:181",
         "name": "Drum"
       },
       {
-        "id": "dnd:5e:equipment:182",
+        "_id": "dnd:5e:equipment:182",
         "name": "Dulcimer"
       },
       {
-        "id": "dnd:5e:equipment:183",
+        "_id": "dnd:5e:equipment:183",
         "name": "Flute"
       },
       {
-        "id": "dnd:5e:equipment:184",
+        "_id": "dnd:5e:equipment:184",
         "name": "Lute"
       },
       {
-        "id": "dnd:5e:equipment:185",
+        "_id": "dnd:5e:equipment:185",
         "name": "Lyre"
       },
       {
-        "id": "dnd:5e:equipment:186",
+        "_id": "dnd:5e:equipment:186",
         "name": "Horn"
       },
       {
-        "id": "dnd:5e:equipment:187",
+        "_id": "dnd:5e:equipment:187",
         "name": "Pan flute"
       },
       {
-        "id": "dnd:5e:equipment:188",
+        "_id": "dnd:5e:equipment:188",
         "name": "Shawm"
       },
       {
-        "id": "dnd:5e:equipment:189",
+        "_id": "dnd:5e:equipment:189",
         "name": "Viol"
       }
     ],
-    "id": "dnd:5e:equipment-categories:21"
+    "_id": "dnd:5e:equipment-categories:21"
   },
   {
     "name": "Other Tools",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:190",
+        "_id": "dnd:5e:equipment:190",
         "name": "Navigator’s tools"
       },
       {
-        "id": "dnd:5e:equipment:191",
+        "_id": "dnd:5e:equipment:191",
         "name": "Thieves’ tools"
       }
     ],
-    "id": "dnd:5e:equipment-categories:22"
+    "_id": "dnd:5e:equipment-categories:22"
   },
   {
     "name": "Mounts and Other Anumals",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:194",
+        "_id": "dnd:5e:equipment:194",
         "name": "Mule"
       },
       {
-        "id": "dnd:5e:equipment:195",
+        "_id": "dnd:5e:equipment:195",
         "name": "Elephant"
       },
       {
-        "id": "dnd:5e:equipment:196",
+        "_id": "dnd:5e:equipment:196",
         "name": "Horse, draft"
       },
       {
-        "id": "dnd:5e:equipment:197",
+        "_id": "dnd:5e:equipment:197",
         "name": "Horse, riding"
       },
       {
-        "id": "dnd:5e:equipment:198",
+        "_id": "dnd:5e:equipment:198",
         "name": "Mastiff"
       },
       {
-        "id": "dnd:5e:equipment:199",
+        "_id": "dnd:5e:equipment:199",
         "name": "Pony"
       },
       {
-        "id": "dnd:5e:equipment:200",
+        "_id": "dnd:5e:equipment:200",
         "name": "Warhorse"
       }
     ],
-    "id": "dnd:5e:equipment-categories:23"
+    "_id": "dnd:5e:equipment-categories:23"
   },
   {
     "name": "Tack, Harness, and Drawn Vehicles",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:226",
+        "_id": "dnd:5e:equipment:226",
         "name": "Barding: Padded"
       },
       {
-        "id": "dnd:5e:equipment:227",
+        "_id": "dnd:5e:equipment:227",
         "name": "Barding: Leather"
       },
       {
-        "id": "dnd:5e:equipment:228",
+        "_id": "dnd:5e:equipment:228",
         "name": "Barding: Studded Leather"
       },
       {
-        "id": "dnd:5e:equipment:229",
+        "_id": "dnd:5e:equipment:229",
         "name": "Barding: Hide"
       },
       {
-        "id": "dnd:5e:equipment:230",
+        "_id": "dnd:5e:equipment:230",
         "name": "Barding: Chain shirt"
       },
       {
-        "id": "dnd:5e:equipment:231",
+        "_id": "dnd:5e:equipment:231",
         "name": "Barding: Scale mail"
       },
       {
-        "id": "dnd:5e:equipment:232",
+        "_id": "dnd:5e:equipment:232",
         "name": "Barding: Breastplate"
       },
       {
-        "id": "dnd:5e:equipment:233",
+        "_id": "dnd:5e:equipment:233",
         "name": "Barding: Half plate"
       },
       {
-        "id": "dnd:5e:equipment:234",
+        "_id": "dnd:5e:equipment:234",
         "name": "Barding: Ring mail"
       },
       {
-        "id": "dnd:5e:equipment:235",
+        "_id": "dnd:5e:equipment:235",
         "name": "Barding: Chain mail"
       },
       {
-        "id": "dnd:5e:equipment:236",
+        "_id": "dnd:5e:equipment:236",
         "name": "Barding: Splint"
       },
       {
-        "id": "dnd:5e:equipment:237",
+        "_id": "dnd:5e:equipment:237",
         "name": "Barding: Plate"
       },
       {
-        "id": "dnd:5e:equipment:238",
+        "_id": "dnd:5e:equipment:238",
         "name": "Bit and bridle"
       },
       {
-        "id": "dnd:5e:equipment:239",
+        "_id": "dnd:5e:equipment:239",
         "name": "Carriage"
       },
       {
-        "id": "dnd:5e:equipment:240",
+        "_id": "dnd:5e:equipment:240",
         "name": "Cart"
       },
       {
-        "id": "dnd:5e:equipment:241",
+        "_id": "dnd:5e:equipment:241",
         "name": "Chariot"
       },
       {
-        "id": "dnd:5e:equipment:242",
+        "_id": "dnd:5e:equipment:242",
         "name": "Animal Feed (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:243",
+        "_id": "dnd:5e:equipment:243",
         "name": "Saddle, Exotic"
       },
       {
-        "id": "dnd:5e:equipment:244",
+        "_id": "dnd:5e:equipment:244",
         "name": "Saddle, Military"
       },
       {
-        "id": "dnd:5e:equipment:245",
+        "_id": "dnd:5e:equipment:245",
         "name": "Saddle, Pack"
       },
       {
-        "id": "dnd:5e:equipment:246",
+        "_id": "dnd:5e:equipment:246",
         "name": "Riding"
       },
       {
-        "id": "dnd:5e:equipment:247",
+        "_id": "dnd:5e:equipment:247",
         "name": "Saddlebags"
       },
       {
-        "id": "dnd:5e:equipment:248",
+        "_id": "dnd:5e:equipment:248",
         "name": "Sled"
       },
       {
-        "id": "dnd:5e:equipment:249",
+        "_id": "dnd:5e:equipment:249",
         "name": "Stabling (1 day)"
       },
       {
-        "id": "dnd:5e:equipment:250",
+        "_id": "dnd:5e:equipment:250",
         "name": "Wagon"
       }
     ],
-    "id": "dnd:5e:equipment-categories:24"
+    "_id": "dnd:5e:equipment-categories:24"
   },
   {
     "name": "Waterborne Vehicles",
     "equipment": [
       {
-        "id": "dnd:5e:equipment:251",
+        "_id": "dnd:5e:equipment:251",
         "name": "Galley"
       },
       {
-        "id": "dnd:5e:equipment:252",
+        "_id": "dnd:5e:equipment:252",
         "name": "Keelboat"
       },
       {
-        "id": "dnd:5e:equipment:253",
+        "_id": "dnd:5e:equipment:253",
         "name": "Longship"
       },
       {
-        "id": "dnd:5e:equipment:254",
+        "_id": "dnd:5e:equipment:254",
         "name": "Rowboat"
       },
       {
-        "id": "dnd:5e:equipment:255",
+        "_id": "dnd:5e:equipment:255",
         "name": "Sailing ship"
       },
       {
-        "id": "dnd:5e:equipment:256",
+        "_id": "dnd:5e:equipment:256",
         "name": "Warship"
       }
     ],
-    "id": "dnd:5e:equipment-categories:25"
+    "_id": "dnd:5e:equipment-categories:25"
   }
 ]

@@ -16,19 +16,19 @@
     "size_description": "Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.",
     "starting_proficiencies": [
       {
-        "id": "dnd:5e:proficiencies:20",
+        "_id": "dnd:5e:proficiencies:20",
         "name": "Battleaxes"
       },
       {
-        "id": "dnd:5e:proficiencies:24",
+        "_id": "dnd:5e:proficiencies:24",
         "name": "Handaxes"
       },
       {
-        "id": "dnd:5e:proficiencies:26",
+        "_id": "dnd:5e:proficiencies:26",
         "name": "Light hammers"
       },
       {
-        "id": "dnd:5e:proficiencies:51",
+        "_id": "dnd:5e:proficiencies:51",
         "name": "Warhammers"
       }
     ],
@@ -37,26 +37,26 @@
       "type": "proficiencies",
       "from": [
         {
-          "id": "dnd:5e:proficiencies:71",
+          "_id": "dnd:5e:proficiencies:71",
           "name": "Smith's tools"
         },
         {
-          "id": "dnd:5e:proficiencies:59",
+          "_id": "dnd:5e:proficiencies:59",
           "name": "Brewer's supplies"
         },
         {
-          "id": "dnd:5e:proficiencies:68",
+          "_id": "dnd:5e:proficiencies:68",
           "name": "Mason's tools"
         }
       ]
     },
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:2",
+        "_id": "dnd:5e:languages:2",
         "name": "Dwarvish"
       }
     ],
@@ -67,28 +67,28 @@
     "traits": [
       {
         "name": "Darkvision (Dwarf)",
-        "id": "dnd:5e:traits:1"
+        "_id": "dnd:5e:traits:1"
       },
       {
         "name": "Dwarven Resilience",
-        "id": "dnd:5e:traits:2"
+        "_id": "dnd:5e:traits:2"
       },
       {
         "name": "Stonecunning",
-        "id": "dnd:5e:traits:3"
+        "_id": "dnd:5e:traits:3"
       }
     ],
     "subraces": [
       {
-        "id": "dnd:5e:subraces:1",
+        "_id": "dnd:5e:subraces:1",
         "name": "Hill Dwarf"
       },
       {
-        "id": "dnd:5e:subraces:4",
+        "_id": "dnd:5e:subraces:4",
         "name": "Mountain Dwarf"
       }
     ],
-    "id": "dnd:5e:races:1"
+    "_id": "dnd:5e:races:1"
   },
   {
     "name": "Elf",
@@ -107,18 +107,18 @@
     "size_description": "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.",
     "starting_proficiencies": [
       {
-        "id": "dnd:5e:proficiencies:116",
+        "_id": "dnd:5e:proficiencies:116",
         "name": "Skill: Perception"
       }
     ],
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:3",
+        "_id": "dnd:5e:languages:3",
         "name": "Elvish"
       }
     ],
@@ -129,24 +129,24 @@
     "traits": [
       {
         "name": "Darkvision (Elf)",
-        "id": "dnd:5e:traits:5"
+        "_id": "dnd:5e:traits:5"
       },
       {
         "name": "Fey Ancestry",
-        "id": "dnd:5e:traits:6"
+        "_id": "dnd:5e:traits:6"
       },
       {
         "name": "Trance",
-        "id": "dnd:5e:traits:7"
+        "_id": "dnd:5e:traits:7"
       }
     ],
     "subraces": [
       {
-        "id": "dnd:5e:subraces:2",
+        "_id": "dnd:5e:subraces:2",
         "name": "High Elf"
       }
     ],
-    "id": "dnd:5e:races:2"
+    "_id": "dnd:5e:races:2"
   },
   {
     "name": "Halfling",
@@ -167,11 +167,11 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:7",
+        "_id": "dnd:5e:languages:7",
         "name": "Halfling"
       }
     ],
@@ -180,24 +180,24 @@
     "traits": [
       {
         "name": "Brave",
-        "id": "dnd:5e:traits:21"
+        "_id": "dnd:5e:traits:21"
       },
       {
         "name": "Halfling Nimbleness",
-        "id": "dnd:5e:traits:22"
+        "_id": "dnd:5e:traits:22"
       },
       {
         "name": "Lucky",
-        "id": "dnd:5e:traits:23"
+        "_id": "dnd:5e:traits:23"
       }
     ],
     "subraces": [
       {
-        "id": "dnd:5e:subraces:3",
+        "_id": "dnd:5e:subraces:3",
         "name": "Lightfoot Halfling"
       }
     ],
-    "id": "dnd:5e:races:3"
+    "_id": "dnd:5e:races:3"
   },
   {
     "name": "Human",
@@ -218,7 +218,7 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       }
     ],
@@ -227,63 +227,63 @@
       "type": "languages",
       "from": [
         {
-          "id": "dnd:5e:languages:2",
+          "_id": "dnd:5e:languages:2",
           "name": "Dwarvish"
         },
         {
-          "id": "dnd:5e:languages:3",
+          "_id": "dnd:5e:languages:3",
           "name": "Elvish"
         },
         {
-          "id": "dnd:5e:languages:4",
+          "_id": "dnd:5e:languages:4",
           "name": "Giant"
         },
         {
-          "id": "dnd:5e:languages:5",
+          "_id": "dnd:5e:languages:5",
           "name": "Gnomish"
         },
         {
-          "id": "dnd:5e:languages:6",
+          "_id": "dnd:5e:languages:6",
           "name": "Goblin"
         },
         {
-          "id": "dnd:5e:languages:7",
+          "_id": "dnd:5e:languages:7",
           "name": "Halfling"
         },
         {
-          "id": "dnd:5e:languages:8",
+          "_id": "dnd:5e:languages:8",
           "name": "Orc"
         },
         {
-          "id": "dnd:5e:languages:9",
+          "_id": "dnd:5e:languages:9",
           "name": "Abyssal"
         },
         {
-          "id": "dnd:5e:languages:10",
+          "_id": "dnd:5e:languages:10",
           "name": "Celestial"
         },
         {
-          "id": "dnd:5e:languages:11",
+          "_id": "dnd:5e:languages:11",
           "name": "Draconic"
         },
         {
-          "id": "dnd:5e:languages:12",
+          "_id": "dnd:5e:languages:12",
           "name": "Deep Speech"
         },
         {
-          "id": "dnd:5e:languages:13",
+          "_id": "dnd:5e:languages:13",
           "name": "Infernal"
         },
         {
-          "id": "dnd:5e:languages:14",
+          "_id": "dnd:5e:languages:14",
           "name": "Primordial"
         },
         {
-          "id": "dnd:5e:languages:15",
+          "_id": "dnd:5e:languages:15",
           "name": "Sylvan"
         },
         {
-          "id": "dnd:5e:languages:16",
+          "_id": "dnd:5e:languages:16",
           "name": "Undercommon"
         }
       ]
@@ -291,7 +291,7 @@
     "language_desc": "You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.",
     "traits": [],
     "subraces": [],
-    "id": "dnd:5e:races:4"
+    "_id": "dnd:5e:races:4"
   },
   {
     "name": "Dragonborn",
@@ -312,11 +312,11 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:11",
+        "_id": "dnd:5e:languages:11",
         "name": "Draconic"
       }
     ],
@@ -327,15 +327,15 @@
     "traits": [
       {
         "name": "Draconic Anscestry",
-        "id": "dnd:5e:traits:24"
+        "_id": "dnd:5e:traits:24"
       },
       {
         "name": "Breath Weapon",
-        "id": "dnd:5e:traits:25"
+        "_id": "dnd:5e:traits:25"
       },
       {
         "name": "Damage Resistance (Dragonborn)",
-        "id": "dnd:5e:traits:36"
+        "_id": "dnd:5e:traits:36"
       }
 
     ],
@@ -345,49 +345,49 @@
         "from": [
           {
             "name": "Breath Weapon (Black)",
-            "id": "dnd:5e:traits:26"
+            "_id": "dnd:5e:traits:26"
           },
           {
             "name": "Breath Weapon (Blue)",
-            "id": "dnd:5e:traits:27"
+            "_id": "dnd:5e:traits:27"
           },
           {
             "name": "Breath Weapon (Brass)",
-            "id": "dnd:5e:traits:28"
+            "_id": "dnd:5e:traits:28"
           },
           {
             "name": "Breath Weapon (Bronze)",
-            "id": "dnd:5e:traits:29"
+            "_id": "dnd:5e:traits:29"
           },
           {
             "name": "Breath Weapon (Copper)",
-            "id": "dnd:5e:traits:30"
+            "_id": "dnd:5e:traits:30"
           },
           {
             "name": "Breath Weapon (Gold)",
-            "id": "dnd:5e:traits:31"
+            "_id": "dnd:5e:traits:31"
           },
           {
             "name": "Breath Weapon (Green)",
-            "id": "dnd:5e:traits:32"
+            "_id": "dnd:5e:traits:32"
           },
           {
             "name": "Breath Weapon (Red)",
-            "id": "dnd:5e:traits:33"
+            "_id": "dnd:5e:traits:33"
           },
           {
             "name": "Breath Weapon (Silver)",
-            "id": "dnd:5e:traits:34"
+            "_id": "dnd:5e:traits:34"
           },
           {
             "name": "Breath Weapon (White)",
-            "id": "dnd:5e:traits:35"
+            "_id": "dnd:5e:traits:35"
           }
         ],
         "type": "trait"
       },
     "subraces": [],
-    "id": "dnd:5e:races:5"
+    "_id": "dnd:5e:races:5"
   },
   {
     "name": "Gnome",
@@ -408,11 +408,11 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:5",
+        "_id": "dnd:5e:languages:5",
         "name": "Gnomish"
       }
     ],
@@ -423,26 +423,26 @@
     "traits": [
       {
         "name": "Darkvision (Gnome)",
-        "id": "dnd:5e:traits:42"
+        "_id": "dnd:5e:traits:42"
       },
       {
         "name": "Gnome Cunning",
-        "id": "dnd:5e:traits:43"
+        "_id": "dnd:5e:traits:43"
       }
 
     ],
     "trait_options": {},
     "subraces": [
       {
-        "id": "dnd:5e:subraces:7",
+        "_id": "dnd:5e:subraces:7",
         "name": "Forest Gnome"
       },
       {
-        "id": "dnd:5e:subraces:8",
+        "_id": "dnd:5e:subraces:8",
         "name": "Rock Gnome"
       }
     ],
-    "id": "dnd:5e:races:6"
+    "_id": "dnd:5e:races:6"
   },
   {
     "name": "Half-Elf",
@@ -463,11 +463,11 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:5",
+        "_id": "dnd:5e:languages:5",
         "name": "Gnomish"
       }
     ],
@@ -476,7 +476,7 @@
       "type": "languages",
       "from": [
         {
-          "id": "dnd:5e:languages",
+          "_id": "dnd:5e:languages",
           "name": "Any"
         }
       ]
@@ -485,21 +485,21 @@
     "traits": [
       {
         "name": "Darkvision (Half-Elf)",
-        "id": "dnd:5e:traits:48"
+        "_id": "dnd:5e:traits:48"
       },
       {
         "name": "Fey Ancestry",
-        "id": "dnd:5e:traits:49"
+        "_id": "dnd:5e:traits:49"
       },
       {
         "name": "Skill Versatility",
-        "id": "dnd:5e:traits:50"
+        "_id": "dnd:5e:traits:50"
       }
 
     ],
     "trait_options": {},
     "subraces": [],
-    "id": "dnd:5e:races:7"
+    "_id": "dnd:5e:races:7"
   },
   {
     "name": "Half-Orc",
@@ -519,17 +519,17 @@
     "starting_proficiencies": [
       {
         "name": "Skill: Intimidation",
-        "id": "dnd:5e:proficiencies:112"
+        "_id": "dnd:5e:proficiencies:112"
       }
     ],
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:8",
+        "_id": "dnd:5e:languages:8",
         "name": "Orcish"
       }
     ],
@@ -538,21 +538,21 @@
     "traits": [
       {
         "name": "Darkvision (Half-Orc)",
-        "id": "dnd:5e:traits:51"
+        "_id": "dnd:5e:traits:51"
       },
       {
         "name": "Savage Attacks",
-        "id": "dnd:5e:traits:52"
+        "_id": "dnd:5e:traits:52"
       },
       {
         "name": "Restless Endurance",
-        "id": "dnd:5e:traits:53"
+        "_id": "dnd:5e:traits:53"
       }
 
     ],
     "trait_options": {},
     "subraces": [],
-    "id": "dnd:5e:races:8"
+    "_id": "dnd:5e:races:8"
   },
   {
     "name": "Tiefling",
@@ -573,11 +573,11 @@
     "starting_proficiency_options": {},
     "languages": [
       {
-        "id": "dnd:5e:languages:1",
+        "_id": "dnd:5e:languages:1",
         "name": "Common"
       },
       {
-        "id": "dnd:5e:languages:9",
+        "_id": "dnd:5e:languages:9",
         "name": "Infernal"
       }
     ],
@@ -586,19 +586,19 @@
     "traits": [
       {
         "name": "Darkvision (Tiefling)",
-        "id": "dnd:5e:traits:54"
+        "_id": "dnd:5e:traits:54"
       },
       {
         "name": "Hellish Resistance",
-        "id": "dnd:5e:traits:55"
+        "_id": "dnd:5e:traits:55"
       },
       {
         "name": "Infernal Legacy",
-        "id": "dnd:5e:traits:56"
+        "_id": "dnd:5e:traits:56"
       }
     ],
     "trait_options": {},
     "subraces": [],
-    "id": "dnd:5e:races:9"
+    "_id": "dnd:5e:races:9"
   }
 ]

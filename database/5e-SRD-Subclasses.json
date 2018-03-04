@@ -1,6 +1,6 @@
 [{
   "class": {
-    "id": "dnd:5e:classes:1",
+    "_id": "dnd:5e:classes:1",
     "name": "Barbarian"
   },
   "name": "Berserker",
@@ -9,17 +9,17 @@
   "features": [
     {
       "name": "Primal Path",
-      "id": "dnd:5e:features:5"
+      "_id": "dnd:5e:features:5"
     },
     {
       "name": "Frenzy",
-      "id": "dnd:5e:features:6"
+      "_id": "dnd:5e:features:6"
     }
   ],
-  "id": "dnd:5e:subclasses:1"
+  "_id": "dnd:5e:subclasses:1"
 }, {
   "class": {
-    "id": "dnd:5e:classes:2",
+    "_id": "dnd:5e:classes:2",
     "name": "Bard"
   },
   "name": "Lore",
@@ -28,10 +28,10 @@
   "features": [
 
   ],
-  "id": "dnd:5e:subclasses:2"
+  "_id": "dnd:5e:subclasses:2"
 }, {
   "class": {
-    "id": "dnd:5e:classes:3",
+    "_id": "dnd:5e:classes:3",
     "name": "Cleric"
   },
   "name": "Life",
@@ -44,106 +44,106 @@
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:28",
+      "_id": "dnd:5e:spells:28",
       "name": "Bless"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:66",
+      "_id": "dnd:5e:spells:66",
       "name": "Cure Wounds"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:167",
+      "_id": "dnd:5e:spells:167",
       "name": "Lesser Restoration"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:265",
+      "_id": "dnd:5e:spells:265",
       "name": "Spiritual Weapon"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:24",
+      "_id": "dnd:5e:spells:24",
       "name": "Beacon of Hope"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:236",
+      "_id": "dnd:5e:spells:236",
       "name": "Revivify"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:71",
+      "_id": "dnd:5e:spells:71",
       "name": "Death Ward"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:184",
+      "_id": "dnd:5e:spells:184",
       "name": "Mass Cure Wounds"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:226",
+      "_id": "dnd:5e:spells:226",
       "name": "Raise Dead"
     }
   }],
-  "id": "dnd:5e:subclasses:3"
+  "_id": "dnd:5e:subclasses:3"
 }, {
   "class": {
-    "id": "dnd:5e:classes:4",
+    "_id": "dnd:5e:classes:4",
     "name": "Druid"
   },
   "name": "Land",
@@ -156,791 +156,791 @@
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:151",
+      "_id": "dnd:5e:spells:151",
       "name": "Hold Person"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:263",
+      "_id": "dnd:5e:spells:263",
       "name": "Spike Growth"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:257",
+      "_id": "dnd:5e:spells:257",
       "name": "Sleet Storm"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:258",
+      "_id": "dnd:5e:spells:258",
       "name": "Slow"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:123",
+      "_id": "dnd:5e:spells:123",
       "name": "Freedom of Movement"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:152",
+      "_id": "dnd:5e:spells:152",
       "name": "Holy Aura"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:45",
+      "_id": "dnd:5e:spells:45",
       "name": "Commune"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Arctic",
-      "id": "dnd:5e:features:105"
+      "_id": "dnd:5e:features:105"
     }],
     "spell": {
-      "id": "dnd:5e:spells:47",
+      "_id": "dnd:5e:spells:47",
       "name": "Comprehend Languages"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:196",
+      "_id": "dnd:5e:spells:196",
       "name": "Mirror Image"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:198",
+      "_id": "dnd:5e:spells:198",
       "name": "Misty Step"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:297",
+      "_id": "dnd:5e:spells:297",
       "name": "Water Breathing"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:298",
+      "_id": "dnd:5e:spells:298",
       "name": "Water Walk"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:60",
+      "_id": "dnd:5e:spells:60",
       "name": "Control Water"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:123",
+      "_id": "dnd:5e:spells:123",
       "name": "Freedom of Movement"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:52",
+      "_id": "dnd:5e:spells:52",
       "name": "Conjure Elemental"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Coast",
-      "id": "dnd:5e:features:106"
+      "_id": "dnd:5e:features:106"
     }],
     "spell": {
-      "id": "dnd:5e:spells:241",
+      "_id": "dnd:5e:spells:241",
       "name": "Scrying"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:32",
+      "_id": "dnd:5e:spells:32",
       "name": "Blur"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:253",
+      "_id": "dnd:5e:spells:253",
       "name": "Silence"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:62",
+      "_id": "dnd:5e:spells:62",
       "name": "Create Food and Water"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:222",
+      "_id": "dnd:5e:spells:222",
       "name": "Protection From Energy"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:29",
+      "_id": "dnd:5e:spells:29",
       "name": "Blight"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:141",
+      "_id": "dnd:5e:spells:141",
       "name": "Hallucinatory Terrain"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:160",
+      "_id": "dnd:5e:spells:160",
       "name": "Insect Plague"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Desert",
-      "id": "dnd:5e:features:107"
+      "_id": "dnd:5e:features:107"
     }],
     "spell": {
-      "id": "dnd:5e:spells:294",
+      "_id": "dnd:5e:spells:294",
       "name": "Wall of Stone"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:23",
+      "_id": "dnd:5e:spells:23",
       "name": "Barkskin"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:262",
+      "_id": "dnd:5e:spells:262",
       "name": "Spider Climb"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:34",
+      "_id": "dnd:5e:spells:34",
       "name": "Call Lightning"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:210",
+      "_id": "dnd:5e:spells:210",
       "name": "Plant Growth"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:83",
+      "_id": "dnd:5e:spells:83",
       "name": "Divination"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:123",
+      "_id": "dnd:5e:spells:123",
       "name": "Freedom of Movement"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:46",
+      "_id": "dnd:5e:spells:46",
       "name": "Commune With Nature"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Forest",
-      "id": "dnd:5e:features:108"
+      "_id": "dnd:5e:features:108"
     }],
     "spell": {
-      "id": "dnd:5e:spells:284",
+      "_id": "dnd:5e:spells:284",
       "name": "Tree Stride"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:160",
+      "_id": "dnd:5e:spells:160",
       "name": "Invisibility"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:203",
+      "_id": "dnd:5e:spells:203",
       "name": "Pass Without Trace"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:70",
+      "_id": "dnd:5e:spells:70",
       "name": "Daylight"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:143",
+      "_id": "dnd:5e:spells:143",
       "name": "Haste"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:83",
+      "_id": "dnd:5e:spells:83",
       "name": "Divination"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:123",
+      "_id": "dnd:5e:spells:123",
       "name": "Freedom of Movement"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:89",
+      "_id": "dnd:5e:spells:89",
       "name": "Dream"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Grassland",
-      "id": "dnd:5e:features:109"
+      "_id": "dnd:5e:features:109"
     }],
     "spell": {
-      "id": "dnd:5e:spells:160",
+      "_id": "dnd:5e:spells:160",
       "name": "Insect Plague"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:262",
+      "_id": "dnd:5e:spells:262",
       "name": "Spider Climb"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:263",
+      "_id": "dnd:5e:spells:263",
       "name": "Spike Growth"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:170",
+      "_id": "dnd:5e:spells:170",
       "name": "Lightning Bolt"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:189",
+      "_id": "dnd:5e:spells:189",
       "name": "Meld Into Stone"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:267",
+      "_id": "dnd:5e:spells:267",
       "name": "Stone Shape"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:268",
+      "_id": "dnd:5e:spells:268",
       "name": "Stoneskin"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:204",
+      "_id": "dnd:5e:spells:204",
       "name": "Passwall"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Mountain",
-      "id": "dnd:5e:features:110"
+      "_id": "dnd:5e:features:110"
     }],
     "spell": {
-      "id": "dnd:5e:spells:294",
+      "_id": "dnd:5e:spells:294",
       "name": "Wall of Stone"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:1",
+      "_id": "dnd:5e:spells:1",
       "name": "Acid Arrow"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:68",
+      "_id": "dnd:5e:spells:68",
       "name": "Darkness"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:298",
+      "_id": "dnd:5e:spells:298",
       "name": "Water Walk"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:266",
+      "_id": "dnd:5e:spells:266",
       "name": "Stinking Cloud"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:123",
+      "_id": "dnd:5e:spells:123",
       "name": "Freedom of Movement"
     }
   }, {
     "level_acquired": 7,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:172",
+      "_id": "dnd:5e:spells:172",
       "name": "Locate Creature"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:160",
+      "_id": "dnd:5e:spells:160",
       "name": "Insect Plague"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [{
       "name": "Circle of the Land: Swamp",
-      "id": "dnd:5e:features:112"
+      "_id": "dnd:5e:features:112"
     }],
     "spell": {
-      "id": "dnd:5e:spells:241",
+      "_id": "dnd:5e:spells:241",
       "name": "Scrying"
     }
   }],
-  "id": "dnd:5e:subclasses:4"
+  "_id": "dnd:5e:subclasses:4"
 }, {
   "class": {
-    "id": "dnd:5e:classes:5",
+    "_id": "dnd:5e:classes:5",
     "name": "Fighter"
   },
   "name": "Champion",
@@ -949,10 +949,10 @@
   "features": [
 
   ],
-  "id": "dnd:5e:subclasses:5"
+  "_id": "dnd:5e:subclasses:5"
 }, {
   "class": {
-    "id": "dnd:5e:classes:6",
+    "_id": "dnd:5e:classes:6",
     "name": "Monk"
   },
   "name": "Open Hand",
@@ -961,10 +961,10 @@
   "features": [
 
   ],
-  "id": "dnd:5e:subclasses:6"
+  "_id": "dnd:5e:subclasses:6"
 }, {
   "class": {
-    "id": "dnd:5e:classes:7",
+    "_id": "dnd:5e:classes:7",
     "name": "Paladin"
   },
   "name": "Devotion",
@@ -977,106 +977,106 @@
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:223",
+      "_id": "dnd:5e:spells:223",
       "name": "Protection from Evil and Good"
     }
   }, {
     "level_acquired": 3,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:239",
+      "_id": "dnd:5e:spells:239",
       "name": "Sanctuary"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:167",
+      "_id": "dnd:5e:spells:167",
       "name": "Lesser Restoration"
     }
   }, {
     "level_acquired": 5,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:305",
+      "_id": "dnd:5e:spells:305",
       "name": "Zone of Truth"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:24",
+      "_id": "dnd:5e:spells:24",
       "name": "Beacon of Hope"
     }
   }, {
     "level_acquired": 9,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:82",
+      "_id": "dnd:5e:spells:82",
       "name": "Dispel Magic"
     }
   }, {
     "level_acquired": 13,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:123",
+      "_id": "dnd:5e:spells:123",
       "name": "Freedom of Movement"
     }
   }, {
     "level_acquired": 17,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:45",
+      "_id": "dnd:5e:spells:45",
       "name": "Commune"
     }
   }, {
     "level_acquired": 17,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:114",
+      "_id": "dnd:5e:spells:114",
       "name": "Flame Strike"
     }
   }],
-  "id": "dnd:5e:subclasses:7"
+  "_id": "dnd:5e:subclasses:7"
 }, {
   "class": {
-    "id": "dnd:5e:classes:8",
+    "_id": "dnd:5e:classes:8",
     "name": "Ranger"
   },
   "name": "Hunter",
@@ -1085,10 +1085,10 @@
   "features": [
 
   ],
-  "id": "dnd:5e:subclasses:8"
+  "_id": "dnd:5e:subclasses:8"
 }, {
   "class": {
-    "id": "dnd:5e:classes:9",
+    "_id": "dnd:5e:classes:9",
     "name": "Rogue"
   },
   "name": "Thief",
@@ -1097,10 +1097,10 @@
   "features": [
 
   ],
-  "id": "dnd:5e:subclasses:9"
+  "_id": "dnd:5e:subclasses:9"
 }, {
   "class": {
-    "id": "dnd:5e:classes:10",
+    "_id": "dnd:5e:classes:10",
     "name": "Sorcerer"
   },
   "name": "Draconic",
@@ -1109,10 +1109,10 @@
   "features": [
 
   ],
-  "id": "dnd:5e:subclasses:10"
+  "_id": "dnd:5e:subclasses:10"
 }, {
   "class": {
-    "id": "dnd:5e:classes:11",
+    "_id": "dnd:5e:classes:11",
     "name": "Warlock"
   },
   "name": "Fiend",
@@ -1125,117 +1125,117 @@
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:33",
+      "_id": "dnd:5e:spells:33",
       "name": "Burning Hands"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:44",
+      "_id": "dnd:5e:spells:44",
       "name": "Command"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:30",
+      "_id": "dnd:5e:spells:30",
       "name": "Blindness/Deafness"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:240",
+      "_id": "dnd:5e:spells:240",
       "name": "Scorching Ray"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:110",
+      "_id": "dnd:5e:spells:110",
       "name": "Fireball"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:266",
+      "_id": "dnd:5e:spells:266",
       "name": "Stinking Cloud"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:111",
+      "_id": "dnd:5e:spells:111",
       "name": "Fire Shield"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:291",
+      "_id": "dnd:5e:spells:291",
       "name": "Wall of Fire"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:114",
+      "_id": "dnd:5e:spells:114",
       "name": "Flame Strike"
     }
   }, {
     "level_acquired": 1,
     "spell_acquisition_method": {
       "name": "level",
-      "id": ""
+      "_id": ""
     },
     "prerequisites": [],
     "spell": {
-      "id": "dnd:5e:spells:140",
+      "_id": "dnd:5e:spells:140",
       "name": "Hallow"
     }
   }],
-  "id": "dnd:5e:subclasses:11"
+  "_id": "dnd:5e:subclasses:11"
 }, {
   "class": {
-    "id": "dnd:5e:classes:12",
+    "_id": "dnd:5e:classes:12",
     "name": "Wizard"
   },
   "name": "Evocation",
@@ -1244,5 +1244,5 @@
   "features": [
 
   ],
-  "id": "dnd:5e:subclasses:12"
+  "_id": "dnd:5e:subclasses:12"
 }]
